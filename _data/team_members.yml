@@ -24,6 +24,6 @@
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="https://learndatalab.github.io/vacancies">openings</a> for more info
-  email:  
+  email: youremail@skku.edu
   number_educ: 0
   

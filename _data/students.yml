@@ -1,0 +1,25 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+
+- name: Heesoo Jung
+  photo: rock.jpg
+  info: BS student
+  email: steve305@o365.skku.edu
+  number_educ: 0
+  education1:
+
+- name: Dongwon Jung
+  photo: rock.jpg
+  info: BS student
+  email: dg52316@o365.skku.edu
+  number_educ: 0
+  education1:
+
+

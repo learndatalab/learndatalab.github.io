@@ -1,17 +1,19 @@
 ---
-title: "Sanders Lab - Publications"
+title: "LearnData Lab at SKKU - Publications"
 layout: gridlay
-excerpt: "Sanders Lab -- Publications."
+excerpt: "LearnData Lab at SKKU -- Publications."
 sitemap: false
 permalink: /publications/
 ---
 
 
-# Publications
+# (Selected) Publications
 
----
+<!-- ## Group highlights
 
-## Featured
+<!-- (For a full list see [below](#full-list)) -->
+(For a full list see my [CV](http://hogunpark.com/about/cv.pdf))
+ <!-- or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012)) -->
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -24,10 +26,14 @@ permalink: /publications/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
- <div class="row">
- 	<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="25%" style="float: right" />
-  <p><a class="pub1" href="{{ publi.link.url }}">{{ publi.title }}</a></p>
-  <a class="pub2"> {{ publi.link.display }} </a>
+ <div class="well">
+  <pubtit>{{ publi.title }}</pubtit>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
+  <p>{{ publi.description }}</p>
+  <p><em>{{ publi.authors }}</em></p>
+  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
+  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
+  <p> {{ publi.news2 }}</p>
  </div>
 </div>
 
@@ -45,15 +51,17 @@ permalink: /publications/
 </div>
 {% endif %}
 
-<p> &nbsp; </p>
+<!-- <p> &nbsp; </p>  -->
 
----
 
-<div>
-## Full List
+<!-- ## Selected List -->
 
-For a full list, please go to <a class="regtext" href="https://scholar.google.com/citations?user=O1EuSPYAAAAJ">Google Scholar</a> or <a class="regtext" href="https://www.ncbi.nlm.nih.gov/pubmed?term=Sanders%20SJ%5BAuthor%5D">Pubmed</a>.
-<br><br><br>
+{% for publi in site.data.publist %}
 
-</div>
+  {{ publi.title }} <br />
+  {{ publi.authors }} <br /> <em>{{ publi.link.display }}</em> <br />
+  <em>{{ publi.news1 }} </em>
+
+{% endfor %}
+
 

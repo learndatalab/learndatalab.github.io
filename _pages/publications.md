@@ -12,7 +12,7 @@ permalink: /publications/
 <!-- ## Group highlights
 
 <!-- (For a full list see [below](#full-list)) -->
-(For a full list see my [CV](http://hogunpark.com/about/cv.pdf))
+**For a full list, please see my [CV](http://hogunpark.com/about/cv.pdf)
  <!-- or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012)) -->
 
 {% assign number_printed = 0 %}

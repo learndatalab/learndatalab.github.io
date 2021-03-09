@@ -1,13 +1,27 @@
-- title: "Constraint-based Machine Learning (in submission) <br /> <br /> Providing Explainations to Representation Learning Models (in submission)"
+- title: "Constraint-based Machine Learning"
+    authors:
+    <b>Hogun Park</b> et al.
+  link: 
+    display: "(in submission)"
   highlight: 0
+  news1: 
+
+- title: "Providing Explainations to Representation Learning Models"
+    authors:
+    <b>Hogun Park</b> et al.
+  link: 
+    display: "(in submission)"
+  highlight: 0
+  news1: 
 
 - title: Finding Client-side Business Flow Tampering Vulnerabilities
-  authors:
+    authors:
     I Luk Kim, Yunhui Zheng, <b>Hogun Park</b>,  Weihang Wang, Wei You, Yousra Aafer, Xiangyu Zhang,
   link:
     display: "Proc. of 42nd International Conference on Software Engineering (ICSE 2020), 2020. (Acceptance rate: 20.91%)"
   highlight: 0
   news1: <a href="http://hogunpark.com/papers/ICSE2020-Kim-BusinessTampering.pdf" target="_black">PDF</a> 
+
   
 - title: Role Equivalence Attention for Label Propagation in Graph Neural Networks
   authors: <strong>Hogun Park</strong>, Jennifer Neville

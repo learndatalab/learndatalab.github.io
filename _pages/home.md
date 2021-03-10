@@ -44,8 +44,8 @@ We are part of the College of Computing and Informatics (소프트웨어대학) 
 We are grateful for funding from National Research Foundation of Korea(NRF), AI Department, and BK21.
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NRF.png" style="width: 170px;margin:0px 10px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_IITP.jpeg" style="width: 170px;margin:0px 20px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NRF.jpg" style="width: 170px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_IITP.jpg" style="width: 170px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_BK21.jpg" style="width: 170px">
 
 </figure>

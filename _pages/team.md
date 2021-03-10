@@ -6,15 +6,17 @@ sitemap: false
 permalink: /team/
 ---
 
-# Group Members
+### Group Members
 
  **We are  looking for new MS/PhD students and Postdocs to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-Jump to [Members](##Faculty-and-Graduate-Students), [Undergraduate Students](##Undergraduate-Students)
+Jump to [Members](####Faculty-and-Graduate-Students), [Undergraduate Students](####Undergraduate-Students)
 <!-- , [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors). -->
 
-## Faculty and Graduate Students
+<br />
+
+#### <span style="color:black;font-size:115%">Faculty and Graduate Students</span>
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -79,7 +81,7 @@ Jump to [Members](##Faculty-and-Graduate-Students), [Undergraduate Students](##U
 
 
 
-## Undergraduate Students
+#### <span style="color:black;font-size:115%"> Undergraduate Students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 

@@ -12,14 +12,14 @@
   photo: rock.jpg
   info: BS student
   email: steve305@o365.skku.edu
-  number_educ: 0
-  education1:
+  number_educ: 1
+  education1: Software / Mechanical Engineering Department
 
 - name: Dongwon Jung
   photo: rock.jpg
   info: BS student
   email: dg52316@o365.skku.edu
-  number_educ: 0
-  education1:
+  number_educ: 1
+  education1: Software Department
 
 

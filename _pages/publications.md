@@ -7,7 +7,7 @@ permalink: /publications/
 ---
 
 
-# (Selected) Publications
+### (Selected) Publications
 
 <!-- ## Group highlights
 

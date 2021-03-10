@@ -1,4 +1,4 @@
-I"Ø	<p>We are a dynamic research group at the <a href="https://en.wikipedia.org/wiki/Sungkyunkwan_University">Sungkyunkwan University (SKKU) University</a>. Our aim is to develop Machine Learning/Data Mining models and their applications on inter-connected data (e.g., human interactions, social networks, knowledge base, and sensor networks) and Natural Language.  Applications include knowledge discovery, user modeling, commonsense reasoning, recommender systems, explainable AI (XAI), sensor-based behavior prediction, and computational social science.</p>
+I"ê	<p>We are a dynamic research group at the <a href="https://en.wikipedia.org/wiki/Sungkyunkwan_University">Sungkyunkwan University (SKKU) University</a>. Our aim is to develop Machine Learning/Data Mining models and their applications on inter-connected data (e.g., human interactions, social networks, knowledge base, and sensor networks) and Natural Language.  Applications include knowledge discovery, user modeling, commonsense reasoning, recommender systems, explainable AI (XAI), sensor-based behavior prediction, and computational social science.</p>
 
 <div id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover">
     <!-- Menu -->
@@ -34,9 +34,9 @@
 <p>We are grateful for funding from National Research Foundation of Korea(NRF), AI Department, and BK21.</p>
 
 <figure class="fourth">
-  <p><img src="/images/logopic/Logo_NRF.png" style="width: 170px;margin:0px 10px" />
-  <img src="/images/logopic/Logo_IITP.jpeg" style="width: 170px;margin:0px 20px" />
-  <img src="/images/logopic/Logo_BK21.jpg" style="width: 170px" /></p>
+  <p><img src="/images/logopic/Logo_NRF.jpg" style="width: 210px;" />
+  <img src="/images/logopic/Logo_IITP.jpg" style="width: 210px;" />
+  <img src="/images/logopic/Logo_BK21.jpg" style="width: 210px" /></p>
 
 </figure>
 :ET

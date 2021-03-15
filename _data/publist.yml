@@ -14,7 +14,7 @@
   news1: 
 
 - title: Finding Client-side Business Flow Tampering Vulnerabilities
-  authors: I Luk Kim, Yunhui Zheng, Hogun Park, Weihang Wang, Wei You, Yousra Aafer, Xiangyu Zhang
+  authors: I Luk Kim, Yunhui Zheng, <b>Hogun Park</b>, Weihang Wang, Wei You, Yousra Aafer, Xiangyu Zhang
   link:
     display: "Proc. of 42nd International Conference on Software Engineering (ICSE 2020), 2020. (Acceptance rate: 20.91%)"
   highlight: 0
@@ -53,7 +53,7 @@
   link:
     display: "Proc. of 27th The Web Conference (WWW 2018) - Cognitive Computing Track, 2018."
   highlight: 0
-  news1: <a href="http://hogunpark.com/papers/bibtex/HPark-www2018-procedure.html" target="_black">PDF</a>  
+  news1: <a href="http://hogunpark.com/papers/www2018-procedure.pdf" target="_black">PDF</a>  
 
 
 - title: "Deep Dynamic Relational Classifiers: Exploiting Dynamic Neighborhoods in Complex Networks"

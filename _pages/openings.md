@@ -6,7 +6,7 @@ sitemap: false
 permalink: /vacancies
 ---
 
-### Open positions
+## Open positions
 
 **Note: We currently have open positions for additional MS, PhD and PostDoc positions.
 <!-- Take a look at the [veni fellowship](https://www.nwo.nl/en/calls/nwo-talent-programme-veni-science-domain) or the Marie Curie fellowship (currently closed, next deadline probably Fall 2021, [here is last years call]({{ site.baseurl }}/downloads/h2020-wp1820-msca_en.pdf)).**

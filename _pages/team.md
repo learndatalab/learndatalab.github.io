@@ -6,7 +6,7 @@ sitemap: false
 permalink: /team/
 ---
 
-### Group Members
+## Group Members
 
  **We are  looking for new MS/PhD students and Postdocs to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 

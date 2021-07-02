@@ -34,6 +34,14 @@
   number_educ: 1
   education1: AI Department
 
+- name: Gayoung Kim
+  photo: rock.jpg
+  info: Master Student, will start Aug 2021
+  email: 
+  number_educ: 1
+  education1: AI Department
+
+
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="https://learndatalab.github.io/vacancies">openings</a> for more info

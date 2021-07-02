@@ -21,14 +21,14 @@
   education1: EECS Department
   
 - name: Heesoo Jung
-  photo: heesoo.png
+  photo: heesoo.jpg
   info: Master Student, will start Aug 2021
   email: steve305@o365.skku.edu
   number_educ: 1
   education1: AI Department
 
 - name: Gyeong-Rok Pak
-  photo: gyeongrok.png
+  photo: gyeongrok.jpg
   info: Master Student, will start Aug 2021
   email: rnrnfjwl11@o365.skku.edu
   number_educ: 1
@@ -37,12 +37,11 @@
 - name: Gayoung Kim
   photo: rock.jpg
   info: Master Student, will start Aug 2021
-  email: 
   number_educ: 1
   education1: AI Department
 
 
-- name: "This could be you !"
+- name: "This could be you!"
   photo: rock.jpg
   info: See <a href="https://learndatalab.github.io/vacancies">openings</a> for more info
   email: youremail@skku.edu

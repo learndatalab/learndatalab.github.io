@@ -34,13 +34,19 @@
   number_educ: 1
   education1: AI Department
 
+- name: Sookyung Kim
+  photo: sookyung
+  info: Master Student, will start Aug. 2021
+  email: tnrud929@g.skku.edu
+  number_educ: 1
+  education1: AI Department
+  
 - name: Gayoung Kim
   photo: rock.jpg
   info: Master Student, will start Aug. 2021
   email: tobeupdated@unknown.edu
   number_educ: 1
   education1: AI Department
-
 
 - name: "This could be you!"
   photo: rock.jpg

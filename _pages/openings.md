@@ -19,9 +19,10 @@ You will have the chance to work on the grand challenges of machine learning and
 #### Current open positions
 
 - Explainable AI for ML models
-- The next of Graph Neural Networks (or Network Embedding)
-- Natural Language Processing and Commonsense Reasoning for the next of QnA system
-- Federated Learning on Inter-connected data
+- The Next of Graph Neural Networks (or Network Embedding)
+- Knowledge Graph Embedding for Recommender System
+- Natural Language Processing and Commonsense Reasoning for the Next of QnA System
+- Federated Learning on Inter-connected Data
 - ML models for Sensor Systems (EMG/EEG)
 - (You can also suggest any new topic!)
 

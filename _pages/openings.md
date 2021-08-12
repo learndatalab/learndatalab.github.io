@@ -20,7 +20,7 @@ You will have the chance to work on the grand challenges of machine learning and
 
 - Explainable AI for ML models
 - The next of Graph Neural Networks (or Network Embedding)
-- Commonsense reasoning for the next of QnA system
+- Natural Language Processing and Commonsense Reasoning for the next of QnA system
 - Federated Learning on Inter-connected data
 - ML models for Sensor Systems (EMG/EEG)
 - (You can also suggest any new topic!)

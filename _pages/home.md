@@ -41,7 +41,7 @@ We are a dynamic research group at the [Sungkyunkwan University (SKKU) Universit
 
 We are part of the College of Computing and Informatics (소프트웨어융합대학) at Sungkyunkwan University (SKKU) and affiliated with Computer Science Engineering (소프트웨어학과), Artificial Intelligence (인공지능대학원), and Electrical and Computer Engineering (전자전기컴퓨터공학과대학원) departments.
 
-We are grateful for funding from National Research Foundation of Korea (NRF), BK21, and Information & Communications Technology Planning & Evaluation (IITP).
+We are grateful for funding from National Research Foundation of Korea (NRF), BK21, Information & Communications Technology Planning & Evaluation (IITP), LG Electronics, and NAVER.
 <br />
 
 <!-- <figure class="fourth">

@@ -37,7 +37,7 @@ We are a dynamic research group at the [Sungkyunkwan University (SKKU) Universit
 </div>
 
 
- **We are  looking for passionate new MS/PhD students and Postdocs to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are  looking for passionate new PhD students and Postdocs to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 We are part of the College of Computing and Informatics (소프트웨어융합대학) at Sungkyunkwan University (SKKU) and affiliated with Computer Science Engineering (소프트웨어학과), Artificial Intelligence (인공지능대학원), and Electrical and Computer Engineering (전자전기컴퓨터공학과대학원) departments.
 

@@ -48,6 +48,14 @@
   number_educ: 1
   education1: AI Department
 
+- name: Jeonghoon Kim
+  photo: Jeonghoon.png
+  info: Master Student, will start Feb. 2022
+  email: kjh9503@g.skku.edu
+  number_educ: 1
+  education1: AI Department
+
+
 - name: "This could be you!"
   photo: rock.jpg
   info: See <a href="https://learndatalab.github.io/vacancies">openings</a> for more info

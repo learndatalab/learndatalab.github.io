@@ -8,7 +8,7 @@ permalink: /vacancies
 
 ## Open positions
 
-**Note: We currently have open positions for additional MS, PhD and PostDoc positions.
+**Note: We currently have open positions for additional PhD and PostDoc positions.
 <!-- Take a look at the [veni fellowship](https://www.nwo.nl/en/calls/nwo-talent-programme-veni-science-domain) or the Marie Curie fellowship (currently closed, next deadline probably Fall 2021, [here is last years call]({{ site.baseurl }}/downloads/h2020-wp1820-msca_en.pdf)).**
  -->
 
@@ -32,8 +32,8 @@ You will have the chance to work on the grand challenges of machine learning and
  -->
 <!-- It might be interesting to look at some past job advertisements. While the projects keep changing, the themes are still roughly the same. You can download them [here]({{ site.baseurl }}/downloads/PD.pdf), [here]({{ site.baseurl }}/downloads/PHD1.pdf), or [here]({{ site.baseurl }}/downloads/PHD2.pdf). -->
 
-#### Applications for MS/PhD and Postdoc positions
-If you are interested in working with us as a MS/PhD student or postdoc, please send me an [email](mailto:hogunpark@g.skku.edu). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. 
+#### Applications for PhD and Postdoc positions
+If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:hogunpark@g.skku.edu). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. 
 
 **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. 
 

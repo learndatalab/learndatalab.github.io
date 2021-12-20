@@ -55,6 +55,20 @@
   number_educ: 1
   education1: AI Department
   
+- name: Jongwon Park
+  photo: jongwon.jpg
+  info: M.S. Student (Spring 2022-)
+  email: jongwon208@o365.skku.edu  
+  number_educ: 1
+  education1: AI Department
+
+- name: Soonwook Park
+  photo: rock.jpg
+  info: M.S./Ph.D. Student (Spring 2022-)
+  email: TBD@AI
+  number_educ: 1
+  education1: AI Department
+  
 - name: "This could be you!"
   photo: rock.jpg
   info: See <a href="https://learndatalab.github.io/vacancies">openings</a> for more info

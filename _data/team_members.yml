@@ -3,62 +3,67 @@
   info: Assistant Professor, started Sept. 2020
   email: hogunpark@g.skku.edu
   number_educ: 2
-  education1: Software, AI, CSE, EECS Departments
+  education1: Software, AI, Applied AI, EECS Departments
   education2: <a href="http://hogunpark.com">Personal Webpage</a>
   
 - name: Hyunjoo Kang
   photo: hyunjoo.jpeg
-  info: Master Student
+  info: M.S. Student (Spring 2021-)
   email: neutor@g.skku.edu
   number_educ: 1
   education1: AI Department
   
 - name: Soyoung Lee
   photo: soyoung.jpg
-  info: Master Student
+  info: M.S. Student (Spring 2021-)
   email: lsy7451@g.skku.edu
   number_educ: 1
   education1: EECS Department
   
 - name: Heesoo Jung
   photo: heesoo.jpg
-  info: Master Student
+  info: M.S. Student (Fall 2021-)
   email: steve305@g.skku.edu
   number_educ: 1
   education1: AI Department
 
 - name: Gyeong-Rok Pak
   photo: gyeongrok.jpg
-  info: Master Student
+  info: M.S. Student (Fall 2021-)
   email: rnrnfjwl11@skku.edu
   number_educ: 1
   education1: AI Department
 
 - name: Sookyung Kim
   photo: sookyung.jpg
-  info: Master Student
+  info: M.S. Student (Fall 2021-)
   email: tnrud929@g.skku.edu
   number_educ: 1
   education1: AI Department
   
 - name: Gayoung Kim
   photo: Gayoung.png
-  info: Master Student
+  info: M.S. Student (Fall 2021-)
   email: ga20171001@gmail.com
   number_educ: 1
   education1: AI Department
 
 - name: Jeonghoon Kim
   photo: Jeonghoon.png
-  info: Master Student, will start Feb. 2022
+  info: M.S. Student (Spring 2022-)
   email: kjh9503@g.skku.edu
   number_educ: 1
   education1: AI Department
 
+- name: Jongwon Park
+  photo: jongwon.jpg
+  info: M.S. Student (Spring 2022-)
+  number_educ: 1
+  education1: AI Department
 
 - name: Soonwook Park
   photo: rock.jpg
-  info: M.S./Ph.D. Student, will start Feb. 2022
+  info: M.S./Ph.D. Student (Spring 2022-)
   email: TBD@AI
   number_educ: 1
   education1: AI Department

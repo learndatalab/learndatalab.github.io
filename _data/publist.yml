@@ -13,7 +13,7 @@
   highlight: 0
   news1: 
 
-- title: Providing Explainations to Representation Learning Models
+- title: Providing Node-level Local Explanation for node2vec through Reinforcement Learning
   authors: Hyunju Kang and <b>Hogun Park</b>
   link:
     display: "Proc. of Machine Learning on Graphs (MLoG) Workshop at the 15th ACM Conference on Web Search and Data Mining (WSDM 2022), 2022."

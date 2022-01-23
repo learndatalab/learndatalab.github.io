@@ -1,4 +1,11 @@
 
+- title: Providing Explainations to Representation Learning Models
+  authors: <b>Hogun Park</b> et al.
+  link:
+    display: "(in submission)"
+  highlight: 0
+  news1: 
+
 - title: Constraint-based Machine Learning
   authors: <b>Hogun Park</b> et al.
   link:
@@ -7,12 +14,12 @@
   news1: 
 
 - title: Providing Explainations to Representation Learning Models
-  authors: <b>Hogun Park</b> et al.
+  authors: Hyunju Kang and <b>Hogun Park</b>
   link:
-    display: "(in submission)"
+    display: "Proc. of Machine Learning on Graphs (MLoG) Workshop at the 15th ACM Conference on Web Search and Data Mining (WSDM 2022), 2022."
   highlight: 0
-  news1: 
-
+  news1: (accepted)
+  
 - title: Finding Client-side Business Flow Tampering Vulnerabilities
   authors: I Luk Kim, Yunhui Zheng, <b>Hogun Park</b>, Weihang Wang, Wei You, Yousra Aafer, Xiangyu Zhang
   link:

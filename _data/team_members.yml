@@ -75,6 +75,20 @@
   email: jwjw9603@g.skku.edu
   number_educ: 1
   education1: AI Department
+
+- name: Sangho Lee
+  photo: rock.jpg
+  info: M.S. Student (Spring 2022-)
+  email: lsh3982@g.skku.edu
+  number_educ: 1
+  education1: AI Department
+  
+- name: Jimyeong Han
+  photo: rock.jpg
+  info: M.S. Student (Fall 2022-)
+  email: jonsnow@g.skku.edu
+  number_educ: 1
+  education1: AI Department
   
 - name: "This could be you!"
   photo: rock.jpg

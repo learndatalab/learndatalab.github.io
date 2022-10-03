@@ -19,7 +19,7 @@ We are a dynamic research group at the [Sungkyunkwan University (SKKU)](https://
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/intro1.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/intro1.png" alt="Slide 1" />
         </div>
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/GNNs0.jpg" alt="Slide 2" />
@@ -28,16 +28,16 @@ We are a dynamic research group at the [Sungkyunkwan University (SKKU)](https://
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/GNNs1.jpg" alt="Slide 3" />
         </div>        
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/intro3.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/intro3.png" alt="Slide 4" />
         </div>
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/intro2.jpg" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/intro2.png" alt="Slide 5" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/intro4.jpg" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/intro4.png" alt="Slide 6" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/intro5.jpg" alt="Slide 7" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/intro5.png" alt="Slide 7" />
         </div>
         
     </div>

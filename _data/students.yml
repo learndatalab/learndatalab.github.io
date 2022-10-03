@@ -9,15 +9,9 @@
 #  education4:
 
 
-- name: Dongwon Jung
-  photo: dongwon.jpg
-  info: BS student
-  number_educ: 1
-  education1: Software Department
-
-- name: Gyuran Kang
+- name: Minku Kang
   photo: rock.jpg
   info: BS student
   number_educ: 1
-  education1: AI/Chemical Engineering Deparments
+  education1: Software Deparment
 

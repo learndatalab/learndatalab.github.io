@@ -1,4 +1,25 @@
+- title: Multi-Modal Recommender System for E-Commerce Shopping Data
+  authors: Sungjune Kim et al.  (Corresponding Author: <b>Hogun Park</b>+, Sangpil Kim+) (+ means equal contribution.)
+  link:
+    display: "(in submission)"
+  highlight: 0
+  news1: 
 
+- title: Deep Learning-based Gesture Recognition with EMG Sensors
+  authors: Srinivas Gandla et al.  (Corresponding Author: <b>Hogun Park</b>+, Seonkuk Kim+) (+ means equal contribution.)
+  link:
+    display: "(in submission)"
+  highlight: 0
+  news1: 
+  
+
+- title: Tackling counterfeiting using a Image Processing-based Encoding Approach.
+  authors: Srinivas Gandla et al.  (Corresponding Author: <b>Hogun Park</b>+, Seonkuk Kim+) (+ means equal contribution.)
+  link:
+    display: "(in submission)"
+  highlight: 0
+  news1: 
+  
 - title: Knowledge Graph Embedding with Numerical Atttributes
   authors: Sookyung Kim+, Gayoung Kim+, <b>Hogun Park</b> et al. (+ means equal contribution.)
   link:
@@ -37,7 +58,7 @@
   highlight: 0
   news1: 
 
-- title: Constraint-based Machine Learning
+- title: A Framework for Constraint-based Machine Learning
   authors: <b>Hogun Park</b> et al.
   link:
     display: "(in submission)"
@@ -49,7 +70,7 @@
   link:
     display: "Proc. of the Machine Learning on Graphs (MLoG) Workshop at the 15th ACM Conference on Web Search and Data Mining (WSDM 2022), 2022."
   highlight: 0
-  news1: (Accepted)
+  news1: <a href="https://mlog-workshop.github.io/papers/MLoG%20Providing%20Node-level%20Local%20Explanation%20for%20node2vec%20through%20Reinforcement%20Learning.pdf" target="_black">PDF</a> 
   
 - title: Finding Client-side Business Flow Tampering Vulnerabilities
   authors: I Luk Kim, Yunhui Zheng, <b>Hogun Park</b>, Weihang Wang, Wei You, Yousra Aafer, Xiangyu Zhang

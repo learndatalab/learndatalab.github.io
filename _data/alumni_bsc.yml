@@ -2,16 +2,22 @@
   photo: dongwon.jpg
   info: BS Student Intern
   number_educ: 1
-  education1: Currently, MS Student@CS Department, University of Southern California 
+  education1: MS Student@CS Department, University of Southern California (Current Position)
 
 - name: Gyuran Kang
   photo: rock.jpg
   info: BS Student Intern
   number_educ: 1
-  education1: Currently, MS Student@CS Department, Columbia University
+  education1: MS Student@CS Department, Columbia University (Current Position)
+
+- name: Joonwoo Kim
+  photo: rock.jpg
+  info: BS Student Intern
+  number_educ: 1
+  education1: BS Student(4th year), Statistics Department, SKKU (Current Position)
 
 - name: Joohyun Lee
   photo: rock.jpg
   info: BS Student Intern
   number_educ: 1
-  education1: Currently, BS Student@Statistic Department, Carnegie Mellon University (CMU)
+  education1: BS Student@Statistics Department, Carnegie Mellon University (CMU)(Current Position)

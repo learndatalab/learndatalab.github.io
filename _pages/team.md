@@ -192,14 +192,14 @@ Jump to [Members](####Faculty-and-Graduate-Students), [Undergraduate Students](#
 <div class="col-sm-4 clearfix">
 <h4>Master students</h4>
 {% for member in site.data.alumni_msc %}
-{{ member.name }}
+{{ member.name }}: {{ member.education1: }}
 {% endfor %}
 </div>
 
 <div class="col-sm-4 clearfix">
 <h4>Bachelor Students</h4>
 {% for member in site.data.alumni_bsc %}
-{{ member.name }}
+{{ member.name }}: {{ member.education1: }}
 {% endfor %}
 </div>
 

@@ -146,7 +146,7 @@ Jump to [Members](####Faculty-and-Graduate-Students), [Undergraduate Students](#
 
 
 
-<!-- ## Alumni
+## Alumni
 
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
@@ -204,7 +204,7 @@ Jump to [Members](####Faculty-and-Graduate-Students), [Undergraduate Students](#
 </div>
 
 </div>
- -->
+
 
 <!-- ## Administrative Support
 <a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.

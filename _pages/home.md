@@ -15,7 +15,6 @@ We are a dynamic research group at the [Sungkyunkwan University (SKKU)](https://
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
     </ol>
-
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">

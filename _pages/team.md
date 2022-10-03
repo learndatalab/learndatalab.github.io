@@ -177,9 +177,9 @@ Jump to [Members](####Faculty-and-Graduate-Students), [Undergraduate Students](#
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
-{% endif %} -->
+{% endif %}
 
-<!-- ## Former visitors, BSc/ MSc students
+ ## Former visitors, BSc/ MSc students
 <div class="row">
 
 <div class="col-sm-4 clearfix">

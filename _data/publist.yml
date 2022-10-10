@@ -12,8 +12,7 @@
   highlight: 0
   news1: 
   
-
-- title: An Image Processing-based Encoding Approach for Mitigating Counterfeiting Problems
+- title: A Feature Encoding Approach for Mitigating Counterfeiting Problems
   authors: Srinivas Gandla et al.  (Corresponding Author- <b>Hogun Park</b>, Seonkuk Kim)
   link:
     display: "(in submission)"
@@ -26,7 +25,6 @@
     display: "(in submission)"
   highlight: 0
   news1: 
-  
   
 - title: Aggregation Optimization for Recommender Systems
   authors: Heesoo Jung, <b>Hogun Park</b> et al.

@@ -20,10 +20,12 @@ You will have the chance to work on the grand challenges of machine learning and
 
 - Explainable AI for ML models
 - The Next of Graph Neural Networks (or Network Embedding)
-- Knowledge Graph Embedding for Recommender System
+- Educational Data Mining: Knowledge Tracing
+- Knowledge Graph Embedding
+- Recommender System
 - Natural Language Processing and Commonsense Reasoning for the Next of QnA System
 - Federated Learning on Inter-connected Data
-- ML models for Sensor Systems (EMG/EEG)
+- ML models for Sensor Systems (e.g., EMG)
 - (You can also suggest any new topic!)
 
 <!-- You find the current job openings here:

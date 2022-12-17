@@ -62,6 +62,13 @@
     display: "(in submission)"
   highlight: 0
   news1: 
+  
+- title: Providing Post-hoc Explanation for Node Representation Learning Models Through Inductive Conformal Predictions
+  authors: <b>Hogun Park</b>
+  link:
+    display: "IEEE ACCESS, 2023. (Accepted)"
+  highlight: 0
+  news1: 
 
 - title: Providing Node-level Local Explanation for node2vec through Reinforcement Learning
   authors: Hyunju Kang and <b>Hogun Park</b>

@@ -5,12 +5,6 @@
   highlight: 0
   news1: 
 
-- title: Deep Learning-based Gesture Recognition with EMG Sensors
-  authors: Srinivas Gandla et al.  (Corresponding Author- <b>Hogun Park</b>, Seonkuk Kim)
-  link:
-    display: "(in submission)"
-  highlight: 0
-  news1: 
   
 - title: A Feature Encoding Approach for Mitigating Counterfeiting Problems
   authors: Srinivas Gandla et al.  (Corresponding Author- <b>Hogun Park</b>, Seonkuk Kim)
@@ -63,10 +57,17 @@
   highlight: 0
   news1: 
   
+- title: Stretchable Array sEMG Sensor with Graph Neural Network for Static and Dynamic Gestures Recognition System
+  authors: Heesoo Jung+, Soyoung Lee+, Hyeyun Lee+, Jaeseong Kim+, Srinivas Gandla, Kyung Jae Yoon, <b>Hogun Park* (Corresponding Author)</b>, Seonkuk Kim* (Corresponding Author) [(+, *): equal contributions]
+  link:
+    display: "npj Flexible Electronics (Accepted) - The Nature Partner Journals series. (Impact Factor: 12.019, JCR Journal Rank in Category (EE) : 3.8% (11/276))"
+  highlight: 0
+  news1: 
+
 - title: Providing Post-hoc Explanation for Node Representation Learning Models Through Inductive Conformal Predictions
   authors: <b>Hogun Park</b>
   link:
-    display: "IEEE ACCESS, 2023. (Accepted)"
+    display: "IEEE Access, 2023. (Accepted)"
   highlight: 0
   news1: 
 

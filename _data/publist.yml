@@ -58,7 +58,7 @@
   news1: 
   
 - title: Stretchable Array sEMG Sensor with Graph Neural Network for Static and Dynamic Gestures Recognition System
-  authors: Heesoo Jung+, Soyoung Lee+, Hyeyun Lee+, Jaeseong Kim+, Srinivas Gandla, Kyung Jae Yoon, <b>Hogun Park*</b>, Seonkuk Kim*.
+  authors: Heesoo Jung+, Soyoung Lee+, Hyeyun Lee+, Jaeseong Kim+, Srinivas Gandla, Kyung Jae Yoon, <b>Hogun Park<span>&#42;</span></b>, Seonkuk Kim<span>&#42;</span>.
   link:
     display: "npj Flexible Electronics - The Nature Partner Journals series, 2023. (Accepted, Impact Factor: 12.019, JCR Journal Rank in Category (EE) : 3.8% (11/276))"
   highlight: 0

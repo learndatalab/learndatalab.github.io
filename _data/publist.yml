@@ -11,14 +11,7 @@
     display: "(in submission)"
   highlight: 0
   news1: 
-  
-- title: Aggregation Optimization for Recommender Systems
-  authors: Heesoo Jung, <b>Hogun Park</b> et al.
-  link:
-    display: "(in submission)"
-  highlight: 0
-  news1: 
-  
+
   
 - title: A Reinforcement Learning-based XAI Method for Graph Representation Learning Models
   authors: Hyunju Kang, <b>Hogun Park</b> et al.
@@ -49,6 +42,14 @@
   highlight: 0
   news1: 
 
+  
+- title: Dual Policy Learning for Aggregation Optimization in Recommender Systems
+  authors: Heesoo Jung, <b>Hogun Park<span>&#42;</span></b>, and Sangpil Kim
+  link:
+    display: "The Web Conference (Formerly, WWW) 2023"
+  highlight: 0
+  news1: Full Paper (Research Track) (Accepted)
+  
 - title: Laser-induced carbonization for anticounterfeiting tags
   authors: Srinivas Gandla, Changgyun Moon, Seungho Baek, <b>Hogun Park<span>&#42;</span></b>, Seonkuk Kim<span>&#42;</span>.
   link:

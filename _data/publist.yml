@@ -42,7 +42,7 @@
   highlight: 0
   news1: 
 
-- title: Dual Policy Learning for Aggregation Optimization in Recommender Systems
+- title: Dual Policy Learning for Aggregation Optimization in Graph Neural Network-based Recommender Systems
   authors: Heesoo Jung, Sangpil Kim, <b>Hogun Park<span>&#42;</span></b>
   link:
     display: "The Web Conference (Formerly, WWW) 2023. Full Paper (Research Track). (Acceptance rate: 19.2%)."
@@ -64,7 +64,7 @@
   news1: <a href="https://ieeexplore.ieee.org/document/10003193/" target="_black">PDF</a> 
   
 - title: Stretchable Array sEMG Sensor with Graph Neural Network for Static and Dynamic Gestures Recognition System
-  authors: Heesoo Jung+, Soyoung Lee+, Hyeyun Lee+, Jaeseong Kim+, Srinivas Gandla, Kyung Jae Yoon, <b>Hogun Park<span>&#42;</span></b>, Seonkuk Kim<span>&#42;</span>.
+  authors: Heesoo Jung+, Soyoung Lee+, Hyeyun Lee+, Jaeseong Kim+, Srinivas Gandla<span>&#42;</span>, Kyung Jae Yoon<span>&#42;</span>, <b>Hogun Park<span>&#42;</span></b>, Seonkuk Kim<span>&#42;</span>.
   link:
     display: "npj Flexible Electronics - The Nature Partner Journals series, 2023. (Accepted, Impact Factor: 12.019, JCR Journal Rank in Category (EE) : 3.8% (11/276))"
   highlight: 0

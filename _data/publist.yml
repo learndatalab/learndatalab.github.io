@@ -1,5 +1,5 @@
 - title: Multi-Modal Recommender System for E-Commerce Shopping Data
-  authors: Sungjune Kim et al. (Corresponding Author- <b>Hogun Park</b>, Sangpil Kim)
+  authors: Sungjune Kim et al. (Corresponding Author- Sangpil Kim, <b>Hogun Park</b>)
   link:
     display: "(in submission)"
   highlight: 0
@@ -43,11 +43,11 @@
   news1: 
 
 - title: Dual Policy Learning for Aggregation Optimization in Recommender Systems
-  authors: Heesoo Jung, <b>Hogun Park<span>&#42;</span></b>, and Sangpil Kim
+  authors: Heesoo Jung, Sangpil Kim, <b>Hogun Park<span>&#42;</span></b>
   link:
-    display: "The Web Conference (Formerly, WWW) 2023. Full Paper (Research Track). (Accepted, Acceptance rate: 19.2%)."
+    display: "The Web Conference (Formerly, WWW) 2023. Full Paper (Research Track). (Acceptance rate: 19.2%)."
   highlight: 0
-  news1: 
+  news1: <a href="https://arxiv.org/abs/2302.10567" target="_black">PDF</a>  <a href="https://github.com/steve30572/DPAO/" target="_black">Code</a> 
 
 - title: Laser-induced carbonization for anticounterfeiting tags
   authors: Srinivas Gandla, Changgyun Moon, Seungho Baek, <b>Hogun Park<span>&#42;</span></b>, Seonkuk Kim<span>&#42;</span>.

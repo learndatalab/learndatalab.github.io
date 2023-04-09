@@ -90,6 +90,18 @@
   number_educ: 1
   education1: AI Department
   
+- name: Geonhee Han
+  info: M.S. Student (Spring 2023-)
+  email: gunhee8178@g.skku.edu
+  number_educ: 1
+  education1: AI Department
+  
+- name: Sim Wooseok
+  info: M.S. Student (Spring 2023-)
+  email: dntjr41@skku.edu
+  number_educ: 1
+  education1: AI Department
+  
 - name: "This could be you!"
   photo: rock.jpg
   info: See <a href="https://learndatalab.github.io/vacancies">openings</a> for more info

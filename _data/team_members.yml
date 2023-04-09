@@ -8,10 +8,18 @@
   
 - name: Hyunju Kang
   photo: hyunjoo.jpeg
-  info: M.S. Student (Spring 2021-)
+  info: Ph.D Student (Spring 2023-)
   email: neutor@g.skku.edu
   number_educ: 1
   education1: AI Department
+  
+- name: Juann Kim
+  photo: rock.jpg
+  info: M.S/Ph.D Student (Spring 2023-)
+  email: kimjuann@g.skku.edu
+  number_educ: 1
+  education1: AI Department  
+  education2: <a href="https://resume.io/r/AGR8LvhWr">Personal Webpage</a>
   
 - name: Soyoung Lee
   photo: soyoung.jpg
@@ -64,7 +72,7 @@
 
 - name: Soonwook Park
   photo: swpark.png
-  info: M.S./Ph.D. Student (Spring 2022-)
+  info: M.S. Student (Spring 2022-)
   email: soonwook34@g.skku.edu
   number_educ: 1
   education1: AI Department
@@ -91,12 +99,14 @@
   education1: AI Department
   
 - name: Geonhee Han
+  photo: rock.jpg
   info: M.S. Student (Spring 2023-)
   email: gunhee8178@g.skku.edu
   number_educ: 1
   education1: AI Department
   
-- name: Sim Wooseok
+- name: Wooseok Sim 
+  photo: rock.jpg
   info: M.S. Student (Spring 2023-)
   email: dntjr41@skku.edu
   number_educ: 1

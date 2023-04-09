@@ -11,7 +11,14 @@
 
 - name: Minku Kang
   photo: rock.jpg
-  info: BS student
+  info: BS/MS student
   number_educ: 1
-  education1: Software Deparment
+  education1: AI Deparment 
+
+
+- name: Jaehyun Bae
+  photo: rock.jpg
+  info: BS/MS student
+  number_educ: 1
+  education1: AI Deparment (BS/MS student)
 

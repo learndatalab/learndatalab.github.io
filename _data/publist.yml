@@ -40,7 +40,7 @@
   link:
     display: "Expert Systems with Applications, Elsevier, 2023. (Accepted, Impact Factor: 8.665, JCR Journal Rank: 8.1%)"
   highlight: 0
-  news1:  PDF Code
+  news1:  PDF <a href="https://github.com/hogunpark/EJGAN" target="_black">Code</a> 
 
 - title: Dual Policy Learning for Aggregation Optimization in Graph Neural Network-based Recommender Systems
   authors: Heesoo Jung, Sangpil Kim, <b>Hogun Park<span>&#42;</span></b>

@@ -75,7 +75,7 @@
   link:
     display: "Proc. of the Machine Learning on Graphs (MLoG) Workshop at the 15th ACM Conference on Web Search and Data Mining (WSDM 2022), 2022."
   highlight: 0
-  news1: <a href="https://mlog-workshop.github.io/papers/MLoG%20Providing%20Node-level%20Local%20Explanation%20for%20node2vec%20through%20Reinforcement%20Learning.pdf" target="_black">PDF</a> 
+  news1: <a href="http://hogunpark.com/papers/wsdm2022-MLoG-MCTS-G.pdf" target="_black">PDF</a> 
   
 - title: Finding Client-side Business Flow Tampering Vulnerabilities
   authors: I Luk Kim, Yunhui Zheng, <b>Hogun Park</b>, Weihang Wang, Wei You, Yousra Aafer, Xiangyu Zhang

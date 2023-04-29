@@ -40,9 +40,9 @@
 - title: Incorporating Experts' Judgment into Machine Learning Models
   authors: <b>Hogun Park</b>, Aly Megahed, Peifeng Yin, Yuya Ong, Pravar Mahajan, Pei Guo
   link:
-    display: "Expert Systems with Applications, Elsevier, 2023. (Accepted, Impact Factor: 8.665, JCR Journal Rank: 8.1%)"
+    display: "Expert Systems with Applications, Elsevier, 2023. (Impact Factor: 8.665, JCR Journal Rank: 8.1%)"
   highlight: 0
-  news1:  <a href="https://arxiv.org/abs/2304.11870" target="_black">PDF</a> <a href="https://github.com/hogunpark/EJGAN" target="_black">Code</a> 
+  news1:  <a href="https://arxiv.org/abs/2304.11870" target="_black">Preprint</a> <a href="https://doi.org/10.1016/j.eswa.2023.120118" target="_black">PDF</a> <a href="https://github.com/hogunpark/EJGAN" target="_black">Code</a> 
 
 - title: Dual Policy Learning for Aggregation Optimization in Graph Neural Network-based Recommender Systems
   authors: Heesoo Jung, Sangpil Kim, <b>Hogun Park<span>&#42;</span></b>

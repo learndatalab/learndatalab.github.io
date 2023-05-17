@@ -15,6 +15,7 @@ permalink: /publications/
 For a full list, please see my [CV](http://hogunpark.com/about/cv.pdf).
 <br/>
 \* means the (co-)corresponding authorship of the PI.
+\+ means the (co-)first authorship.
  <!-- or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012)) -->
 
 

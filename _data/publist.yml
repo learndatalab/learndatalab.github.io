@@ -5,12 +5,7 @@
   highlight: 0
   news1: 
   
-- title: Knowledge Graph Embedding with Numerical Atttributes
-  authors: Sookyung Kim+, Gayoung Kim+, <b>Hogun Park</b> et al. (+ means equal contribution.)
-  link:
-    display: "(in submission)"
-  highlight: 0
-  news1: 
+
 
   
 - title: A Reinforcement Learning-based XAI Method for Graph Representation Learning Models
@@ -28,7 +23,13 @@
   highlight: 0
   news1: 
   
-
+- title: Exploiting Relation-aware Attribute Representation Learning in Knowledge Graph Embedding for Numerical Reasoning
+  authors: Sookyung Kim+, Gayoung Kim+, Ko Keun Kim, Suchan Park, Heesoo Jung, <b>Hogun Park</b> (+ means equal contribution.)
+  link:
+    display: "ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2023. Full Paper (Research Track). (Accepted)"
+  highlight: 0
+  news1: 
+  
 - title: Generating Post-hoc Explanations for Skip-gram-based Node Embeddings by Identifying Important Nodes with Bridgeness
   authors: <b>Hogun Park</b>, Jennifer Neville
   link:

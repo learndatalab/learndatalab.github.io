@@ -55,9 +55,9 @@
 - title: Laser-induced Carbonization for Anticounterfeiting Tags
   authors: Srinivas Gandla, Changgyun Moon, Seungho Baek, <b>Hogun Park<span>&#42;</span></b>, Seonkuk Kim<span>&#42;</span>.
   link:
-    display: "Advanced Functional Materials, 2023. (Impact Factor: 19.924, JCR Journal Rank in Category (PHYSICS, APPLIED) : 4.7% (8/161))"
+    display: "Advanced Functional Materials, 2023. (Impact Factor: 19.924, JCR Journal Rank in Category (PHYSICS, APPLIED) : 4.7% (8/161)) [Chosen As a Cover Page of the Journal]"
   highlight: 0
-  news1:  PDF Code
+  news1:  PDF Code <a href="https://www.dailysmart.co.kr/news/articleView.html?idxno=72723" target="_black">News(Korean)</a>
   
 - title: Providing Post-hoc Explanation for Node Representation Learning Models Through Inductive Conformal Predictions
   authors: <b>Hogun Park</b>
@@ -71,7 +71,7 @@
   link:
     display: "npj Flexible Electronics - The Nature Partner Journals series, 2023. (Accepted, Impact Factor: 12.019, JCR Journal Rank in Category (EE) : 3.8% (11/276))"
   highlight: 0
-  news1: <a href="https://www.nature.com/articles/s41528-023-00246-3/" target="_black">PDF</a>  <a href="https://github.com/steve30572/Self-attention-based-GNN-for-sEMG" target="_black">Code</a>  <a href="https://youtu.be/ZnvX2fQEKoA" target="_black">Video</a> 
+  news1: <a href="https://www.nature.com/articles/s41528-023-00246-3/" target="_black">PDF</a>  <a href="https://github.com/steve30572/Self-attention-based-GNN-for-sEMG" target="_black">Code</a>  <a href="https://youtu.be/ZnvX2fQEKoA" target="_black">Video</a> <a href="https://mbiz.heraldcorp.com/amp/view.php?ud=20230509000656" target="_black">News(Korean)</a>
 
 - title: Providing Node-level Local Explanation for node2vec through Reinforcement Learning
   authors: Hyunju Kang and <b>Hogun Park</b>

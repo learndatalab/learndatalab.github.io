@@ -5,22 +5,22 @@
   highlight: 0
   news1: 
   
-- title: A Reinforcement Learning-based XAI Method for Graph Representation Learning Models
-  authors: Hyunju Kang, Geonhee Han, <b>Hogun Park<span>&#42;</span></b> et al.
+- title: A Reinforcement Learning-based Explainability Method for Graph Representation Learning Models
+  authors: Hyunju Kang, Geonhee Han, <b>Hogun Park<span>&#42;</span></b>
   link:
     display: "(in submission)"
   highlight: 0
   news1: 
 
 - title: Orbit-based Explainability Method for Graph Neural Networks
-  authors: Kyeongrok Park, <b>Hogun Park<span>&#42;</span></b> et al.
+  authors: Kyeongrok Park, <b>Hogun Park<span>&#42;</span></b>
   link:
     display: "(in submission)"
   highlight: 0
   news1: 
   
 - title: A Recommender System with Logical Reasoning
-  authors: Dongwon Jung+, Jeonghoon Kim+, <b>Hogun Park<span>&#42;</span></b> et al.
+  authors: Dongwon Jung+, Jeonghoon Kim+, <b>Hogun Park<span>&#42;</span></b>
   link:
     display: "(in submission)"
   highlight: 0

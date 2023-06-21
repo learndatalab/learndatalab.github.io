@@ -22,9 +22,21 @@
   number_educ: 1
   education1: AI Department (BS/MS student)
 
+- name: Hongjun Jeong
+  photo: rock.jpg
+  info: BS student
+  number_educ: 1
+  education1: SME/CSE Department (BS student)
+
+- name: Dongjun Lim
+  photo: rock.jpg
+  info: BS student
+  number_educ: 1
+  education1: CSE Department (BS student)
+  
 - name: Abhisri Madlapally
   photo: rock.jpg
   info: BS student
   number_educ: 1
-  education1: BS student, GLA University
+  education1: CS Department, GLA University (BS student)
 

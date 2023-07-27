@@ -78,7 +78,7 @@
   news1: <a href="https://www.nature.com/articles/s41528-023-00246-3/" target="_black">PDF</a>  <a href="https://github.com/steve30572/Self-attention-based-GNN-for-sEMG" target="_black">Code</a>  <a href="https://youtu.be/ZnvX2fQEKoA" target="_black">Video</a> <a href="https://mbiz.heraldcorp.com/amp/view.php?ud=20230509000656" target="_black">News(Korean)</a>
 
 - title: Providing Node-level Local Explanation for node2vec through Reinforcement Learning
-  authors: Hyunju Kang and <b>Hogun Park</b>
+  authors: Hyunju Kang and <b>Hogun Park<span>&#42;</span></b>
   link:
     display: "Proc. of the Machine Learning on Graphs (MLoG) Workshop at the 15th ACM Conference on Web Search and Data Mining (WSDM 2022), 2022."
   highlight: 0
@@ -101,7 +101,7 @@
   
 - title: A framework for understanding online group behaviors during a catastrophic event
   authors:
-    Jooho Kim, <b>Hogun Park* (Corresponding Author)</b>
+    Jooho Kim, <b>Hogun Park<span>&#42;</span></b>
   link:
     display: "International Journal of Information Management, Elsevier, Volume 51, 2020. <br />(Impact Factor: 8.21, JCR Journal Rank in Category (Information Science): 1/87)"
   highlight: 0

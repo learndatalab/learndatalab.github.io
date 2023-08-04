@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Sungkyunkwan University (SKKU)](https://en.wikipedia.org/wiki/Sungkyunkwan_University). Our aim is to develop <b>Machine Learning/Data Mining models on Inter-Connected Data</b> (e.g., human interactions, object graph in 3D, social networks, knowledge base, education log, sensor network, and multi-modal graph) and <b>Natural Language Processing</b> (e.g., knowledge-enhanced question/answering and logical/symbolic reasoning). The current research topics include knowledge discovery, user modeling, commonsense reasoning, knowledge tracing, recommender systems, and explainable AI (XAI).
+We are a dynamic research group at the [Sungkyunkwan University (SKKU)](https://en.wikipedia.org/wiki/Sungkyunkwan_University). Our aim is to develop <b>Machine Learning/Data Mining models on Inter-Connected Data</b> (e.g., human interactions, object graph in 3D, social networks, knowledge base, education log, sensor network, and multi-modal graph) and <b>Natural Language Processing</b> (e.g., knowledge-enhanced large language models (LLMs) and logical/symbolic reasoning). The current research topics include knowledge discovery, user modeling, commonsense reasoning, knowledge tracing, recommender systems, and explainable AI (XAI).
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >

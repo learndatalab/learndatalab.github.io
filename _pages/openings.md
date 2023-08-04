@@ -18,13 +18,13 @@ You will have the chance to work on the grand challenges of machine learning and
 
 #### Current open positions
 
-- The Next of Graph Neural Networks (or Network Embedding)
-- Explainable AI for ML models
+- Neural architectures for graphs
+- Explainable AI for various deep learning models
 - Knowledge Graph (KG) Acquisition and KG-based Learning
-- Knolwedge-grounded Natural Language Processing for the Next of QnA System
+- Knolwedge-grounded Natural Language Processings with Large Language Models
 - Federated Learning on Inter-connected Data
 - ML models for Sensor Systems (e.g., EMG sensors)
-- Recommender System
+- Recommender Systems
 - (You can also suggest any new topic!)
 
 <!-- You find the current job openings here:

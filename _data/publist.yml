@@ -30,7 +30,7 @@
 - title: Toward a Better Understanding of Loss Functions for Collaborative Filtering
   authors: Seongmin Park, Mincheol Yoon, Jae-woong Lee, <b>Hogun Park</b> and Jongwuk Lee
   link:
-    display: "ACM International Conference on Information and Knowledge Management (CIKM) 2023 (Accepted, Acceptance rate: 24%)"
+    display: "ACM International Conference on Information and Knowledge Management (CIKM 2023), 2023. (Accepted, Acceptance rate: 24%)"
   highlight: 0
   news1: 
   
@@ -38,7 +38,7 @@
 - title: Exploiting Relation-aware Attribute Representation Learning in Knowledge Graph Embedding for Numerical Reasoning
   authors: Sookyung Kim+, Gayoung Kim+, Ko Keun Kim, Suchan Park, Heesoo Jung, <b>Hogun Park<span>&#42;</span></b> 
   link:
-    display: "ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2023"
+    display: "ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2023), 2023."
   highlight: 0
   news1: <a href="https://dl.acm.org/doi/10.1145/3580305.3599338" target="_black">PDF</a>  <a href="https://github.com/learndatalab/RAKGE/" target="_black">Code</a>  <a href="https://www.youtube.com/watch?v=QVPcuwDeiAs" target="_black">2-mins Video</a>
 
@@ -61,7 +61,7 @@
 - title: Dual Policy Learning for Aggregation Optimization in Graph Neural Network-based Recommender Systems
   authors: Heesoo Jung, Sangpil Kim, <b>Hogun Park<span>&#42;</span></b>
   link:
-    display: "The Web Conference (Formerly, WWW) 2023. Full Paper (Research Track). (Acceptance rate: 19.2%)"
+    display: "The Web Conference (WWW 2023), 2023. (Acceptance rate: 19.2%)"
   highlight: 0
   news1: <a href="https://arxiv.org/abs/2302.10567" target="_black">PDF</a>  <a href="https://github.com/steve30572/DPAO/" target="_black">Code</a> 
 

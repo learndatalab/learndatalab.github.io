@@ -25,13 +25,23 @@
     display: "(in submission)"
   highlight: 0
   news1: 
+
+ 
+- title: Toward a Better Understanding of Loss Functions for Collaborative Filtering
+  authors:Seongmin Park, Mincheol Yoon, Jae-woong Lee, <b>Hogun Park</b> and Jongwuk Lee
+  link:
+    display: "ACM International Conference on Information and Knowledge Management, Full Paper (Research Track). (Accepted, Acceptance rate: 24%)"
+  highlight: 0
+  news1: 
+  
   
 - title: Exploiting Relation-aware Attribute Representation Learning in Knowledge Graph Embedding for Numerical Reasoning
   authors: Sookyung Kim+, Gayoung Kim+, Ko Keun Kim, Suchan Park, Heesoo Jung, <b>Hogun Park<span>&#42;</span></b> 
   link:
-    display: "ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2023. Full Paper (Research Track). (Accepted, Acceptance rate: 22.1%)"
+    display: "ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2023. Full Paper (Research Track)."
   highlight: 0
-  news1: 
+  news1: <a href="https://dl.acm.org/doi/10.1145/3580305.3599338" target="_black">PDF</a>  <a href="https://github.com/learndatalab/RAKGE/" target="_black">Code</a>  <a href=https://www.youtube.com/watch?v=QVPcuwDeiAs&t=15s" target="_black">2-min Video</a>
+
   
 - title: Generating Post-hoc Explanations for Skip-gram-based Node Embeddings by Identifying Important Nodes with Bridgeness
   authors: <b>Hogun Park</b>, Jennifer Neville

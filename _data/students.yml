@@ -8,20 +8,6 @@
 #  education3:
 #  education4:
 
-
-- name: Minku Kang
-  photo: mingu.jpg
-  info: BS/MS student
-  number_educ: 1
-  education1: AI Department (BS/MS student)
-
-
-- name: Jaehyun Bae
-  photo: jaehyun.jpg
-  info: BS/MS student
-  number_educ: 1
-  education1: AI Department (BS/MS student)
-
 - name: Hongjun Jeong
   photo: rock.jpg
   info: BS student
@@ -34,9 +20,4 @@
   number_educ: 1
   education1: CSE Department (BS student)
   
-- name: Abhisri Madlapally
-  photo: rock.jpg
-  info: BS student
-  number_educ: 1
-  education1: CS Department, GLA University (BS student)
 

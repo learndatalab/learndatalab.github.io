@@ -1,23 +1,23 @@
 - name: Dongwon Jung
   photo: dongwon.jpg
-  info: BS Student Intern
+  info: B.S. Student Intern
   number_educ: 1
-  education1: MS Student@CS Department, University of Southern California (Current Position)
+  education1: M.S. Student@CS Department, University of Southern California (Current Position)
 
 - name: Gyuran Kang
   photo: rock.jpg
-  info: BS Student Intern
+  info: B.S. Student Intern
   number_educ: 1
-  education1: MS Student@CS Department, Columbia University (Current Position)
+  education1: M.S. Student@CS Department, Columbia University (Current Position)
 
 - name: Joonwoo Kim
   photo: rock.jpg
-  info: BS Student Intern
+  info: B.S. Student Intern
   number_educ: 1
-  education1: BS Student@Statistics Department, SKKU (Current Position)
+  education1: B.S. Student@Statistics Department
 
 - name: Joohyun Lee
   photo: rock.jpg
-  info: BS Student Intern
+  info: B.S. Student Intern
   number_educ: 1
-  education1: BS Student@Statistics Department, Carnegie Mellon University (Current Position)
+  education1: B.S. Student@Statistics Department, Carnegie Mellon University (Current Position)

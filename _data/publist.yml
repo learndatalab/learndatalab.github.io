@@ -64,9 +64,8 @@
   link:
     display: "ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2023), 2023."
   highlight: 0
-  news1: <a href="https://dl.acm.org/doi/10.1145/3580305.3599338" target="_black">PDF</a>  <a href="https://github.com/learndatalab/RAKGE/" target="_black">Dataset/Code</a>  <a href="https://www.youtube.com/watch?v=QVPcuwDeiAs" target="_black">Video</a>
+  news1: <a href="http://hogunpark.com/papers/KDD2023_RAKGE.pdf" target="_black">Arxiv</a> <a href="https://dl.acm.org/doi/10.1145/3580305.3599338" target="_black">PDF</a>  <a href="https://github.com/learndatalab/RAKGE/" target="_black">Dataset/Code</a>  <a href="https://www.youtube.com/watch?v=QVPcuwDeiAs" target="_black">Video</a>
 
-  
 - title: Generating Post-hoc Explanations for Skip-gram-based Node Embeddings by Identifying Important Nodes with Bridgeness
   authors: <b>Hogun Park</b>, Jennifer Neville
   link:

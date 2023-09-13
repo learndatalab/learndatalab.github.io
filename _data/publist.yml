@@ -200,7 +200,7 @@
   link:
     display: "Proc. of the Human-Computer Interaction and Information Retrieval 2008 (HCIR 2008, now ACM CHIIR), 2008."
   highlight: 0
-  news1: <a href="http://hogunpark.com/papers/HCIR08-hpark.pdf" target="_black">PDF</a>  <a href="papers/ICEIS2008_phg.pdf" target="_black"> Extended_PDF</a> <a href="https://youtu.be/AW5yCG282L8" target="_black">Video</a>  
+  news1: <a href="http://hogunpark.com/papers/HCIR08-hpark.pdf" target="_black">PDF</a>  <a href="http://hogunpark.com/papers/papers/ICEIS2008_phg.pdf" target="_black"> Extended_PDF</a> <a href="https://youtu.be/AW5yCG282L8" target="_black">Video</a>  
 
 - title: "Supporting Mixed Initiative Human-Robot Interaction: A Script-based Cognitive Architecture Approach"
   authors: <b>Hogun Park</b>, Yoonjung Choi, Yuchul Jung, and Sung-Hyun Myaeng

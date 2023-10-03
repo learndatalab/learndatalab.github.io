@@ -42,7 +42,7 @@
   highlight: 0
   news1: 
 
-- title: SMGNN: Self-Supervised Multimodal Graph Neural Network for Recommender Systems
+- title: Self-Supervised Multimodal Graph Neural Network for Recommender Systems
   authors: Sungjune Kim, Gyusam Chang, Wonseok Roh, Dae-Neung Sohn, Jung-Tae Lee, <b>Hogun Park<span>&#42;</span></b>, Sangpil Kim<span>&#42;</span>
   link:
     display: "Information Sciences, Elsevier, 2023."

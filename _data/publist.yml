@@ -1,5 +1,4 @@
-  
-- title: A Self-Supervised Learning Method with Maksed Graph Auto-encoders
+ - title: A Self-Supervised Learning Method with Maksed Graph Auto-encoders
   authors: Jongwon Park, <b>Hogun Park<span>&#42;</span></b>
   link:
     display: "(in submission)"
@@ -45,14 +44,6 @@
   highlight: 0
   news1: 
 
- - title: SMGNN: Self-Supervised Multimodal Graph Neural Network for Recommender Systems
-  authors: Sungjune Kim, Gyusam Chang, Wonseok Roh, Dae-Neung Sohn, Jung-Tae Lee, <b>Hogun Park<span>&#42;</span></b>, Sangpil Kim<span>&#42;</span>
-  link:
-    display: "Information Sciences, Elsevier, 2023. (Accepted, Impact Factor: 8.1, JCR Journal Rank: 7.9%)"
-  highlight: 0
-  news1:  PDF
-
-  
 - title: Toward a Better Understanding of Loss Functions for Collaborative Filtering
   authors: Seongmin Park, Mincheol Yoon, Jae-woong Lee, <b>Hogun Park</b> and Jongwuk Lee
   link:

@@ -21,14 +21,6 @@
   highlight: 0
   news1: 
 
-
-- title: Multi-Modal Recommender System for E-Commerce Shopping Data
-  authors: Sungjune Kim et al. (Corresponding Author- Sangpil Kim, <b>Hogun Park</b>)
-  link:
-    display: "(in submission)"
-  highlight: 0
-  news1: 
-  
 - title: A Reinforcement Learning-based Explainability Method for Graph Representation Learning Models
   authors: Hyunju Kang, Geonhee Han, <b>Hogun Park<span>&#42;</span></b>
   link:
@@ -49,7 +41,14 @@
     display: "(in submission)"
   highlight: 0
   news1: 
- 
+
+- title: SMGNN: Self-Supervised Multimodal Graph Neural Network for Recommender Systems
+  authors: Sungjune Kim et al. (Corresponding Author- Sangpil Kim, <b>Hogun Park</b>)
+  link:
+    display: "Information Sciences, Elsevier, 2023. (Accepted, Impact Factor: 8.1, JCR Journal Rank: 7.9%)"
+  highlight: 0
+  news1: 
+   
 - title: Toward a Better Understanding of Loss Functions for Collaborative Filtering
   authors: Seongmin Park, Mincheol Yoon, Jae-woong Lee, <b>Hogun Park</b> and Jongwuk Lee
   link:

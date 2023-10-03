@@ -1,4 +1,5 @@
- - title: A Self-Supervised Learning Method with Maksed Graph Auto-encoders
+  
+- title: A Self-Supervised Learning Method with Maksed Graph Auto-encoders
   authors: Jongwon Park, <b>Hogun Park<span>&#42;</span></b>
   link:
     display: "(in submission)"
@@ -21,7 +22,12 @@
   news1: 
 
 
-
+- title: Multi-Modal Recommender System for E-Commerce Shopping Data
+  authors: Sungjune Kim et al. (Corresponding Author- Sangpil Kim, <b>Hogun Park</b>)
+  link:
+    display: "(in submission)"
+  highlight: 0
+  news1: 
   
 - title: A Reinforcement Learning-based Explainability Method for Graph Representation Learning Models
   authors: Hyunju Kang, Geonhee Han, <b>Hogun Park<span>&#42;</span></b>
@@ -43,7 +49,7 @@
     display: "(in submission)"
   highlight: 0
   news1: 
-
+ 
 - title: Toward a Better Understanding of Loss Functions for Collaborative Filtering
   authors: Seongmin Park, Mincheol Yoon, Jae-woong Lee, <b>Hogun Park</b> and Jongwuk Lee
   link:
@@ -274,4 +280,3 @@
 #   highlight: 1
 #   news1: <a style="color:#FF0000; text-decoration:underline" href="http://www.nature.com/nphys/journal/v9/n8/full/nphys2708.html">Featured in 'News and Views' by L Taillefer</a>
 #   news2: See also <a href="http://phys.org/news/2013-07-imaging-electron-pairing-simple-magnetic.html"> Phys.org</a>, <a href="http://davisgroup.lassp.cornell.edu/CeCoIn5_DoE.html">DoE headliner</a>
-

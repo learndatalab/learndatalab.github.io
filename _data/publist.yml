@@ -82,7 +82,7 @@
 - title: Dual Policy Learning for Aggregation Optimization in Graph Neural Network-based Recommender Systems
   authors: Heesoo Jung, Sangpil Kim, <b>Hogun Park<span>&#42;</span></b>
   link:
-    display: "The Web Conference (WWW 2023), 2023. (Acceptance rate: 19.2%)"
+    display: "The Web Conference (WWW 2023), 2023."
   highlight: 0
   news1: <a href="https://arxiv.org/abs/2302.10567" target="_black">PDF</a>  <a href="https://github.com/steve30572/DPAO/" target="_black">Code</a> 
 
@@ -91,7 +91,7 @@
   link:
     display: "Advanced Functional Materials, 2023. (Impact Factor: 19.924, JCR Journal Rank in Category (PHYSICS, APPLIED): 4.7% (8/161))"
   highlight: 0
-  news1: PDF Code <a href="https://www.dailysmart.co.kr/news/articleView.html?idxno=72723" target="_black">News(Korean)</a>
+  news1: PDF Code <a href="https://www.dailysmart.co.kr/news/articleView.html?idxno=72723" target="_black">Press Release (Korean)</a>
   news2: Accepted As a Cover Page of the Journal
   
 - title: Providing Post-hoc Explanation for Node Representation Learning Models Through Inductive Conformal Predictions
@@ -104,7 +104,7 @@
 - title: Stretchable Array sEMG Sensor with Graph Neural Network for Static and Dynamic Gestures Recognition System
   authors: Heesoo Jung+, Soyoung Lee+, Hyeyun Lee+, Jaeseong Kim+, Srinivas Gandla<span>&#42;</span>, Kyung Jae Yoon<span>&#42;</span>, <b>Hogun Park<span>&#42;</span></b>, Seonkuk Kim<span>&#42;</span>.
   link:
-    display: "npj Flexible Electronics - The Nature Partner Journals series, 2023. (Accepted, Impact Factor: 14.6, JCR Journal Rank in Category (EE): 2.0% (6/275))"
+    display: "npj Flexible Electronics - The Nature Partner Journals series, 2023. (Impact Factor: 14.6, JCR Journal Rank in Category (EE): 2.0% (6/275))"
   highlight: 0
   news1: <a href="https://www.nature.com/articles/s41528-023-00246-3/" target="_black">PDF</a>  <a href="https://github.com/steve30572/Self-attention-based-GNN-for-sEMG" target="_black">Code</a>  <a href="https://youtu.be/ZnvX2fQEKoA" target="_black">Video</a> <a href="https://mbiz.heraldcorp.com/amp/view.php?ud=20230509000656" target="_black">News(Korean)</a>
 

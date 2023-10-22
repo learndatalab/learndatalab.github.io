@@ -54,8 +54,7 @@
   link:
     display: "ACM International Conference on Information and Knowledge Management (CIKM 2023), 2023. (Accepted, Acceptance rate: 24%)"
   highlight: 0
-  news1:  <a href="https://arxiv.org/abs/2308.06091" target="_black">Arxiv</a>  <a href="https://github.com/psm1206/MAWU" target="_black">Code</a> 
-
+  news1:  <a href="https://arxiv.org/abs/2308.06091" target="_black">Arxiv</a> <a href="https://dl.acm.org/doi/10.1145/3583780.3615086" target="_black">PDF</a> <a href="https://github.com/psm1206/MAWU" target="_black">Code</a> 
   
 - title: Exploiting Relation-aware Attribute Representation Learning in Knowledge Graph Embedding for Numerical Reasoning
   authors: Sookyung Kim+, Gayoung Kim+, Ko Keun Kim, Suchan Park, Heesoo Jung, <b>Hogun Park<span>&#42;</span></b> 

@@ -21,9 +21,9 @@ You will have the chance to work on the grand challenges of machine learning and
 - Neural architectures for graphs
 - Explainable AI for various deep learning models
 - Knowledge graph-based Learning
-- Knolwedge-grounded Natural Language Processings with Large Language Models
+- Knolwedge-grounded natural language processings with large language models (LLMs)
 - Robust prompt augmentation for LLMs and generative models
-- Multi-modal learning: Video QnA/captioning for image/text or gesture recognition/medical AI with multi-sensors)
+- Multi-modal learning: Video QnA, video captioning, gesture recognition, and multi-sensors 
 - Recommender systems
 - (You can also suggest any new topic!)
 

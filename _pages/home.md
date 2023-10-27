@@ -41,7 +41,7 @@ We are a dynamic research group at the [Sungkyunkwan University (SKKU)](https://
 
 We are part of the College of Computing and Informatics (소프트웨어융합대학) at Sungkyunkwan University (SKKU) and affiliated with Computer Science Engineering (소프트웨어학과), Artificial Intelligence (인공지능대학원), and Intelligent Software (지능형소프트웨어) departments.
 
-We are grateful for funding from the National Research Foundation of Korea (NRF), BK21, Information & Communications Technology Planning & Evaluation (IITP), National IT Industry Promotion Agency (NIPA), LG Electronics, and NAVER.
+We are grateful for funding from the National Research Foundation of Korea (NRF), BK21, Information & Communications Technology Planning & Evaluation (IITP), National IT Industry Promotion Agency (NIPA), LG Electronics, NCSOFT, and NAVER.
 <br />
 
 <!-- <figure class="fourth">

@@ -20,11 +20,11 @@ You will have the chance to work on the grand challenges of machine learning and
 
 - Neural architectures for graphs
 - Explainable AI for various deep learning models
-- Knowledge Graph (KG) Acquisition and KG-based Learning
+- Knowledge graph-based Learning
 - Knolwedge-grounded Natural Language Processings with Large Language Models
-- Federated Learning on Inter-connected Data
-- ML models for Sensor Systems (e.g., EMG sensors)
-- Recommender Systems
+- Robust prompt augmentation for LLMs and generative models
+- Multi-modal learning: Video QnA/captioning for image/text or gesture recognition/medical AI with multi-sensors)
+- Recommender systems
 - (You can also suggest any new topic!)
 
 <!-- You find the current job openings here:

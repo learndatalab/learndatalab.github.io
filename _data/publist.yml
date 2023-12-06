@@ -1,5 +1,12 @@
   
-- title: A Efficint Training Method for Video Caption Models
+- title: Federated Recommender System with Data Valuation
+  authors: Jongwon Park, Soyoung Lee, Mingu Kang, Wooseok Sim, <b>Hogun Park<span>&#42;</span></b>
+  link:
+    display: "(in submission)"
+  highlight: 0
+  news1: 
+
+- title: A Efficient Training Method for Video Caption Models
   authors: Sangho Lee, Il Yong Chun<span>&#42;</span>, <b>Hogun Park<span>&#42;</span></b>
   link:
     display: "(in submission)"
@@ -7,7 +14,7 @@
   news1: 
   
 - title: A Self-Supervised Learning Method with Maksed Graph Auto-encoders
-  authors: Jongwon Park, <b>Hogun Park<span>&#42;</span></b>
+  authors: Jongwon Park, Heesoo Jung, <b>Hogun Park<span>&#42;</span></b>
   link:
     display: "(in submission)"
   highlight: 0
@@ -22,7 +29,7 @@
   news1: 
   
 - title: A Domain Adaption Method for sEMG Sensors
-  authors: Jaehyun Bae, Heesoo Jung, Seonkuk Kim, <b>Hogun Park<span>&#42;</span></b>
+  authors: Jaehyun Bae, Heesoo Jung, Seonkuk Kim<span>&#42;</span>, <b>Hogun Park<span>&#42;</span></b>
   link:
     display: "(in submission)"
   highlight: 0
@@ -36,14 +43,14 @@
   news1: 
 
 - title: Orbit-based Explainability Method for Graph Neural Networks
-  authors: Kyeongrok Park, <b>Hogun Park<span>&#42;</span></b>
+  authors: Kyeongrok Park, Hyunju Kang, <b>Hogun Park<span>&#42;</span></b>
   link:
     display: "(in submission)"
   highlight: 0
   news1: 
   
 - title: A Recommender System with Logical Reasoning
-  authors: Dongwon Jung+, Jeonghoon Kim+, <b>Hogun Park<span>&#42;</span></b>
+  authors: Jeonghoon Kim, Dongwon Jung, <b>Hogun Park<span>&#42;</span></b>
   link:
     display: "(in submission)"
   highlight: 0

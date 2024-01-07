@@ -20,10 +20,11 @@ You will have the chance to work on the grand challenges of machine learning and
 
 - Neural architectures for graphs
 - Explainable AI for various deep learning models
-- Knowledge graph-based Learning
-- Knolwedge-grounded natural language processings with large language models (LLMs)
+- Knowledge graph-based learning
+- Knowledge-grounded natural language processing with large language models (LLMs)
 - Robust prompt augmentation for LLMs and generative models
-- Multi-modal learning: Video QnA, video captioning, gesture recognition, and multi-sensors 
+- Multi-modal learning: Video QnA and video captioning
+- Sensor-based AI (e.g., EMG, EEG, ...)
 - Recommender systems
 - (You can also suggest any new topic!)
 
@@ -34,7 +35,7 @@ You will have the chance to work on the grand challenges of machine learning and
 <!-- It might be interesting to look at some past job advertisements. While the projects keep changing, the themes are still roughly the same. You can download them [here]({{ site.baseurl }}/downloads/PD.pdf), [here]({{ site.baseurl }}/downloads/PHD1.pdf), or [here]({{ site.baseurl }}/downloads/PHD2.pdf). -->
 
 #### Applications for MS/PhD and Postdoc positions
-If you are interested in working with us as a MS/PhD student or postdoc, please send me an [email](mailto:hogunpark@g.skku.edu). State briefly why you are interested and attach a CV with transcripts. 
+If you are interested in working with us as a MS/PhD student or postdoc, please send me an [email](mailto:hogunpark@skku.edu). State briefly why you are interested and attach a CV with transcripts. 
 
 **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. 
 

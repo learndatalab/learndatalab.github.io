@@ -19,5 +19,16 @@
   info: BS student
   number_educ: 1
   education1: CSE Department (BS student)
-  
 
+- name: 이우현
+  photo: rock.jpg
+  info: BS student
+  number_educ: 1
+  education1: Software Department (BS student)
+
+- name: Yeonje Choi
+  photo: rock.jpg
+  info: BS student
+  number_educ: 1
+  education1: Applied AI/Software Department (BS student)
+  

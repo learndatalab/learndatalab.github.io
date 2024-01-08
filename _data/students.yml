@@ -8,17 +8,7 @@
 #  education3:
 #  education4:
 
-- name: Hongjun Jeong
-  photo: rock.jpg
-  info: BS student
-  number_educ: 1
-  education1: SME/CSE Department (BS student)
 
-- name: Dongjun Lim
-  photo: rock.jpg
-  info: BS student
-  number_educ: 1
-  education1: CSE Department (BS student)
 
 - name: 이우현
   photo: rock.jpg

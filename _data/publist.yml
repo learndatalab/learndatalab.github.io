@@ -66,7 +66,7 @@
 - title: Toward a Better Understanding of Loss Functions for Collaborative Filtering
   authors: Seongmin Park, Mincheol Yoon, Jae-woong Lee, <b>Hogun Park</b> and Jongwuk Lee
   link:
-    display: "ACM International Conference on Information and Knowledge Management (CIKM 2023), 2023. (Accepted, Acceptance rate: 24.0%)"
+    display: "ACM International Conference on Information and Knowledge Management (CIKM 2023), 2023."
   highlight: 0
   news1:  <a href="https://arxiv.org/abs/2308.06091" target="_black">Arxiv</a> <a href="https://dl.acm.org/doi/10.1145/3583780.3615086" target="_black">PDF</a> <a href="https://github.com/psm1206/MAWU" target="_black">Code</a> 
   

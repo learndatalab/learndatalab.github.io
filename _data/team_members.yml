@@ -3,7 +3,7 @@
   info: Assistant Professor, started Sept. 2020
   email: hogunpark@g.skku.edu
   number_educ: 2
-  education1: Software, AI, Applied AI, EECS Departments
+  education1: CSE (Software), AI, Intelligent Software, Applied AI, EECS Departments
   education2: <a href="http://hogunpark.com">Personal Webpage</a>
   
 - name: Hyunju Kang
@@ -104,6 +104,18 @@
   email: yunjeong.im@skku.edu
   number_educ: 1
   education1: Applied AI Department
+
+- name: Hongjun Jeong
+  photo: rock.jpg
+  info: M.S. Student (Spring 2024-)
+  number_educ: 1
+  education1: AI Department
+
+- name: Dongjun Lim
+  photo: rock.jpg
+  info: M.S. Student (Spring 2024-)
+  number_educ: 1
+  education1: AI Department
 
 - name: "This could be you!"
   photo: rock.jpg

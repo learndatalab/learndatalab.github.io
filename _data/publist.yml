@@ -20,7 +20,6 @@
   highlight: 0
   news1: 
 
-  
 - title: A Logical Reasoning Methods with Query Representation Learning
   authors: Jeonghoon Kim, <b>Hogun Park<span>&#42;</span></b>
   link:
@@ -49,7 +48,7 @@
   highlight: 0
   news1: 
   
-- title: UNR-Explainer: Counterfactual Explanations for Unsupervised Node Representation Learning Models
+- title: "UNR-Explainer: Counterfactual Explanations for Unsupervised Node Representation Learning Models"
   authors: Hyunju Kang, Geonhee Han, <b>Hogun Park<span>&#42;</span></b>
   link:
     display: "International Conference on Learning Representations (ICLR 2023), 2023."

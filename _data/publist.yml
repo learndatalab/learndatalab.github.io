@@ -35,13 +35,6 @@
   highlight: 0
   news1: 
 
-- title: A Reinforcement Learning-based Explainability Method for Graph Representation Learning Models
-  authors: Hyunju Kang, Geonhee Han, <b>Hogun Park<span>&#42;</span></b>
-  link:
-    display: "(in submission)"
-  highlight: 0
-  news1: 
-
 - title: Orbit-based Explainability Method for Graph Neural Networks
   authors: Kyeongrok Park, Hyunju Kang, <b>Hogun Park<span>&#42;</span></b>
   link:
@@ -55,7 +48,15 @@
     display: "(in submission)"
   highlight: 0
   news1: 
-
+  
+- title: UNR-Explainer: Counterfactual Explanations for Unsupervised Node Representation Learning Models
+  authors: Hyunju Kang, Geonhee Han, <b>Hogun Park<span>&#42;</span></b>
+  link:
+    display: "International Conference on Learning Representations (ICLR 2023), 2023."
+  highlight: 0
+  news1:  <a href="https://openreview.net/pdf?id=0j9ZDzMPqr" target="_black">Preprint</a> Code
+  
+  
 - title: "Self-supervised Multimodal Graph Convolutional Network for Collaborative Filtering"
   authors: Sungjune Kim, Gyusam Chang, Wonseok Roh, Dae-Neung Sohn, Jung-Tae Lee, <b>Hogun Park<span>&#42;</span></b>, Sangpil Kim<span>&#42;</span>
   link:

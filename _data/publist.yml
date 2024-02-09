@@ -62,13 +62,6 @@
     display: "(in submission)"
   highlight: 0
   news1: 
-
-- title: A Recommender System with Logical Reasoning
-  authors: Jeonghoon Kim, Dongwon Jung, <b>Hogun Park<span>&#42;</span></b>
-  link:
-    display: "(in submission)"
-  highlight: 0
-  news1: 
   
 - title: "UNR-Explainer: Counterfactual Explanations for Unsupervised Node Representation Learning Models"
   authors: Hyunju Kang, Geonhee Han, <b>Hogun Park<span>&#42;</span></b>

@@ -20,6 +20,14 @@
   highlight: 0
   news1: 
 
+- title: A Self-Supervised Graph Learning Method with Multi-objectives
+  authors: Heesoo Jung, Yeonje Choi, <b>Hogun Park<span>&#42;</span></b>
+  link:
+    display: "(in submission)"
+  highlight: 0
+  news1: 
+
+
 - title: A Logical Reasoning Methods with Query Representation Learning
   authors: Jeonghoon Kim, <b>Hogun Park<span>&#42;</span></b>
   link:
@@ -33,6 +41,13 @@
     display: "(in submission)"
   highlight: 0
   news1: 
+  
+- title: An Unsupervised Domain Adaption Method for Time-series Data
+  authors: Heesoo Jung, Jaehyun Bae, <b>Hogun Park<span>&#42;</span></b>
+  link:
+    display: "(in submission)"
+  highlight: 0
+  news1: 
 
 - title: Orbit-based Explainability Method for Graph Neural Networks
   authors: Kyeongrok Park, Hyunju Kang, <b>Hogun Park<span>&#42;</span></b>
@@ -41,6 +56,13 @@
   highlight: 0
   news1: 
   
+- title: A Recommender System with Logical Reasoning
+  authors: Jeonghoon Kim, Dongwon Jung, <b>Hogun Park<span>&#42;</span></b>
+  link:
+    display: "(in submission)"
+  highlight: 0
+  news1: 
+
 - title: A Recommender System with Logical Reasoning
   authors: Jeonghoon Kim, Dongwon Jung, <b>Hogun Park<span>&#42;</span></b>
   link:

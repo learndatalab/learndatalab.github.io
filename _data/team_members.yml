@@ -114,6 +114,13 @@
   number_educ: 1
   education1: AI Department
 
+- name: Juhyeon Lee
+  photo: rock.jpg
+  info: Visting Researcher (Spring 2024-)
+  email: juhyeonl@andrew.cmu.edu
+  number_educ: 1
+  education1: Statistics Department@CMU
+
 - name: "This could be you!"
   photo: rock.jpg
   info: See <a href="https://learndatalab.github.io/vacancies">openings</a> for more info

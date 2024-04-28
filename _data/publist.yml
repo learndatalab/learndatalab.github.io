@@ -6,6 +6,21 @@
   highlight: 0
   news1: 
 
+- title: Enhancing Knowledge Tracing with Concept Maps
+  authors: Soonwook Park, <b>Donghoon Lee<span>&#42;</span></b>, <b>Hogun Park<span>&#42;</span></b>
+  link:
+    display: "(in submission)"
+  highlight: 0
+  news1: 
+
+- title: Logical Fallacy Detection with LLMs
+  authors: Ji Won Jeong, <b>Hyeju Jang<span>&#42;</span></b>, <b>Hogun Park<span>&#42;</span></b>
+  link:
+    display: "(in submission)"
+  highlight: 0
+  news1: 
+
+
 - title: A Efficient Training Method for Video Caption Models
   authors: Sangho Lee, Il Yong Chun<span>&#42;</span>, <b>Hogun Park<span>&#42;</span></b>
   link:
@@ -26,7 +41,6 @@
     display: "(in submission)"
   highlight: 0
   news1: 
-
 
 - title: A Logical Reasoning Methods with Query Representation Learning
   authors: Jeonghoon Kim, <b>Hogun Park<span>&#42;</span></b>
@@ -69,14 +83,13 @@
     display: "(in submission)"
   highlight: 0
   news1: 
-
   
 - title: "UNR-Explainer: Counterfactual Explanations for Unsupervised Node Representation Learning Models"
   authors: Hyunju Kang, Geonhee Han, <b>Hogun Park<span>&#42;</span></b>
   link:
     display: "International Conference on Learning Representations (ICLR 2024), 2024. (Accepted)"
   highlight: 0
-  news1:  <a href="https://openreview.net/pdf?id=0j9ZDzMPqr" target="_black">Preprint</a> Code
+  news1:  <a href="https://openreview.net/pdf?id=0j9ZDzMPqr" target="_black">PDF</a> <a href="https://github.com/hjkng/unrexplainer" target="_black">Code</a> 
   
   
 - title: "Self-supervised Multimodal Graph Convolutional Network for Collaborative Filtering"

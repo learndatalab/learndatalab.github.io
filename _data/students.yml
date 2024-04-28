@@ -10,11 +10,17 @@
 
 
 
-- name: 이우현
+- name: Woohyun Lee
   photo: rock.jpg
-  info: BS student
+  info: BS/MS student
   number_educ: 1
-  education1: CSE Department (BS student)
+  education1: CSE Department (BS/MS student)
+  
+- name: Minji Kim
+  photo: rock.jpg
+  info: BS/MS student
+  number_educ: 1
+  education1: CSE Department (BS/MS student)
 
 - name: Yeonje Choi
   photo: rock.jpg

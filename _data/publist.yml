@@ -28,7 +28,7 @@
   highlight: 0
   news1: 
   
-- title: A Self-Supervised Learning Method with Maksed Graph Auto-encoders
+- title: A Self-Supervised Learning Method with Masked Graph Auto-encoders
   authors: Jongwon Park, Heesoo Jung, <b>Hogun Park<span>&#42;</span></b>
   link:
     display: "(in submission)"

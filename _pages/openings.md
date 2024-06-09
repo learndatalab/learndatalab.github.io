@@ -20,12 +20,11 @@ You will have the chance to work on the grand challenges of machine learning and
 
 - Neural architectures for graphs
 - Explainable AI for various deep learning models
-- Knowledge graph-based learning
+- Copyright protection for LLMs
 - Knowledge-grounded natural language processing with large language models (LLMs)
-- Robust prompt augmentation for LLMs and generative models
-- Multi-modal learning: Video QnA and video captioning
+- Multi-modal learning for image and video
 - Sensor-based AI (e.g., EMG, EEG, ...)
-- Recommender systems
+- NLP and sensor-based AI for mental illness
 - (You can also suggest any new topic!)
 
 <!-- You find the current job openings here:

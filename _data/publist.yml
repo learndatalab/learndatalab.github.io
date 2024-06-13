@@ -95,7 +95,7 @@
   link:
     display: "Findings of the Annual Meeting of the Association for Computational Linguistics (ACL 2024 Findings), 2024. (Accepted)"
   highlight: 0
-  news1: PDF Code
+  news1:  <a href="http://arxiv.org/abs/2406.07034" target="_black">Arxiv</a> PDF <a href="https://github.com/kjh9503/caqr" target="_black">Code</a> 
   
 - title: "UNR-Explainer: Counterfactual Explanations for Unsupervised Node Representation Learning Models"
   authors: Hyunju Kang, Geonhee Han, <b>Hogun Park<span>&#42;</span></b>

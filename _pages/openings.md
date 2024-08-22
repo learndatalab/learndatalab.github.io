@@ -19,12 +19,12 @@ You will have the chance to work on the grand challenges of machine learning and
 #### Current open positions
 
 - Neural architectures for graphs
+- Robust graph transformer
 - Explainable AI for various deep learning models
-- Copyright protection for LLMs
+- Neural watermarking for LLMs
+- Large multimodal models for anomaly data
+- Numerical reasoning with knowledge graphs
 - Knowledge-grounded natural language processing with large language models (LLMs)
-- Multi-modal learning for image and video
-- Sensor-based AI (e.g., EMG, EEG, ...)
-- NLP and sensor-based AI for mental illness
 - (You can also suggest any new topic!)
 
 <!-- You find the current job openings here:

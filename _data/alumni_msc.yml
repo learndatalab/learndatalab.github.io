@@ -1,36 +1,10 @@
-# - name: Maarten Leeuwenhoek, Spring 2015
 
-# - name: Koen M Bastiaans, Spring 2015
-
-# - name: Farshaad Hoeseni, Fall 2015
-
-# - name: Oliver Ostojic, Spring 2016
-
-# - name: Tjerk Benschop, Spring 2016
-
-# - name: Bert Visscher, Fall 2017
-
-# - name: Ahmad Jamalzada, Fall 2017
-
-# - name: Corne Koks, Fall 2018
-
-# - name: Damian Bouwmeester, Summer 2019
-
-# - name: Rosanne Wijgman, Fall 2019
-
-# - name: Amber Mozes, Fall 2020
 
 - name: Soyoung Lee
   photo: soyoung.jpg
   info: M.S. Student (Spring 2023)
   number_educ: 1
   education1: M.S.@EECS Department
-  
-- name: Heesoo Jung
-  photo: heesoo.jpg
-  info: M.S. Student (Spring 2023)
-  number_educ: 1
-  education1: M.S.@AI Department
 
 - name: Kyeongrok Park
   photo: gyeongrok.jpg
@@ -51,3 +25,15 @@
   photo: Jongwon.png
   number_educ: 1
   education1: M.S.@AI Department
+  
+- name: Soonwook Park
+  photo: swpark.png
+  number_educ: 1
+  education1: M.S.@AI Department
+  
+- name: Ji Won Jeong
+  photo: jiwon.jpg
+  number_educ: 1
+  education1: M.S.@AI Department
+  
+  

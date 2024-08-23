@@ -10,15 +10,21 @@
 
 
 
-- name: Woohyun Lee
-  photo: rock.jpg
-  info: BS/MS student
-  number_educ: 1
-  education1: CSE Department (BS/MS student)
-  
-- name: Minji Kim
+- name: Kyungil Park
   photo: rock.jpg
   info: BS/MS student
   number_educ: 1
   education1: CSE Department (BS/MS student)
 
+- name: Chanyong Kim
+  photo: rock.jpg
+  info: BS/MS student
+  number_educ: 1
+  education1: CSE Department (BS/MS student)
+
+- name: SeungRyeol Baek
+  photo: rock.jpg
+  info: BS
+  number_educ: 1
+  education1: CSE Department (BS student)
+  

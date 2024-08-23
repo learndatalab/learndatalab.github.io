@@ -18,7 +18,7 @@
   info: Ph.D. Student (Fall 2023-)
   email: steve305@g.skku.edu
   number_educ: 1
-  education1: AI Department
+  education1: CSE Department
 
 - name: Jeonghoon Kim
   photo: Jeonghoon.png
@@ -43,20 +43,6 @@
   education1: AI Department
   education2: Leave of absence due to military service
   education3: <a href="https://resume.io/r/AGR8LvhWr">Personal Webpage</a>
-
-- name: Soonwook Park
-  photo: swpark.png
-  info: M.S. Student (Spring 2022-)
-  email: soonwook34@g.skku.edu
-  number_educ: 1
-  education1: AI Department
-  
-- name: Ji Won Jeong
-  photo: jiwon.jpg
-  info: M.S. Student (Spring 2022-)
-  email: jwjw9603@g.skku.edu
-  number_educ: 1
-  education1: AI Department
 
 - name: Jimyeong Han
   photo: jimyeong.jpg
@@ -94,33 +80,44 @@
   education1: AI Department
 
 - name: Yunjeong Im
-  photo: rock.jpg
+  photo: yjlim.jpg
   info: M.S. Student (Spring 2024-)
   email: yunjeong.im@skku.edu
   number_educ: 1
   education1: Applied AI Department
 
 - name: Hongjun Jeong
-  photo: rock.jpg
+  photo: hjjeong.jpg
   info: M.S. Student (Spring 2024-)
   email: zun8861@skku.edu
   number_educ: 1
   education1: AI Department
 
 - name: Dongjun Lim
-  photo: rock.jpg
+  photo: djkim.jpg
   info: M.S. Student (Spring 2024-)
   email: djlim7@skku.edu
   number_educ: 1
   education1: AI Department
 
-- name: Juhyeon Lee
+- name: Woohyun Lee
   photo: rock.jpg
-  info: Visting Researcher (Spring 2024-)
-  email: juhyeonl@andrew.cmu.edu
+  info: M.S. Student (August 2024-)
   number_educ: 1
-  education1: Statistics Department@CMU
+  education1: CSE Department
+  
+- name: Minji Kim
+  photo: mjkim.jpg
+  info: M.S. Student (August 2024-)
+  number_educ: 1
+  education1: AI Department
 
+- name: Chanhoo Kum
+  photo: rock.jpg
+  info: M.S. Student (August 2024-)
+  number_educ: 1
+  education1: CSE Department
+  
 - name: "This could be you!"
   photo: rock.jpg
   info: See <a href="https://learndatalab.github.io/vacancies">openings</a> for more info

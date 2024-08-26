@@ -1,3 +1,4 @@
+
 - title: Explanability Method for Sound AI Model
   authors: Hyunju Kang, Geonhee Han, <b>Hogun Park<span>&#42;</span></b>
   link:
@@ -93,7 +94,7 @@
 - title: Improving Multi-hop Logical Reasoning in Knowledge Graphs with Context-Aware Query Representation Learning
   authors: Jeonghoon Kim, Heesoo Jung, Hyeju Jang, <b>Hogun Park<span>&#42;</span></b>
   link:
-    display: "Findings of the Annual Meeting of the Association for Computational Linguistics (ACL 2024 Findings), 2024. (Accepted)"
+    display: "Findings of the Annual Meeting of the Association for Computational Linguistics (ACL 2024 Findings), 2024."
   highlight: 0
   news1:  <a href="http://arxiv.org/abs/2406.07034" target="_black">Arxiv</a> <a href="https://aclanthology.org/2024.findings-acl.946.pdf" target="_black">PDF</a> <a href="https://github.com/kjh9503/caqr" target="_black">Code</a> 
   

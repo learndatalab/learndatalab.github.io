@@ -89,7 +89,7 @@
   link:
     display: "Knowledge-Based Systems, Elsevier, 2024. (Impact Factor: 7.2, JCR Journal Rank: Top 13.5%) (Accepted)"
   highlight: 0
-  news1:  <a href="https://arxiv.org/pdf/2408.12996" target="_black">Arxiv</a> <a href="https://www.sciencedirect.com/science/article/pii/S0950705124009808" target="_black">PDF</a> <a href="https://github.com/Soonwook34/CRKT" target="_black">Code</a> 
+  news1:  <a href="https://arxiv.org/pdf/2408.12996" target="_black">Arxiv</a> <a href="https://authors.elsevier.com/a/1jfeD3OAb9C%7ETG" target="_black">PDF</a> <a href="https://github.com/Soonwook34/CRKT" target="_black">Code</a> 
 
 - title: Improving Multi-hop Logical Reasoning in Knowledge Graphs with Context-Aware Query Representation Learning
   authors: Jeonghoon Kim, Heesoo Jung, Hyeju Jang, <b>Hogun Park<span>&#42;</span></b>

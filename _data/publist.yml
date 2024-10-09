@@ -83,11 +83,20 @@
     display: "(in submission)"
   highlight: 0
   news1: 
-  
+
+    
+- title: A Spectrum of Nonsense-mediated mRNA Decay Efficiency along the Degree of Mutational Constraint
+  authors: Young-gon Kim+, Hyunju Kang+, Beomki Lee+, Hyeok-Jae Jang, Jong-ho Park, Changhee Ha, <b>Hogun Park<span>&#42;</span></b>, Jong-Won Kim<span>&#42;</span>
+  link:
+    display: "Communications Biology, Nature Portfolio, 2024. (Impact Factor: 5.2, JCR Journal Rank: Top 11.5%) (Accepted)"
+  highlight: 0
+  news1:  PDF
+
+
 - title: Enhancing Knowledge Tracing with Concept Map and Response Disentanglement
   authors: Soonwook Park, Donghoon Lee<span>&#42;</span>, <b>Hogun Park<span>&#42;</span></b>
   link:
-    display: "Knowledge-Based Systems, Elsevier, 2024. (Impact Factor: 7.2, JCR Journal Rank: Top 13.5%) (Accepted)"
+    display: "Knowledge-Based Systems, Elsevier, 2024. (Impact Factor: 7.2, JCR Journal Rank: Top 13.5%)"
   highlight: 0
   news1:  <a href="https://arxiv.org/pdf/2408.12996" target="_black">Arxiv</a> <a href="https://authors.elsevier.com/a/1jfeD3OAb9C%7ETG" target="_black">PDF</a> <a href="https://github.com/Soonwook34/CRKT" target="_black">Code</a> 
 

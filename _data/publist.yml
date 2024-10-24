@@ -35,12 +35,6 @@
   highlight: 0
   news1: 
   
-- title: A Self-Supervised Learning Method with Masked Graph Auto-encoders
-  authors: Jongwon Park, Heesoo Jung, <b>Hogun Park<span>&#42;</span></b>
-  link:
-    display: "(in submission)"
-  highlight: 0
-  news1: 
 
 - title: A Self-Supervised Graph Learning Method with Multi-objectives
   authors: Heesoo Jung, Yeonje Choi, <b>Hogun Park<span>&#42;</span></b>
@@ -84,7 +78,13 @@
   highlight: 0
   news1: 
 
-    
+- title: CIMAGE: Exploiting the Conditional Independence in Masked Graph Auto-encoders
+  authors: Jongwon Park+, Heesoo Jung+, <b>Hogun Park<span>&#42;</span></b>
+  link:
+    display: "ACM International Conference on Web Search and Data Mining (WSDM), 2025 (Accepted)."
+  highlight: 0
+  news1:  Arxiv PDF Code
+
 - title: A Spectrum of Nonsense-mediated mRNA Decay Efficiency along the Degree of Mutational Constraint
   authors: Young-gon Kim+, Hyunju Kang+, Beomki Lee+, Hyeok-Jae Jang, Jong-ho Park, Changhee Ha, <b>Hogun Park<span>&#42;</span></b>, Jong-Won Kim<span>&#42;</span>
   link:

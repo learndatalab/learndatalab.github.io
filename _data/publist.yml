@@ -1,83 +1,4 @@
 
-- title: An Explanability Method for Sound AI Model
-  authors: Hyunju Kang, Geonhee Han, <b>Hogun Park<span>&#42;</span></b>
-  link:
-    display: "(in submission)"
-  highlight: 0
-  news1: 
-  
-- title: A Robust Subgraph-level Federated Recommender System
-  authors: Wooseok Sim, <b>Hogun Park<span>&#42;</span></b>
-  link:
-    display: "(in submission)"
-  highlight: 0
-  news1: 
-
-- title: A Federated Recommender System with Data Valuation
-  authors: Jongwon Park, Soyoung Lee, Mingu Kang, Wooseok Sim, <b>Hogun Park<span>&#42;</span></b>
-  link:
-    display: "(in submission)"
-  highlight: 0
-  news1: 
-
-- title: Logical Fallacy Detection with LLMs
-  authors: Ji Won Jeong, Hyeju Jang<span>&#42;</span>, <b>Hogun Park<span>&#42;</span></b>
-  link:
-    display: "(in submission)"
-  highlight: 0
-  news1: 
-
-
-- title: An Efficient Training Method for Video Caption Models
-  authors: Sangho Lee, Il Yong Chun<span>&#42;</span>, <b>Hogun Park<span>&#42;</span></b>
-  link:
-    display: "(in submission)"
-  highlight: 0
-  news1: 
-  
-
-- title: A Self-Supervised Graph Learning Method with Multi-objectives
-  authors: Heesoo Jung, Yeonje Choi, <b>Hogun Park<span>&#42;</span></b>
-  link:
-    display: "(in submission)"
-  highlight: 0
-  news1: 
-  
-- title: A Domain Adaption Method for sEMG Sensors
-  authors: Jaehyun Bae, Heesoo Jung, Seonkuk Kim<span>&#42;</span>, <b>Hogun Park<span>&#42;</span></b>
-  link:
-    display: "(in submission)"
-  highlight: 0
-  news1: 
-  
-- title: An Unsupervised Domain Adaption Method for Time-series Data
-  authors: Heesoo Jung, Jaehyun Bae, <b>Hogun Park<span>&#42;</span></b>
-  link:
-    display: "(in submission)"
-  highlight: 0
-  news1: 
-
-- title: An Orbit-based Explainability Method for Graph Neural Networks
-  authors: Kyeongrok Park, Hyunju Kang, <b>Hogun Park<span>&#42;</span></b>
-  link:
-    display: "(in submission)"
-  highlight: 0
-  news1: 
-  
-- title: A Recommender System with Logical Reasoning
-  authors: Jeonghoon Kim, Dongwon Jung, <b>Hogun Park<span>&#42;</span></b>
-  link:
-    display: "(in submission)"
-  highlight: 0
-  news1: 
-
-- title: Inductive Reasoning in Attributed Knowledge Graphs
-  authors: Hongjun Jeong, Heesoo Jung, <b>Hogun Park<span>&#42;</span></b>
-  link:
-    display: "(in submission)"
-  highlight: 0
-  news1: 
-
 - title: "CIMAGE: Exploiting the Conditional Independence in Masked Graph Auto-encoders"
   authors: Jongwon Park+, Heesoo Jung+, <b>Hogun Park<span>&#42;</span></b>
   link:
@@ -90,8 +11,7 @@
   link:
     display: "Communications Biology, Nature Portfolio, 2024. (Impact Factor: 5.2, JCR Journal Rank: Top 11.5%) (Accepted)"
   highlight: 0
-  news1:  PDF <a href="https://github.com/hjkng/nmdeff" target="_black">Code</a> 
-
+  news1:  <a href="https://www.nature.com/articles/s42003-024-07136-y" target="_black">PDF</a> <a href="https://github.com/hjkng/nmdeff" target="_black">Code</a> 
 
 - title: Enhancing Knowledge Tracing with Concept Map and Response Disentanglement
   authors: Soonwook Park, Donghoon Lee<span>&#42;</span>, <b>Hogun Park<span>&#42;</span></b>

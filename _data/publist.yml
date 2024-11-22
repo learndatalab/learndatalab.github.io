@@ -1,4 +1,11 @@
 
+- title: "MELA: Multi-Event Localization Answering Framework for Video Question Answering"
+  authors: Jimyeong Han, Sangpil Kim<span>&#42;</span>, <b>Hogun Park<span>&#42;</span></b>
+  link:
+    display: "ACM/SIGAPP Symposium On Applied Computing (SAC), 2025. (Accepted)"
+  highlight: 0
+  news1:  Arxiv PDF Code
+  
 - title: "CIMAGE: Exploiting the Conditional Independence in Masked Graph Auto-encoders"
   authors: Jongwon Park+, Heesoo Jung+, <b>Hogun Park<span>&#42;</span></b>
   link:

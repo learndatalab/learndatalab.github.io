@@ -1,4 +1,20 @@
 
+- title: "AudioGenX: Explainability on Text-to-Audio Generative models"
+  authors: Hyunju Kang+, Geonhee Han+, Yoonjae Jeong, <b>Hogun Park<span>&#42;</span></b>
+  link:
+    display: "Annual AAAI Conference on Artificial Intelligence(AAAI), 2025. (Accepted)"
+  highlight: 0
+  news1:  Arxiv PDF Code
+
+  
+- title: "MAMS: Model-Agnostic Module Selection Framework for Video Captioning"
+  authors: Sangho Lee, Il Yong Chun<span>&#42;</span>, <b>Hogun Park<span>&#42;</span></b>
+  link:
+    display: "Annual AAAI Conference on Artificial Intelligence(AAAI), 2025. (Accepted)"
+  highlight: 0
+  news1:  Arxiv PDF Code
+
+  
 - title: "MELA: Multi-Event Localization Answering Framework for Video Question Answering"
   authors: Jimyeong Han, Sangpil Kim<span>&#42;</span>, <b>Hogun Park<span>&#42;</span></b>
   link:

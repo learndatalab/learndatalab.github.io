@@ -9,7 +9,7 @@ permalink: /cimage
 ## CIMAGE: Exploiting the Conditional Independence in Masked Graph Auto-encoders
 
 
-Full paper with full proof and experimental setup could be found at this link (TBD). 
+The full paper, including complete proofs and the experimental setup, can be found at this link (TBD).
 
 
 <br />

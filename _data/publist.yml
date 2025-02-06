@@ -42,8 +42,9 @@
   authors: Jongwon Park+, Heesoo Jung+, <b>Hogun Park<span>&#42;</span></b>
   link:
     display: "ACM International Conference on Web Search and Data Mining (WSDM), 2025. (Accepted, Acceptance rate: 17.3%)"
-  highlight: 0
+  highlight: 1
   news1:  Arxiv PDF Code
+  news2:  "Selected as an Oral Presentation of WSDM 2025 (Acceptance rate: 6.5%)"
 
 - title: A Spectrum of Nonsense-mediated mRNA Decay Efficiency along the Degree of Mutational Constraint
   authors: Young-gon Kim+, Hyunju Kang+, Beomki Lee+, Hyeok-Jae Jang, Jong-ho Park, Changhee Ha, <b>Hogun Park<span>&#42;</span></b>, Jong-Won Kim<span>&#42;</span>

@@ -14,16 +14,16 @@ permalink: /vacancies
 
 We are always looking for new group members with passion, talent, and grit!
 
-You will have the chance to work on the grand challenges of machine learning and deep learning. You will be involved in determining the important and interesting questions, creating and improving existing ML models, and making discoveries.
+You will have the chance to work on the grand challenges of machine learning and deep learning. You will be involved in determining important and interesting questions, creating and improving existing ML models, and making discoveries.
 
 #### Current open positions
 
 - Neural architectures for graphs
-- Robust graph transformer
 - Explainable AI for various deep learning models
-- Neural watermarking for LLMs
-- Large multimodal models for anomaly data
+- Neural watermarking and copy-right tracking for LLMs
+- AI Safety for LLMs and deep learning models
 - Numerical reasoning with knowledge graphs
+- Knowledge graph representation learning
 - Knowledge-grounded natural language processing with large language models (LLMs)
 - (You can also suggest any new topic!)
 

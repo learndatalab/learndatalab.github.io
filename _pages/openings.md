@@ -21,10 +21,10 @@ You will have the chance to work on the grand challenges of machine learning and
 - Neural architectures for graphs
 - Explainable AI for various deep learning models
 - Neural watermarking and copy-right tracking for LLMs
-- AI Safety for LLMs and deep learning models
+- AI Safety
 - Numerical reasoning with knowledge graphs
 - Knowledge graph representation learning
-- Knowledge-grounded natural language processing with large language models (LLMs)
+- Knowledge-augmented large language models (LLMs)
 - (You can also suggest any new topic!)
 
 <!-- You find the current job openings here:

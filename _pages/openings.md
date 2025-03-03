@@ -18,7 +18,7 @@ You will have the chance to work on the grand challenges of machine learning and
 
 #### Current open positions
 
-- Neural architectures for graphs
+- Learning on graphs and geometry
 - Explainable AI for various deep learning models
 - Neural watermarking and copy-right tracking for LLMs
 - AI Safety

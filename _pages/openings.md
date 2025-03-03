@@ -21,7 +21,7 @@ You will have the chance to work on the grand challenges of machine learning and
 - Learning on graphs and geometry
 - Explainable AI for various deep learning models
 - Neural watermarking and copy-right tracking for LLMs
-- AI Safety
+- AI Safety for LLM and VLM models
 - Numerical reasoning with knowledge graphs
 - Knowledge graph representation learning
 - Knowledge-augmented large language models (LLMs)

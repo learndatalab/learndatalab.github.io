@@ -44,38 +44,31 @@
   education2: Leave of absence due to military service
   education3: <a href="https://resume.io/r/AGR8LvhWr">Personal Webpage</a>
 
-- name: Jimyeong Han
-  photo: jimyeong.jpg
-  info: M.S. Student (Fall 2022-)
-  email: jonsnow@g.skku.edu
-  number_educ: 1
-  education1: AI Department
-  
-- name: Geonhee Han
-  photo: geonhee.jpg
-  info: M.S. Student (Spring 2023-)
-  email: gunhee8178@g.skku.edu
-  number_educ: 1
-  education1: AI Department
-  
 - name: Wooseok Sim 
   photo: wooseok.jpg
-  info: M.S. Student (Spring 2023-)
+  info: Ph.D. Student (Spring 2025-)
   email: dntjr41@skku.edu
-  number_educ: 1
-  education1: AI Department
-
-- name: Minku Kang
-  photo: mingu.jpg
-  info: M.S. Student (Fall 2023-)
-  email: netisen3@o365.skku.edu
   number_educ: 1
   education1: AI Department
 
 - name: Jaehyun Bae
   photo: jaehyun.jpg
-  info: M.S. Student (Fall 2023-)
+  info: Ph.D. Student (Spring 2025-)
   email: forsandy@o365.skku.edu
+  number_educ: 1
+  education1: CSE Department
+
+- name: Geonhee Han
+  photo: geonhee.jpg
+  info: Researcher (Spring 2025-)
+  email: gunhee8178@g.skku.edu
+  number_educ: 1
+  education1: AI Department
+  
+- name: Minku Kang
+  photo: mingu.jpg
+  info: M.S. Student (Fall 2023-)
+  email: netisen3@o365.skku.edu
   number_educ: 1
   education1: AI Department
 
@@ -118,6 +111,20 @@
   photo: rock.jpg
   info: M.S. Student (August 2024-)
   email: chkum17@skku.edu
+  number_educ: 1
+  education1: CSE Department
+
+- name: Kyungil Park
+  photo: rock.jpg
+  info: M.S. Student (March 2025-)
+  email: parkki1146@skku.edu
+  number_educ: 1
+  education1: AI Department
+
+- name: Chanyong Kim
+  photo: rock.jpg
+  info: M.S. Student (March 2025-)
+  email: cksdyd8350@skku.edu
   number_educ: 1
   education1: CSE Department
   

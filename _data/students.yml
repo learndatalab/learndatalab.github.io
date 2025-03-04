@@ -9,22 +9,15 @@
 #  education4:
 
 
-
-- name: Kyungil Park
-  photo: rock.jpg
-  info: BS/MS student
-  number_educ: 1
-  education1: CSE Department (BS/MS student)
-
-- name: Chanyong Kim
-  photo: rock.jpg
-  info: BS/MS student
-  number_educ: 1
-  education1: CSE Department (BS/MS student)
-
 - name: SeungRyeol Baek
   photo: rock.jpg
-  info: BS
+  info: B.S.
   number_educ: 1
   education1: CSE Department (BS student)
-  
+
+- name: Hojun Lee
+  photo: rock.jpg
+  info: B.S.
+  number_educ: 1
+  education1: CSE Department (BS student)
+

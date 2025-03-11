@@ -11,7 +11,7 @@ CIMAGE: Exploiting the Conditional Independence in Masked Graph Auto-encoders<br
 Jongwon Park+, Heesoo Jung+, Hogun Park*<br />
 ACM International Conference on Web Search and Data Mining (WSDM), 2025.<br />
 <br />
-The full paper, including complete proofs and the experimental setup, can be found at this link (TBD).
+The full paper, including complete proofs and the experimental setup, can be found at this ([Link](https://hogunpark.com/papers/WSDM2025_CIMAGE_full.pdf)).
 
 
 <br />

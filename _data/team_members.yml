@@ -34,15 +34,6 @@
   number_educ: 2
   education1: AI Department
   education2: Leave of absence due to military service
-  
-- name: Juann Kim
-  photo: juaan.jpg
-  info: M.S/Ph.D Student (Spring 2023-)
-  email: kimjuann@g.skku.edu
-  number_educ: 3
-  education1: AI Department
-  education2: Leave of absence due to military service
-  education3: <a href="https://resume.io/r/AGR8LvhWr">Personal Webpage</a>
 
 - name: Wooseok Sim 
   photo: wooseok.jpg

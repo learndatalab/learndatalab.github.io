@@ -12,7 +12,7 @@
   link:
     display: "The 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL 2025 Findings), 2025."
   highlight: 0
-  news1:  Arxiv PDF <a href="https://github.com/jw9603/Logical_Fallacy" target="_black">Code</a>
+  news1:  <a href="https://arxiv.org/abs/2503.23363" target="_black">Arxiv</a> PDF <a href="https://github.com/jw9603/Logical_Fallacy" target="_black">Code</a>
 
 - title: "Balancing Graph Embedding Smoothness in Self-supervised Learning via Information-Theoretic Decomposition"
   authors: Heesoo Jung, <b>Hogun Park<span>&#42;</span></b>
@@ -24,17 +24,17 @@
 - title: "AudioGenX: Explainability on Text-to-Audio Generative Models"
   authors: Hyunju Kang+, Geonhee Han+, Yoonjae Jeong, <b>Hogun Park<span>&#42;</span></b>
   link:
-    display: "Annual AAAI Conference on Artificial Intelligence (AAAI), 2025. (Accepted)"
+    display: "Annual AAAI Conference on Artificial Intelligence (AAAI), 2025."
   highlight: 0
-  news1: <a href="https://www.arxiv.org/pdf/2502.00459" target="_black">Arxiv</a> PDF <a href="https://github.com/hjkng/audiogenX" target="_black">Code</a>
+  news1: <a href="https://www.arxiv.org/pdf/2502.00459" target="_black">Arxiv</a> <a href="https://ojs.aaai.org/index.php/AAAI/article/view/33950" target="_black">PDF</a> <a href="https://github.com/hjkng/audiogenX" target="_black">Code</a>
 
  
 - title: "MAMS: Model-Agnostic Module Selection Framework for Video Captioning"
   authors: Sangho Lee, Il Yong Chun<span>&#42;</span>, <b>Hogun Park<span>&#42;</span></b>
   link:
-    display: "Annual AAAI Conference on Artificial Intelligence (AAAI), 2025. (Accepted)"
+    display: "Annual AAAI Conference on Artificial Intelligence (AAAI), 2025."
   highlight: 0
-  news1:  <a href="https://arxiv.org/pdf/2501.18269" target="_black">Arxiv</a> PDF <a href="https://github.com/mancityg/AAAI2025-MAMS" target="_black">Code</a>  (Selected as an <a href="" target="_black">Oral Presentation</a> (Top 6.1% paper))
+  news1:  <a href="https://arxiv.org/pdf/2501.18269" target="_black">Arxiv</a> <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32478" target="_black">PDF</a> <a href="https://github.com/mancityg/AAAI2025-MAMS" target="_black">Code</a>  (Selected as an <a href="" target="_black">Oral Presentation</a> (Top 6.1% paper))
 
   
 - title: "MELA: Multi-Event Localization Answering Framework for Video Question Answering"

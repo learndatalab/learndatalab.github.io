@@ -6,7 +6,7 @@
   highlight: 0
   news1: Arxiv PDF Code (Selected as an <a href="" target="_black">Oral Presentation</a>)
 
-  
+
 - title: "Large Language Models Are Better Logical Fallacy Reasoners with Counterargument, Explanation, and Goal-Aware Prompt Formulation"
   authors: Jiwon Jeong, Hyeju Jang<span>&#42;</span>, <b>Hogun Park<span>&#42;</span></b>
   link:
@@ -19,7 +19,7 @@
   link:
     display: "The Web Conference (WWW 2025), 2025."
   highlight: 0
-  news1:  Arxiv PDF Code
+  news1:  <a href="http://arxiv.org/abs/2504.12011" target="_black">Arxiv</a> PDF <a href="https://github.com/steve30572/BSG" target="_black">Code</a>
 
 - title: "AudioGenX: Explainability on Text-to-Audio Generative Models"
   authors: Hyunju Kang+, Geonhee Han+, Yoonjae Jeong, <b>Hogun Park<span>&#42;</span></b>

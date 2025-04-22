@@ -19,8 +19,9 @@ You will have the chance to work on the grand challenges of machine learning and
 #### Current open positions
 
 - Learning on graphs and geometry
+- ML models for time-series data for domain adaptation and generalization
 - Explainable AI for various deep learning models
-- Neural watermarking and copy-right tracking for LLMs
+- Neural watermarking and copyright tracking for LLMs
 - AI Safety for LLM and VLM models
 - Numerical reasoning with knowledge graphs
 - Knowledge graph representation learning

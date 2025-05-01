@@ -1,3 +1,9 @@
+- title: Self-supervised Adversarial Purification for Graph Neural Networks
+  authors: Woohyun Lee,  <b>Hogun Park<span>&#42;</span></b>
+  link:
+    display: "Proc. of the 42nd International Conference on Machine Learning (ICML 2025), 2025 (Accepted)."
+  highlight: 0
+  news1: Arxiv PDF Code
 
 - title: Enhancing Inductive Numerical Reasoning in Knowledge Graphs with Relation-Aware Relative Numeric Encoding
   authors: Hongjun Jeong, Heesoo Jung, Gayeong Kim, Juann Kim, Ko Keun Kim, <b>Hogun Park<span>&#42;</span></b>

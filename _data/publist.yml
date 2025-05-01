@@ -19,7 +19,7 @@
   highlight: 0
   news1:  <a href="https://arxiv.org/abs/2503.23363" target="_black">Arxiv</a> PDF <a href="https://github.com/jw9603/Logical_Fallacy" target="_black">Code</a>
 
-- title: "Balancing Graph Embedding Smoothness in Self-supervised Learning via Information-Theoretic Decomposition"
+- title: "Balancing Graph Embedding Smoothness in Self-Supervised Learning via Information-Theoretic Decomposition"
   authors: Heesoo Jung, <b>Hogun Park<span>&#42;</span></b>
   link:
     display: "The Web Conference (WWW 2025), 2025."
@@ -45,7 +45,7 @@
 - title: "MELA: Multi-Event Localization Answering Framework for Video Question Answering"
   authors: Jimyeong Han, Sangpil Kim<span>&#42;</span>, <b>Hogun Park<span>&#42;</span></b>
   link:
-    display: "ACM/SIGAPP Symposium On Applied Computing (SAC), 2025. (Accepted)"
+    display: "ACM/SIGAPP Symposium On Applied Computing (SAC), 2025."
   highlight: 0
   news1:  Arxiv PDF Code
   

@@ -17,14 +17,14 @@
   link:
     display: "The 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL 2025 Findings), 2025."
   highlight: 0
-  news1:  <a href="https://arxiv.org/abs/2503.23363" target="_black">Arxiv</a> PDF <a href="https://github.com/jw9603/Logical_Fallacy" target="_black">Code</a>
+  news1:  <a href="https://arxiv.org/abs/2503.23363" target="_black">Arxiv</a> <a href="https://aclanthology.org/2025.findings-naacl.384/" target="_black">PDF</a> <a href="https://github.com/jw9603/Logical_Fallacy" target="_black">Code</a>
 
 - title: "Balancing Graph Embedding Smoothness in Self-Supervised Learning via Information-Theoretic Decomposition"
   authors: Heesoo Jung, <b>Hogun Park<span>&#42;</span></b>
   link:
     display: "The Web Conference (WWW 2025), 2025."
   highlight: 0
-  news1:  <a href="http://arxiv.org/abs/2504.12011" target="_black">Arxiv</a> PDF <a href="https://github.com/steve30572/BSG" target="_black">Code</a>
+  news1:  <a href="http://arxiv.org/abs/2504.12011" target="_black">Arxiv</a>  <a href="https://dl.acm.org/doi/10.1145/3696410.3714611" target="_black">PDF</a> <a href="https://github.com/steve30572/BSG" target="_black">Code</a>
 
 - title: "AudioGenX: Explainability on Text-to-Audio Generative Models"
   authors: Hyunju Kang+, Geonhee Han+, Yoonjae Jeong, <b>Hogun Park<span>&#42;</span></b>

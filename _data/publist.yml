@@ -52,14 +52,14 @@
 - title: "CIMAGE: Exploiting the Conditional Independence in Masked Graph Auto-encoders"
   authors: Jongwon Park+, Heesoo Jung+, <b>Hogun Park<span>&#42;</span></b>
   link:
-    display: "ACM International Conference on Web Search and Data Mining (WSDM), 2025. (Accepted, Acceptance rate: 17.3%)"
+    display: "ACM International Conference on Web Search and Data Mining (WSDM), 2025. (Acceptance rate: 17.3%)"
   highlight: 0
   news1:  <a href="https://arxiv.org/abs/2503.07852" target="_black">Arxiv (with full proofs)</a> <a href="https://dl.acm.org/doi/10.1145/3701551.3703515" target="_black">PDF</a> <a href="https://github.com/vapene/CIMAGE" target="_black">Code</a>  (Selected as an <a href="" target="_black">Oral Presentation</a> (Top 6.5% paper))
   
 - title: A Spectrum of Nonsense-mediated mRNA Decay Efficiency along the Degree of Mutational Constraint
   authors: Young-gon Kim+, Hyunju Kang+, Beomki Lee+, Hyeok-Jae Jang, Jong-ho Park, Changhee Ha, <b>Hogun Park<span>&#42;</span></b>, Jong-Won Kim<span>&#42;</span>
   link:
-    display: "Communications Biology, Nature Portfolio, 2024. (Impact Factor: 5.2, JCR Journal Rank: Top 11.5%) (Accepted)"
+    display: "Communications Biology, Nature Portfolio, 2024. (Impact Factor: 5.2, JCR Journal Rank: Top 11.5%)"
   highlight: 0
   news1:  <a href="https://www.nature.com/articles/s42003-024-07136-y" target="_black">PDF</a> <a href="https://github.com/hjkng/nmdeff" target="_black">Code</a> 
 

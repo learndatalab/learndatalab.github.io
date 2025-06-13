@@ -20,13 +20,14 @@ You will have the chance to work on the grand challenges of machine learning and
 
 - Learning on graphs and geometry
 - ML models for time-series data for domain adaptation and generalization
-- Explainable AI for various deep learning models
+- Numerical reasoning with knowledge graphs
+<!-- - Explainable AI for various deep learning models
 - Neural watermarking and copyright tracking for LLMs
 - AI Safety for LLM and VLM models
-- Numerical reasoning with knowledge graphs
 - Knowledge graph representation learning
 - Knowledge-augmented large language models (LLMs)
 - (You can also suggest any new topic!)
+-->
 
 <!-- You find the current job openings here:
 [Opening 1]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf),

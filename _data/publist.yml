@@ -17,14 +17,14 @@
   link:
     display: "International Conference on Machine Learning (ICML 2025), 2025 (Accepted)."
   highlight: 0
-  news1: Arxiv PDF Code
+  news1: <a href="https://openreview.net/pdf?id=yMhkpJ1K01" target="_black">PDF</a> Code
 
 - title: Enhancing Inductive Numerical Reasoning in Knowledge Graphs with Relation-Aware Relative Numeric Encoding
   authors: Hongjun Jeong, Heesoo Jung, Gayeong Kim, Juann Kim, Ko Keun Kim, <b>Hogun Park<span>&#42;</span></b>
   link:
-    display: "Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2025), 2025 (Accepted)."
+    display: "Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2025), 2025."
   highlight: 0
-  news1: Arxiv PDF Code (Selected as an <a href="" target="_black">Oral Presentation</a>)
+  news1: <a href="https://hogunpark.com/papers/PAKDD2025_RRNE_preprint.pdf" target="_black">Arxiv</a> <a href="https://link.springer.com/chapter/10.1007/978-981-96-8173-0_14" target="_black">PDF</a> <a href="https://github.com/HongjunJeongSKKU/RRNE" target="_black">Code</a>
 
 - title: "Large Language Models Are Better Logical Fallacy Reasoners with Counterargument, Explanation, and Goal-Aware Prompt Formulation"
   authors: Jiwon Jeong, Hyeju Jang<span>&#42;</span>, <b>Hogun Park<span>&#42;</span></b>

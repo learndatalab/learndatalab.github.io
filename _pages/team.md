@@ -197,7 +197,7 @@ Jump to [Members](####Faculty-and-Graduate-Students), [Undergraduate Students](#
 </div>
 
 <div class="col-sm-4 clearfix">
-<h4>Bachelor Students</h4>
+<h4>Bachelor Students (>6 months)</h4>
 {% for member in site.data.alumni_bsc %}
 {{ member.name }}: {{ member.education1: }}
 {% endfor %}

@@ -1,9 +1,4 @@
-- title: AI-integrated Optoelectronic Nose for Real-time Detection of Toxic Industrial Chemicals
-  authors: Jang-Kyun Kwak+, Jaeseong Kim+, Riya Dutta+, Min-jae Kim+, Minku Kang+, Avis Wee Sin Hui, Yunjeong Yu, Jihoon Shin, <b>Hogun Park<span>&#42;</span></b>, Donghwan Kim<span>&#42;</span>, Sunkook Kim<span>&#42;</span>  
-  link:
-    display: "Small, Wiley, 2025. (Accepted, Impact Factor: 12.1, JCR Journal Rank: Top 7.2%)"
-  highlight: 0
-  news1: PDF Code
+
 
 - title: Complex Reasoning in Knowledge Graph Question Answering Through Query Graph Approximation
   authors: Hongjun Jeong+, Minji Kim+, Heesoo Jung, Ko Keun Kim<span>&#42;</span>, <b>Hogun Park<span>&#42;</span></b>
@@ -13,18 +8,25 @@
   news1: Arxiv PDF Code
   
 - title: Harnessing Influence Function in Explaining Graph Neural Networks
-  authors: Heesoo Jung+, Chanyong Kim+, Geonhee Han,  <b>Hogun Park<span>&#42;</span></b>
+  authors: Heesoo Jung+, Chanyong Kim+, Geonhee Han, <b>Hogun Park<span>&#42;</span></b>
   link:
     display: "ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025), 2025. (Accepted, Acceptance rate: 18.4%)"
   highlight: 0
   news1: Arxiv PDF Code
+
+- title: AI-integrated Optoelectronic Nose for Real-time Detection of Toxic Industrial Chemicals
+  authors: Jang-Kyun Kwak+, Jaeseong Kim+, Riya Dutta+, Min-jae Kim+, Minku Kang+, Avis Wee Sin Hui, Yunjeong Yu, Jihoon Shin, <b>Hogun Park<span>&#42;</span></b>, Donghwan Kim<span>&#42;</span>, Sunkook Kim<span>&#42;</span>  
+  link:
+    display: "Small, Wiley, 2025. (Accepted, Impact Factor: 12.1, JCR Journal Rank: Top 7.2%)"
+  highlight: 0
+  news1: PDF Code
   
 - title: Self-supervised Adversarial Purification for Graph Neural Networks
   authors: Woohyun Lee,  <b>Hogun Park<span>&#42;</span></b>
   link:
-    display: "International Conference on Machine Learning (ICML 2025), 2025 (Accepted)."
+    display: "International Conference on Machine Learning (ICML 2025), 2025."
   highlight: 0
-  news1: <a href="https://openreview.net/pdf?id=yMhkpJ1K01" target="_black">PDF</a> Code
+  news1: <a href="https://openreview.net/pdf?id=yMhkpJ1K01" target="_black">PDF</a> <a href="https://github.com/woodavid31/GPR-GAE" target="_black">Code</a>
 
 - title: Enhancing Inductive Numerical Reasoning in Knowledge Graphs with Relation-Aware Relative Numeric Encoding
   authors: Hongjun Jeong, Heesoo Jung, Gayeong Kim, Juann Kim, Ko Keun Kim, <b>Hogun Park<span>&#42;</span></b>

@@ -5,7 +5,7 @@
   link:
     display: "Findings of the Annual Meeting of the Association for Computational Linguistics (ACL 2025 Findings), 2025."
   highlight: 0
-  news1: Arxiv PDF Code
+  news1: <a href="https://aclanthology.org/2025.findings-acl.1387.pdf" target="_black">PDF</a> <a href="https://github.com/HongjunJeongSKKU/Aqua-QA" target="_black">Code</a>
   
 - title: Harnessing Influence Function in Explaining Graph Neural Networks
   authors: Heesoo Jung+, Chanyong Kim+, Geonhee Han, <b>Hogun Park<span>&#42;</span></b>

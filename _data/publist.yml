@@ -2,7 +2,7 @@
 - title: Curriculum Guided Personalized Subgraph Federated Learning
   authors: Minku Kang, <b>Hogun Park<span>&#42;</span></b>  
   link:
-    display: "The Conference on Information and Knowledge Management (CIKM), 2025. (Accepted)"
+    display: "ACM International Conference on Information and Knowledge Management (CIKM 2025), 2025. (Accepted)"
   highlight: 0
   news1: PDF Code
 
@@ -58,7 +58,7 @@
 - title: "AudioGenX: Explainability on Text-to-Audio Generative Models"
   authors: Hyunju Kang+, Geonhee Han+, Yoonjae Jeong, <b>Hogun Park<span>&#42;</span></b>
   link:
-    display: "Annual AAAI Conference on Artificial Intelligence (AAAI), 2025."
+    display: "Annual AAAI Conference on Artificial Intelligence (AAAI 2025), 2025."
   highlight: 0
   news1: <a href="https://www.arxiv.org/pdf/2502.00459" target="_black">Arxiv</a> <a href="https://ojs.aaai.org/index.php/AAAI/article/view/33950" target="_black">PDF</a> <a href="https://github.com/hjkng/audiogenX" target="_black">Code</a>
 
@@ -66,7 +66,7 @@
 - title: "MAMS: Model-Agnostic Module Selection Framework for Video Captioning"
   authors: Sangho Lee, Il Yong Chun<span>&#42;</span>, <b>Hogun Park<span>&#42;</span></b>
   link:
-    display: "Annual AAAI Conference on Artificial Intelligence (AAAI), 2025."
+    display: "Annual AAAI Conference on Artificial Intelligence (AAAI 2025), 2025."
   highlight: 0
   news1:  <a href="https://arxiv.org/pdf/2501.18269" target="_black">Arxiv</a> <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32478" target="_black">PDF</a> <a href="https://github.com/mancityg/AAAI2025-MAMS" target="_black">Code</a>  (Selected as an <a href="" target="_black">Oral Presentation</a> (Top 6.1% paper))
 
@@ -74,14 +74,14 @@
 - title: "MELA: Multi-Event Localization Answering Framework for Video Question Answering"
   authors: Jimyeong Han, Sangpil Kim<span>&#42;</span>, <b>Hogun Park<span>&#42;</span></b>
   link:
-    display: "ACM/SIGAPP Symposium On Applied Computing (SAC), 2025."
+    display: "ACM/SIGAPP Symposium On Applied Computing (SAC 2025), 2025."
   highlight: 0
   news1:  Arxiv PDF Code
   
 - title: "CIMAGE: Exploiting the Conditional Independence in Masked Graph Auto-encoders"
   authors: Jongwon Park+, Heesoo Jung+, <b>Hogun Park<span>&#42;</span></b>
   link:
-    display: "ACM International Conference on Web Search and Data Mining (WSDM), 2025. (Acceptance rate: 17.3%)"
+    display: "ACM International Conference on Web Search and Data Mining (WSDM 2025), 2025. (Acceptance rate: 17.3%)"
   highlight: 0
   news1:  <a href="https://arxiv.org/abs/2503.07852" target="_black">Arxiv (with full proofs)</a> <a href="https://dl.acm.org/doi/10.1145/3701551.3703515" target="_black">PDF</a> <a href="https://github.com/vapene/CIMAGE" target="_black">Code</a>  (Selected as an <a href="" target="_black">Oral Presentation</a> (Top 6.5% paper))
   
@@ -189,7 +189,7 @@
 - title: Finding Client-side Business Flow Tampering Vulnerabilities
   authors: I Luk Kim, Yunhui Zheng, <b>Hogun Park</b>, Weihang Wang, Wei You, Yousra Aafer, Xiangyu Zhang
   link:
-    display: "Proc. of the 42nd International Conference on Software Engineering (ICSE 2020), 2020. (Acceptance rate: 20.91%)"
+    display: "International Conference on Software Engineering (ICSE 2020), 2020. (Acceptance rate: 20.91%)"
   highlight: 0
   news1: <a href="http://hogunpark.com/papers/ICSE2020-Kim-BusinessTampering.pdf" target="_black">PDF</a> 
   
@@ -197,7 +197,7 @@
 - title: Role Equivalence Attention for Label Propagation in Graph Neural Networks
   authors: <b>Hogun Park</b>, Jennifer Neville
   link:
-    display: "Proc. of the 24th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2020), 2020. (Acceptance rate: 21%)"
+    display: "Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2020), 2020. (Acceptance rate: 21%)"
   highlight: 0
   news1: <a href="http://hogunpark.com/papers/PAKDD2020-Park_and_Neville.pdf" target="_black">PDF</a> 
   
@@ -214,7 +214,7 @@
   authors:
     <b>Hogun Park</b>, Jennifer Neville
   link:
-    display: "Proc. of the 28th International Joint Conference on Artificial Intelligence (IJCAI 2019), 2019. (Acceptance rate: 17.89%)"
+    display: "International Joint Conference on Artificial Intelligence (IJCAI 2019), 2019. (Acceptance rate: 17.89%)"
   highlight: 0
   news1: <a href="http://hogunpark.com/papers/HPark-IJCAI2019-TSGNET.pdf" target="_black">PDF</a>  <a href="https://github.com/hogunpark/TSGNET" target="_black">Code</a> 
 
@@ -224,7 +224,7 @@
   authors:
     <b>Hogun Park</b>, Hamid Reza Motahari Nezhad
   link:
-    display: "Proc. of the 27th Web Conference (WWW 2018) - Cognitive Computing Track, 2018."
+    display: "The Web Conference (WWW 2018) - Cognitive Computing Track, 2018."
   highlight: 0
   news1: <a href="http://hogunpark.com/papers/www2018-procedure.pdf" target="_black">PDF</a>  
 
@@ -233,7 +233,7 @@
   authors:
     <b>Hogun Park</b>, John Moore, Jennifer Neville
   link:
-    display: "Proc. of the MAISoN Workshop in 10th ACM Conference on Web Search and Data Mining (WSDM 2017), 2017."
+    display: "MAISoN Workshop in 10th ACM Conference on Web Search and Data Mining (WSDM 2017), 2017."
   highlight: 0
   news1: <a href="http://hogunpark.com/papers/wsdm2017-maison.pdf" target="_black">PDF</a>  
 
@@ -250,7 +250,7 @@
 - title: "Trendy Episode Detection at a Very Short Time Granularity"
   authors: <b>Hogun Park</b>, Sun-Bum Youn, Geun-Yong Lee, Heedong Ko
   link:
-    display: "Proc. of the 9th European Interactive TV Conference (EuroITV 2011, now ACM IMX), 2011."
+    display: "European Interactive TV Conference (EuroITV 2011, now ACM IMX), 2011."
   highlight: 0
   news1: <a href="http://hogunpark.com/papers/EUROITV2011-HOTTOPIC.pdf" target="_black">PDF</a>  
 
@@ -258,7 +258,7 @@
 - title: "Sharing of Baseball Event through Social Media"
   authors: <b>Hogun Park</b>, Sun-Bum Youn, Geun-Yong Lee, Heedong Ko
   link:
-    display: "Proc. of the 11th ACM SIGMM International Conference on Multimedia Information Retrieval (MIR 2010, now ACM ICMR), 2010."
+    display: "ACM SIGMM International Conference on Multimedia Information Retrieval (MIR 2010, now ACM ICMR), 2010."
   highlight: 0
   news1: <a href="http://hogunpark.com/papers/MIR2010_PHG.pdf" target="_black">PDF</a>  <a href="https://youtu.be/Xv5hhBZ0sI8" target="_black">Video</a>  
 
@@ -266,28 +266,28 @@
 - title: "Interactive Information Seeking Interface for Exploratory Search"
   authors: <b>Hogun Park</b>, Sung-Hyon Myaeng, Gwan Jang, Jong-wook Choi, Sooran Jo,  Hyungchul Roh
   link:
-    display: "Proc. of the Human-Computer Interaction and Information Retrieval 2008 (HCIR 2008, now ACM CHIIR), 2008."
+    display: "Human-Computer Interaction and Information Retrieval 2008 (HCIR 2008, now ACM CHIIR), 2008."
   highlight: 0
   news1: <a href="http://hogunpark.com/papers/HCIR08-hpark.pdf" target="_black">PDF</a>  <a href="http://hogunpark.com/papers/papers/ICEIS2008_phg.pdf" target="_black"> Extended_PDF</a> <a href="https://youtu.be/AW5yCG282L8" target="_black">Video</a>  
 
 - title: "Supporting Mixed Initiative Human-Robot Interaction: A Script-based Cognitive Architecture Approach"
   authors: <b>Hogun Park</b>, Yoonjung Choi, Yuchul Jung, and Sung-Hyun Myaeng
   link:
-    display: "Proc. of the 21st IEEE International Joint Conference on Neural Network (IJCNN 2008), 2008."
+    display: "IEEE International Joint Conference on Neural Network (IJCNN 2008), 2008."
   highlight: 0
   news1: <a href="http://hogunpark.com/papers/IJCNN2008_PHG.pdf" target="_black">PDF</a>  
 
 - title: "Designing a Cognitive Case-Based Reasoning Framework for Home Service Robots"
   authors: Yuchul Jung, <b>Hogun Park</b>, Yoonjung Choi, and Sung-Hyon Myaeng
   link:
-    display: "Proc. of the 16th IEEE International Symposium on Robot Human Interactive Communication (RO-MAN 2007), 2007."
+    display: "IEEE International Symposium on Robot Human Interactive Communication (RO-MAN 2007), 2007."
   highlight: 0
   news1: <a href="http://hogunpark.com/papers/roman 2007-robot.pdf" target="_black">PDF</a>  
 
 - title: "A Hybrid Mood Classification Approach for Blog Text"
   authors: Yuchul Jung, <b>Hogun Park</b>, and Sung-Hyon Myaeng
   link:
-    display: "Proc. of the 9th Pacific Rim International Conference on Artificial Intelligence (PRICAI 2006), 2006. (Acceptance rate: 28.8%)"
+    display: "Pacific Rim International Conference on Artificial Intelligence (PRICAI 2006), 2006. (Acceptance rate: 28.8%)"
   highlight: 0
   news1: <a href="http://hogunpark.com/papers/PRICAI2006_LNAI4099.pdf" target="_black">PDF</a>
 

@@ -8,7 +8,7 @@ permalink: /vacancies
 
 ## Open positions
 
-**Note: We currently have open positions for additional MS/PhD and PostDoc positions.
+**Note: We currently have open positions for additional MS/PhD and PostDoc positions for Artificial Intelligence and AI System Departments.
 <!-- Take a look at the [veni fellowship](https://www.nwo.nl/en/calls/nwo-talent-programme-veni-science-domain) or the Marie Curie fellowship (currently closed, next deadline probably Fall 2021, [here is last years call]({{ site.baseurl }}/downloads/h2020-wp1820-msca_en.pdf)).**
  -->
 
@@ -20,7 +20,6 @@ You will have the chance to work on the grand challenges of machine learning and
 
 - Learning on graphs and geometry
 - ML models for time-series data for domain adaptation and generalization
-- Numerical reasoning with knowledge graphs
 
 <!-- You find the current job openings here:
 [Opening 1]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf),

@@ -37,9 +37,10 @@ We are a dynamic research group at the [Sungkyunkwan University (SKKU)](https://
 </div>
 
 
- **We are  looking for passionate new Ph.D. students and Postdocs to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are  looking for passionate new M.S./Ph.D. students and Postdocs to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
-<!--We are part of the College of Computing and Informatics (소프트웨어융합대학) at Sungkyunkwan University (SKKU) and affiliated with Computer Science Engineering (소프트웨어학과), Artificial Intelligence (인공지능대학원), and Intelligent Software (지능형소프트웨어) departments.--> We currently have open positions for additional MS/PhD and PostDoc positions for Artificial Intelligence and AI System Departments.
+<!--We are part of the College of Computing and Informatics (소프트웨어융합대학) at Sungkyunkwan University (SKKU) and affiliated with Computer Science Engineering (소프트웨어학과), Artificial Intelligence (인공지능대학원), and Intelligent Software (지능형소프트웨어) departments.--> 
+Open positions are available for additional MS/PhD students and Postdoctoral researchers in the Artificial Intelligence and AI System Departments.
 
 We are grateful for funding from the National Research Foundation of Korea (NRF), BK21, Information & Communications Technology Planning & Evaluation (IITP), National IT Industry Promotion Agency (NIPA), LG Electronics, NCSOFT, and NAVER.
 <br />

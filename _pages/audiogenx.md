@@ -10,7 +10,7 @@ AudioGenX: Explainability on Text-to-Audio Generative models<br />
 Hyunju Kang+, Geonhee Han+, Yoonjae Jeong, Hogun Park*<br />
 Annual AAAI Conference on Artificial Intelligence (AAAI), 2025.<br />
 
-The full paper, including additional experimental results, is available at this link (TBD).
+The full paper, including additional experimental results, is available at [this link](https://arxiv.org/abs/2502.00459).
 
 
 <br />

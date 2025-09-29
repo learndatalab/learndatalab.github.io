@@ -12,26 +12,23 @@
 
 
 - name: Hojun Lee
-  photo: rock.jpg
+  photo: lhj.png
   info: B.S.
-  number_educ: 1
-  education1: CSE Department (BS/MS student)
-
-- name: Hojun Lee
-  photo: rock.jpg
-  info: B.S.
+  email: orcies8147@g.skku.edu
   number_educ: 1
   education1: CSE Department (BS/MS student)
 
 - name: Sunwoo Hwang
   photo: hsw.png
   info: B.S.
+  email: sunwoo1357@g.skku.edu
   number_educ: 1
-  education1: CSE Department (BS student)
+  education1: Applied AI Department (BS student)
 
 - name: Sungsoo Chung
   photo: css.png
+  email: ds09043@g.skku.edu
   info: B.S.
   number_educ: 1
-  education1: CSE Department (BS student)
+  education1: Stat/CSE Department (BS student)
 

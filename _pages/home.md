@@ -19,7 +19,7 @@ We develop models designed to handle complex, interconnected data sources such a
 Our research emphasizes building AI systems that are both interpretable and reliable, with a focus on generative models and graph-based models.  
 
 ##### 3. Natural Language Processing (NLP)  
-In NLP, we investigate methods for enhancing and responsibly applying large language models. Our work includes knowledge-enhanced LLMs, knowledge editing for LLMs, watermarking methods for LLMs, and logical as well as symbolic reasoning.  
+In NLP, we investigate methods for enhancing and responsibly learning large language models. Our work includes knowledge-enhanced LLMs, knowledge editing for LLMs, watermarking methods for LLMs, and logical as well as symbolic reasoning.  
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->

@@ -12,13 +12,13 @@ We are a dynamic research group at [Sungkyunkwan University (SKKU)](https://en.w
 
 ### Research Areas  
 
-#### Machine Learning & Data Mining for Interconnected Data  
+#### 1. Machine Learning & Data Mining for Interconnected Data 
 We develop models designed to handle complex, interconnected data sources such as human interactions, knowledge graphs, ontologies, educational logs, multi-modal graphs, and multi-sensor data.  
 
-#### Explainable and Trustworthy AI  
+#### 2. Explainable and Trustworthy AI  
 Our research emphasizes building AI systems that are both interpretable and reliable, with a focus on generative models and graph-based models.  
 
-#### Natural Language Processing (NLP)  
+#### 3. Natural Language Processing (NLP)  
 In NLP, we investigate methods for enhancing and responsibly applying large language models. Our work includes knowledge-enhanced LLMs, knowledge editing for LLMs, watermarking methods for LLMs, and logical as well as symbolic reasoning.  
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >

@@ -6,8 +6,20 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Sungkyunkwan University (SKKU)](https://en.wikipedia.org/wiki/Sungkyunkwan_University). Our aim is to develop <b>Machine Learning/Data Mining models on Inter-Connected Data</b> (e.g., human interactions, object graph in 3D, social networks, knowledge base, education log, sensor network, and multi-modal graph) and <b>Natural Language Processing</b> (e.g., knowledge-enhanced large language models (LLMs) and logical/symbolic reasoning). The current research topics include self-supervised graph learning, multi-modal learning (image/text or sensors), question/answering, logical reasoning, knowledge tracing, recommender systems, and explainable AI (XAI).
+<!--We are a dynamic research group at the [Sungkyunkwan University (SKKU)](https://en.wikipedia.org/wiki/Sungkyunkwan_University). Our aim is to develop Machine Learning and Data Mining models for Interconnected Data (e.g., human interactions, knowledge graphs, educational logs, multi-modal graphs, and multi-sensor data), as well as trustworthy and explainable AI for generative and graph-based models. We also focus on Natural Language Processing (e.g., knowledge-enhanced large language models (LLMs), knowledge editing for LLMs, watermarking for LLMs, and logical/symbolic reasoning). Our current research topics include self-supervised graph learning, multi-modal learning, question answering, knowledge tracing, and recommender systems.-->
+# About Us  
+We are a dynamic research group at [Sungkyunkwan University (SKKU)](https://en.wikipedia.org/wiki/Sungkyunkwan_University). Our mission is to advance the fields of machine learning, data mining, trustworthy AI, and natural language processing through both theoretical and applied research.  
 
+## Research Areas  
+
+### Machine Learning & Data Mining for Interconnected Data  
+We develop models designed to handle complex, interconnected data sources such as human interactions, knowledge graphs, ontologies, educational logs, multi-modal graphs, and multi-sensor data.  
+
+### Explainable and Trustworthy AI  
+Our research emphasizes building AI systems that are both interpretable and reliable, with a focus on generative models and graph-based models.  
+
+### Natural Language Processing (NLP)  
+In NLP, we investigate methods for enhancing and responsibly applying large language models. Our work includes knowledge-enhanced LLMs, knowledge editing for LLMs, watermarking methods for LLMs, and logical as well as symbolic reasoning.  
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->

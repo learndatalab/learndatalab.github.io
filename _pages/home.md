@@ -17,9 +17,7 @@ We develop models designed to handle complex, interconnected data sources such a
 
 ##### 2. Explainable and Trustworthy AI  
 Our research emphasizes building AI systems that are both interpretable and reliable, with a focus on graph-based ML models and generative models.  
-
-##### 3. Natural Language Processing (NLP)  
-In NLP, we investigate methods to responsibly enhancing large language models (LLMs). Our work spans machinastic interpretability, knowledge-enhanced LLMs, knowledge editing, watermarking techniques, and both logical and symbolic reasoning.
+Moreover, we investigate methods to responsibly enhancing large language models (LLMs). Our work spans machinastic interpretability, knowledge-enhanced LLMs, knowledge editing, watermarking techniques, and both logical and symbolic reasoning.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->

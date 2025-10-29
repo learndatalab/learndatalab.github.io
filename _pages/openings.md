@@ -19,7 +19,9 @@ You will have the chance to work on the grand challenges of machine learning and
 #### Current open positions
 
 - Learning on graphs and geometry
-- ML models for time-series data for domain adaptation and generalization
+- Incorporating LLMs into graph representation models and their explainers
+<!-- ML models for time-series data for domain adaptation and generalization 
+-->
 
 <!-- You find the current job openings here:
 [Opening 1]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf),
@@ -28,7 +30,7 @@ You will have the chance to work on the grand challenges of machine learning and
 <!-- It might be interesting to look at some past job advertisements. While the projects keep changing, the themes are still roughly the same. You can download them [here]({{ site.baseurl }}/downloads/PD.pdf), [here]({{ site.baseurl }}/downloads/PHD1.pdf), or [here]({{ site.baseurl }}/downloads/PHD2.pdf). -->
 
 #### Applications for MS/PhD and Postdoc positions
-If you are interested in working with us as a MS/PhD student or postdoc, please send me an [email](mailto:hogunpark@skku.edu). State briefly why you are interested and attach a CV with transcripts. 
+If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:hogunpark@skku.edu). State briefly why you are interested and attach a CV with transcripts. No opening for MS student for now.
 
 **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. 
 

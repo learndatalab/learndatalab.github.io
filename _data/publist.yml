@@ -32,10 +32,10 @@
   link:
     display: "Small, Wiley, 2025. (Accepted, Impact Factor: 12.1, JCR Journal Rank: Top 7.2%)"
   highlight: 0
-  news1: PDF Code
+  news1: <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/smll.202506026" target="_black">PDF</a>
   
 - title: Self-supervised Adversarial Purification for Graph Neural Networks
-  authors: Woohyun Lee,  <b>Hogun Park<span>&#42;</span></b>
+  authors: Woohyun Lee, <b>Hogun Park<span>&#42;</span></b>
   link:
     display: "International Conference on Machine Learning (ICML 2025), 2025."
   highlight: 0
@@ -162,15 +162,15 @@
   link:
     display: "The Web Conference (WWW 2023), 2023."
   highlight: 0
-  news1: <a href="https://arxiv.org/abs/2302.10567" target="_black">PDF</a>  <a href="https://github.com/steve30572/DPAO/" target="_black">Code</a> 
+  news1: <a href="https://arxiv.org/abs/2302.10567" target="_black">PDF</a> <a href="https://github.com/steve30572/DPAO/" target="_black">Code</a> 
 
 - title: Laser-induced Carbonization for Anticounterfeiting Tags
   authors: Srinivas Gandla, Changgyun Moon, Seungho Baek, <b>Hogun Park<span>&#42;</span></b>, Seonkuk Kim<span>&#42;</span>.
   link:
     display: "Advanced Functional Materials, Wiley, 2023. (Impact Factor: 19.924, JCR Journal Rank in Category (PHYSICS, APPLIED): Top 4.7% (8/161))"
   highlight: 0
-  news1: PDF Code <a href="https://www.dailysmart.co.kr/news/articleView.html?idxno=72723" target="_black">Press Release (Korean)</a>
-  news2: Accepted As a Cover Page of the Journal
+  news1: <a href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.202211762" target="_black">PDF</a> <a href="https://www.dailysmart.co.kr/news/articleView.html?idxno=72723" target="_black">Press Release (Korean)</a>
+  news2: Accepted as a cover page of the journal
   
 - title: Providing Post-hoc Explanation for Node Representation Learning Models Through Inductive Conformal Predictions
   authors: <b>Hogun Park</b>

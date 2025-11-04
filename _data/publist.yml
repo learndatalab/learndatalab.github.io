@@ -83,7 +83,7 @@
   link:
     display: "ACM/SIGAPP Symposium On Applied Computing (SAC 2025), 2025."
   highlight: 0
-  news1:  Arxiv PDF Code
+  news1:  <a href="https://dl.acm.org/doi/10.1145/3672608.3707973" target="_black">PDF</a>
   
 - title: "CIMAGE: Exploiting the Conditional Independence in Masked Graph Auto-encoders"
   authors: Jongwon Park+, Heesoo Jung+, <b>Hogun Park<span>&#42;</span></b>

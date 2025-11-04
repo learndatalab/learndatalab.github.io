@@ -4,14 +4,14 @@
   link:
     display: "Expert Systems with Applications, Elsevier, 2025. (Accepted, Impact Factor: 7.5, JCR Journal Rank: Top 6.1%)"
   highlight: 0
-  news1: <a href="" target="_black">Arxiv</a> <a href="https://www.sciencedirect.com/science/article/pii/S095741742503310X" target="_black">PDF</a> <a href="https://github.com/HongjunJeongSKKU/Aqua-QA" target="_black">Code</a>
+  news1: <a href="https://arxiv.org/abs/2509.11196" target="_black">Arxiv</a> <a href="https://www.sciencedirect.com/science/article/pii/S095741742503310X" target="_black">PDF</a> <a href="https://github.com/Kang-Min-Ku/FedGDVE" target="_black">Code</a>
 
 - title: Curriculum Guided Personalized Subgraph Federated Learning
   authors: Minku Kang, <b>Hogun Park<span>&#42;</span></b>  
   link:
-    display: "ACM International Conference on Information and Knowledge Management (CIKM 2025), 2025. (Accepted)"
+    display: "ACM International Conference on Information and Knowledge Management (CIKM 2025), 2025."
   highlight: 0
-  news1: PDF <a href="https://aclanthology.org/2025.findings-acl.1387.pdf" target="_black">Arxiv</a> <a href="https://github.com/HongjunJeongSKKU/Aqua-QA" target="_black">Code</a>
+  news1: PDF <a href="https://arxiv.org/abs/2509.00402" target="_black">Arxiv</a> PDF <a href="https://github.com/Kang-Min-Ku/CUFL" target="_black">Code</a>
 
 - title: Complex Reasoning in Knowledge Graph Question Answering Through Query Graph Approximation
   authors: Hongjun Jeong+, Minji Kim+, Heesoo Jung, Ko Keun Kim<span>&#42;</span>, <b>Hogun Park<span>&#42;</span></b>
@@ -23,7 +23,7 @@
 - title: Harnessing Influence Function in Explaining Graph Neural Networks
   authors: Heesoo Jung+, Chanyong Kim+, Geonhee Han, <b>Hogun Park<span>&#42;</span></b>
   link:
-    display: "ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025), 2025. (Accepted, Acceptance rate: 18.4%)"
+    display: "ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025), 2025."
   highlight: 0
   news1: <a href="https://dl.acm.org/doi/pdf/10.1145/3711896.3736995" target="_black">PDF</a> <a href="https://github.com/cycy-kim/HINT-G" target="_black">Code</a>
 

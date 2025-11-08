@@ -11,7 +11,7 @@
   link:
     display: "ACM International Conference on Information and Knowledge Management (CIKM 2025), 2025."
   highlight: 0
-  news1: <a href="https://arxiv.org/abs/2509.00402" target="_black">Arxiv</a> PDF <a href="https://github.com/Kang-Min-Ku/CUFL" target="_black">Code</a>
+  news1: <a href="https://arxiv.org/abs/2509.00402" target="_black">Arxiv</a> <a href="https://dl.acm.org/doi/10.1145/3746252.3761128" target="_black">PDF</a> <a href="https://github.com/Kang-Min-Ku/CUFL" target="_black">Code</a>
 
 - title: Complex Reasoning in Knowledge Graph Question Answering Through Query Graph Approximation
   authors: Hongjun Jeong+, Minji Kim+, Heesoo Jung, Ko Keun Kim<span>&#42;</span>, <b>Hogun Park<span>&#42;</span></b>

@@ -19,7 +19,6 @@ You will have the chance to work on the grand challenges of machine learning and
 #### Current open positions
 
 - Learning on graphs and geometry
-- Incorporating LLMs into graph representation models and their explainers
 <!-- ML models for time-series data for domain adaptation and generalization 
 -->
 

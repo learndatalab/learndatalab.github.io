@@ -16,8 +16,7 @@ We are a dynamic research group at [Sungkyunkwan University (SKKU)](https://en.w
 We develop models designed to handle complex, interconnected data sources such as human interactions, knowledge graphs, ontologies, educational logs, multi-modal graphs, and multi-sensor data.  
 
 ##### 2. Explainable and Trustworthy AI  
-Our research emphasizes building AI systems that are both interpretable and reliable, with a focus on graph-based ML models and generative models.  
-Moreover, we investigate methods to responsibly enhancing large language models (LLMs). Our work spans machinastic interpretability, knowledge-enhanced LLMs, knowledge editing, watermarking techniques, and both logical and symbolic reasoning.
+Our research emphasizes building AI systems that are both interpretable and reliable, with a focus on deep learning models. Our work spans post-hoc explainers, machinastic interpretability, knowledge-enhanced LLMs, knowledge editing, neural watermarking techniques, and both logical and symbolic reasoning.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->

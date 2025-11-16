@@ -1,8 +1,15 @@
 
+- title: Conjunctive Query Embedding-based Few-shot Item Recommendation Learning Systems
+  authors: Jeonghoon Kim, Dongwon Jung, <b>Hogun Park<span>&#42;</span></b>
+  link:
+    display: "Neural Networks, Elsevier, 2026. (Accepted, Impact Factor: 6.3, JCR Journal Rank: 10.4%)"
+  highlight: 0
+  news1: PDF Code
+
 - title: Federated Recommender System with Data Valuation for E-commerce Platform
   authors: Jongwon Park+, Minku Kang+, Wooseok Sim+, Soyoung Lee+, <b>Hogun Park<span>&#42;</span></b>  
   link:
-    display: "Expert Systems with Applications, Elsevier, 2025. (Impact Factor: 7.5, JCR Journal Rank: Top 6.1%)"
+    display: "Expert Systems with Applications, Elsevier, 2026. (Aceepted, Impact Factor: 7.5, JCR Journal Rank: Top 6.1%)"
   highlight: 0
   news1: <a href="https://arxiv.org/abs/2509.11196" target="_black">Arxiv</a> <a href="https://www.sciencedirect.com/science/article/pii/S095741742503310X" target="_black">PDF</a> <a href="https://github.com/Kang-Min-Ku/FedGDVE" target="_black">Code</a>
 

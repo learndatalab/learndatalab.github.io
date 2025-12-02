@@ -13,19 +13,19 @@
 # - name: Vincent Stalman, 2019
 - name: Abhisri Madlapally
   photo: rock.jpg
-  info: BS Student Intern
+  info: B.S. Student Intern
   number_educ: 1
   education1: BS Student@CS Department, GLA University
 
 - name: Juhyeon Lee
   photo: rock.jpg
-  info: BS Student Intern
+  info: B.S. Student Intern
   number_educ: 1
   education1: BS Student@Statistics Department, Carnegie Mellon University
 
 - name: Akshay Goindani
   photo: rock.jpg
-  info: MS Student Intern
+  info: M.S. Student Intern
   number_educ: 1
   education1: MS Student@Intelligent Information Systems, Carnegie Mellon University (Current Position)
 

@@ -4,46 +4,51 @@
   photo: soyoung.jpg
   info: M.S. Student (Spring 2023)
   number_educ: 1
-  education1: M.S.@EECS Department
+  education1: M.S.@EECS, Tommoro Robotics (Current Position)
 
 - name: Kyeongrok Park
   photo: gyeongrok.jpg
   number_educ: 1
-  education1: M.S.@AI Department
+  education1: M.S.@AI, Visang Education (Current Position)
 
 - name: Sookyung Kim
   photo: sookyung.jpg
   number_educ: 1
-  education1: M.S.@AI Department
+  education1: M.S.@AI, HD Korea Shipbuilding & Offshore Engineering (Current Position)
   
 - name: Gayeong Kim
   photo: Gayoung.png
   number_educ: 1
-  education1: M.S.@AI Department
+  education1: M.S.@AI, LG Electronics CTO Division (Current Position)
     
 - name: Jongwon Park
   photo: Jongwon.png
   number_educ: 1
-  education1: M.S.@AI Department
+  education1: M.S.@AI, Visang Education (Current Position)
   
 - name: Soonwook Park
   photo: swpark.png
   number_educ: 1
-  education1: M.S.@AI Department
+  education1: M.S.@AI, Hyundai Card (Current Position)
+
+- name: Sangho Lee
+  photo: sangho.jpg
+  number_educ: 1
+  education1: M.S.@AI, Hippo T&C
   
 - name: Ji Won Jeong
   photo: jiwon.jpg
   number_educ: 1
-  education1: M.S.@AI Department
+  education1: M.S.@AI, Lotte Innovate (Current Position)
 
 - name: Jimyeong Han
   photo: jimyeong.jpg
   number_educ: 1
-  education1: M.S.@AI Department
+  education1: M.S.@AI, Hippo T&C
 
 - name: Minku Kang
   photo: mingu.jpg
   number_educ: 1
-  education1: M.S.@AI Department
+  education1: M.S.@AI, TBD
   
   

@@ -4,7 +4,7 @@
   link:
     display: "Neural Networks, Elsevier, 2026. (Accepted, Impact Factor: 6.3, JCR Journal Rank: 10.4%)"
   highlight: 0
-  news1: PDF Code
+  news1: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0893608025012237" target="_black">PDF</a> <a href="https://github.com/kjh9503/CQER" target="_black">Code</a>
 
 - title: Federated Recommender System with Data Valuation for E-commerce Platform
   authors: Jongwon Park+, Minku Kang+, Wooseok Sim+, Soyoung Lee+, <b>Hogun Park<span>&#42;</span></b>  

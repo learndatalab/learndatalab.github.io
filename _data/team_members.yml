@@ -3,7 +3,7 @@
   info: Associate Professor, started Sept. 2020
   email: hogunpark@skku.edu
   number_educ: 2
-  education1: CSE (Software), AI, Intelligent Software, Applied AI, EECS Departments
+  education1: CSE, AI, AI System, and Intelligent Software Departments
   education2: <a href="https://hogunpark.com">Personal Webpage</a>
   
 - name: Hyunju Kang
@@ -43,64 +43,71 @@
 
 - name: Geonhee Han
   photo: geonhee.jpg
-  info: Ph.D. Student (August 2025-)
+  info: Ph.D. Student (Fall 2025-)
   email: gunhee8178@g.skku.edu
   number_educ: 1
   education1: AI Department
 
 - name: Yunjeong Im
   photo: yjlim.jpg
-  info: M.S. Student (Spring 2024-)
+  info: Ph.D. Student (Spring 2026-)
   email: yunjeong.im@skku.edu
-  number_educ: 1
-  education1: Applied AI Department
-
-- name: Hongjun Jeong
-  photo: hjjeong.jpg
-  info: M.S. Student (Spring 2024-)
-  email: zun8861@skku.edu
   number_educ: 1
   education1: AI Department
 
 - name: Dongjun Lim
   photo: djlim.jpg
-  info: M.S. Student (Spring 2024-)
+  info: Ph.D. Student (Spring 2026-)
   email: djlim7@skku.edu
   number_educ: 1
-  education1: AI Department
+  education1: AI System Department
 
 - name: Woohyun Lee
   photo: whkim.jpg
-  info: M.S. Student (August 2024-)
+  info: M.S. Student (Fall 2024-)
   email: woodavid31@skku.edu
   number_educ: 1
   education1: CSE Department
   
 - name: Minji Kim
   photo: mjkim.jpg
-  info: M.S. Student (August 2024-)
+  info: M.S. Student (Fall 2024-)
   email: kmjj7864@skku.edu
   number_educ: 1
   education1: AI Department
 
 - name: Kyungil Park
   photo: pgi.png
-  info: M.S. Student (March 2025-)
+  info: M.S. Student (Spring 2025-)
   email: parkki1146@skku.edu
   number_educ: 1
   education1: AI Department
 
 - name: Chanyong Kim
   photo: kcy.jpg
-  info: M.S. Student (March 2025-)
+  info: M.S. Student (Spring 2025-)
   email: cksdyd8350@skku.edu
   number_educ: 1
   education1: CSE Department
   
 - name: Seungryeol Baek
   photo: bsr.jpg
-  info: M.S. Student (August 2025-)
+  info: M.S. Student (Fall 2025-)
   email: bsr20030507@g.skku.edu
+  number_educ: 1
+  education1: AI Department
+
+  - name: Hyunwoo Lee
+  photo: rock.jpg
+  info: M.S./Ph.D. Student (Spring 2026-)
+  email: TBD
+  number_educ: 1
+  education1: AI Department
+  
+  - name: Nayoung Ahn
+  photo: rock.jpg
+  info: M.S. Student (Spring 2026-)
+  email: anyoung1814@g.skku.edu
   number_educ: 1
   education1: AI Department
   

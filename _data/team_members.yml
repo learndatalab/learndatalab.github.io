@@ -97,6 +97,21 @@
   number_educ: 1
   education1: AI Department
 
+  
+- name: Hojun Lee
+  photo: lhj.png
+  info: M.S. (Spring 2026-)
+  email: orcies8147@g.skku.edu
+  number_educ: 1
+  education1: CSE Department (MS student)
+
+- name: Sunwoo Hwang
+  photo: hsw.png
+  info: M.S. (Spring 2026-)
+  email: sunwoo1357@g.skku.edu
+  number_educ: 1
+  education1: AI Department (BS student)
+
 - name: Hyunwoo Lee
   photo: rock.jpg
   info: M.S./Ph.D. Student (Spring 2026-)
@@ -110,7 +125,7 @@
   email: anyoung1814@g.skku.edu
   number_educ: 1
   education1: AI Department
-  
+
 - name: "This could be you!"
   photo: rock.jpg
   info: See <a href="https://learndatalab.github.io/vacancies">openings</a> for more info

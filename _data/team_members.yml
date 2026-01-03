@@ -97,14 +97,14 @@
   number_educ: 1
   education1: AI Department
 
-  - name: Hyunwoo Lee
+- name: Hyunwoo Lee
   photo: rock.jpg
   info: M.S./Ph.D. Student (Spring 2026-)
   email: TBD
   number_educ: 1
   education1: AI Department
   
-  - name: Nayoung Ahn
+- name: Nayoung Ahn
   photo: rock.jpg
   info: M.S. Student (Spring 2026-)
   email: anyoung1814@g.skku.edu

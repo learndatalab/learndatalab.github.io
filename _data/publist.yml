@@ -1,3 +1,16 @@
+- title: "Low-pass Personalized Subgraph Federated Recommendation"
+  authors: Wooseok Sim, <b>Hogun Park<span>&#42;</span></b>
+  link:
+    display: "International Conference on Learning Representations (ICLR 2026), 2026."
+  highlight: 0
+  news1:  <a href="https://openreview.net/pdf?id=SSd3GENRAU" target="_black">PDF</a> Code
+  
+- title: "Judo: A Juxtaposed Domain-oriented Multimodal Reasoner for Industrial Anomaly QA"
+  authors: Hyunju Kang+, Woohyun Lee+, Jaewon Kim, <b>Hogun Park<span>&#42;</span></b>
+  link:
+    display: "International Conference on Learning Representations (ICLR 2026), 2026."
+  highlight: 0
+  news1:  <a href="https://openreview.net/pdf?id=XW4mROtaVb" target="_black">PDF</a> Code
 
 - title: Conjunctive Query Embedding-based Few-shot Item Recommendation
   authors: Jeonghoon Kim, Dongwon Jung, <b>Hogun Park<span>&#42;</span></b>

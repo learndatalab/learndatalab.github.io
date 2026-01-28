@@ -15,14 +15,14 @@
 - title: Conjunctive Query Embedding-based Few-shot Item Recommendation
   authors: Jeonghoon Kim, Dongwon Jung, <b>Hogun Park<span>&#42;</span></b>
   link:
-    display: "Neural Networks, Elsevier, 2026. (Accepted, Impact Factor: 6.3, JCR Journal Rank: 10.4%)"
+    display: "Neural Networks, Elsevier, 2026. (Impact Factor: 6.3, JCR Journal Rank: 10.4%)"
   highlight: 0
   news1: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0893608025012237" target="_black">PDF</a> <a href="https://github.com/kjh9503/CQER" target="_black">Code</a>
 
 - title: Federated Recommender System with Data Valuation for E-commerce Platform
   authors: Jongwon Park+, Minku Kang+, Wooseok Sim+, Soyoung Lee+, <b>Hogun Park<span>&#42;</span></b>  
   link:
-    display: "Expert Systems with Applications, Elsevier, 2026. (Aceepted, Impact Factor: 7.5, JCR Journal Rank: Top 6.1%)"
+    display: "Expert Systems with Applications, Elsevier, 2026. (Impact Factor: 7.5, JCR Journal Rank: Top 6.1%)"
   highlight: 0
   news1: <a href="https://arxiv.org/abs/2509.11196" target="_black">Arxiv</a> <a href="https://www.sciencedirect.com/science/article/pii/S095741742503310X" target="_black">PDF</a> <a href="https://github.com/Kang-Min-Ku/FedGDVE" target="_black">Code</a>
 
@@ -50,7 +50,7 @@
 - title: AI-Integrated Optoelectronic Platform for Low-Latency Classification of Toxic Industrial Chemicals
   authors: Jang-Kyun Kwak, Jaeseong Kim, Riya Dutta, Min-Jae Kim, Minku Kang, Avis Wee Sin Hui, Yunjeong Yu, Jihoon Shin, <b>Hogun Park<span>&#42;</span></b>, Donghwan Kim<span>&#42;</span>, Sunkook Kim<span>&#42;</span>  
   link:
-    display: "Small, Wiley, 2025. (Accepted, Impact Factor: 12.1, JCR Journal Rank: Top 7.2%)"
+    display: "Small, Wiley, 2025. (Impact Factor: 12.1, JCR Journal Rank: Top 7.2%)"
   highlight: 0
   news1: <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/smll.202506026" target="_black">PDF</a>
   

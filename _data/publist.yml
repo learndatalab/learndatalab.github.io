@@ -12,6 +12,13 @@
   highlight: 0
   news1:  <a href="https://openreview.net/pdf?id=XW4mROtaVb" target="_black">PDF</a> Code
 
+- title: "SToRM: Supervised Token Reduction for Multi-modal LLMs toward Efficient End-to-end Autonomous Driving"
+  authors: Seo Hyun Kim, Jinbok Park, Do Yeon Koo, Hogun Park, Il Yong Chun
+  link:
+    display: "IEEE International Conference on Robotics & Automation (ICRA 2026), 2026."
+  highlight: 0
+  news1:  PDF
+
 - title: Conjunctive Query Embedding-based Few-shot Item Recommendation
   authors: Jeonghoon Kim, Dongwon Jung, <b>Hogun Park<span>&#42;</span></b>
   link:

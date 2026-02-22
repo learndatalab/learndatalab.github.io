@@ -1,3 +1,19 @@
+
+
+- title: "M^3KG-RAG: Multi-hop Multimodal Knowledge Graph-enhanced Retrieval-Augmented Generation"
+  authors: Hyeongcheol Park, Jiyoung Seo, Jaewon Mun, <b>Hogun Park</b>, Wonmin Byeon, Sung June Kim, Hyeonsoo Im, JeungSub Lee, Sangpil Kim
+  link:
+    display: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026), 2026."
+  highlight: 0
+  news1:  <a href="https://arxiv.org/abs/2512.20136" target="_black">Arxiv</a>
+
+- title: "Harnessing Spatial Dependency for Domain Generalization in Multivariate Time-series Sensor Data"
+  authors: Jaehyun Bae, Heesoo Jung, <b>Hogun Park<span>&#42;</span></b>
+  link:
+    display: "Expert Systems with Applications, Elsevier, 2026. (Impact Factor: 7.5, JCR Journal Rank: Top 6.1%)"
+  highlight: 0
+  news1: PDF Code
+
 - title: "Low-pass Personalized Subgraph Federated Recommendation"
   authors: Wooseok Sim, <b>Hogun Park<span>&#42;</span></b>
   link:

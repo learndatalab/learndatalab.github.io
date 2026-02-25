@@ -18,7 +18,9 @@ You will have the chance to work on the grand challenges of machine learning and
 
 #### Current open positions
 
-- Learning on graphs and geometry
+- Learning from Agentic Communication
+- LLM Steering via Neuron-Level Analysis
+
 <!-- ML models for time-series data for domain adaptation and generalization 
 -->
 

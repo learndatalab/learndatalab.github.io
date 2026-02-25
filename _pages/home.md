@@ -8,11 +8,11 @@ permalink: /
 
 <!--We are a dynamic research group at the [Sungkyunkwan University (SKKU)](https://en.wikipedia.org/wiki/Sungkyunkwan_University). Our aim is to develop Machine Learning and Data Mining models for Interconnected Data (e.g., human interactions, knowledge graphs, educational logs, multi-modal graphs, and multi-sensor data), as well as trustworthy and explainable AI for generative and graph-based models. We also focus on Natural Language Processing (e.g., knowledge-enhanced large language models (LLMs), knowledge editing for LLMs, watermarking for LLMs, and logical/symbolic reasoning). Our current research topics include self-supervised graph learning, multi-modal learning, question answering, knowledge tracing, and recommender systems.-->
 <!--#### About Us  -->
-We are a dynamic research group at [Sungkyunkwan University (SKKU)](https://en.wikipedia.org/wiki/Sungkyunkwan_University). Our mission is to advance machine learning, data mining, and trustworthy AI for graph-structured, textual, and temporal data, bridging foundational theory and real-world applications.
+We are a dynamic research group at [Sungkyunkwan University (SKKU)](https://en.wikipedia.org/wiki/Sungkyunkwan_University). Our mission is to advance machine learning, data mining, and trustworthy AI for graph-structured data, bridging foundational theory and real-world applications.
 
 #### Research Areas  
 
-##### 1. Machine Learning and Data Mining for Graph-Structured, Textual, and Temporal Data
+##### 1. Machine Learning and Data Mining for Graph-Structured Data
 We develop models designed to handle complex data sources such as human interactions, knowledge graphs, ontologies, educational logs, multi-modal graphs, and multi-sensor data.  
 
 ##### 2. Explainable, Robust, and Trustworthy AI

@@ -13,7 +13,7 @@ We are a dynamic research group at [Sungkyunkwan University (SKKU)](https://en.w
 #### Research Areas  
 
 ##### 1. Machine Learning and Data Mining for Graph-Structured Data
-We develop models designed to handle complex data sources such as human interactions, knowledge graphs, ontologies, educational logs, multi-modal graphs, and multi-sensor data.  
+We develop models designed to handle complex data sources such as human interactions, knowledge graphs, ontologies, educational logs, multi-modal graphs, and multi-sensor data. Their applications include GraphRAG, reasoning, multi-agent learning, and agent orchestration.
 
 ##### 2. Explainable, Robust, and Trustworthy AI
 Our research emphasizes building AI systems that are both interpretable and reliable, with a focus on deep learning models. Our work spans post-hoc explainers, mechanistic interpretability, knowledge-enhanced LLMs, knowledge editing, neural watermarking techniques, and both logical and symbolic reasoning.

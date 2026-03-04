@@ -18,9 +18,9 @@ You will have the chance to work on the grand challenges of machine learning and
 
 #### Current open positions
 
-- Learning from Agentic Communication
+- Learning from Agentic Interaction
 - LLM Steering via Neuron-Level Analysis
-
+- World Model-based Multimodal Learning
 <!-- ML models for time-series data for domain adaptation and generalization 
 -->
 

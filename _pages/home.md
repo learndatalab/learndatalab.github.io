@@ -49,9 +49,9 @@ Our research emphasizes building AI systems that are both interpretable and reli
  **We are  looking for passionate new PhD students (or MS/PhD integrated program students) and Postdocs to join the team.** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 <!--We are part of the College of Computing and Informatics (소프트웨어융합대학) at Sungkyunkwan University (SKKU) and affiliated with Computer Science Engineering (소프트웨어학과), Artificial Intelligence (인공지능대학원), and Intelligent Software (지능형소프트웨어) departments.--> 
-Open positions are available for PhD students and Postdoctoral researchers in the Artificial Intelligence and AI System Departments. No opening for MS students for now.
+Open positions are available for PhD students and Postdoctoral researchers. No opening for MS students for now.
 
-We are grateful for funding from the National Research Foundation of Korea (NRF), BK21, Information & Communications Technology Planning & Evaluation (IITP), National IT Industry Promotion Agency (NIPA), Korea Creative Content Agency (KOCCA), LG Electronics, Samsung Research, NCSOFT, and NAVER.
+We are grateful for funding from the National Research Foundation of Korea (NRF), BK21, Information & Communications Technology Planning & Evaluation (IITP), National IT Industry Promotion Agency (NIPA), Korea Creative Content Agency (KOCCA), LG Electronics, Samsung Research, NCSOFT, Samsung Display, and NAVER.
 <br />
 
 <!-- <figure class="fourth">

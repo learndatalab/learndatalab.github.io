@@ -8,15 +8,21 @@ permalink: /
 
 <!--We are a dynamic research group at the [Sungkyunkwan University (SKKU)](https://en.wikipedia.org/wiki/Sungkyunkwan_University). Our aim is to develop Machine Learning and Data Mining models for Interconnected Data (e.g., human interactions, knowledge graphs, educational logs, multi-modal graphs, and multi-sensor data), as well as trustworthy and explainable AI for generative and graph-based models. We also focus on Natural Language Processing (e.g., knowledge-enhanced large language models (LLMs), knowledge editing for LLMs, watermarking for LLMs, and logical/symbolic reasoning). Our current research topics include self-supervised graph learning, multi-modal learning, question answering, knowledge tracing, and recommender systems.-->
 <!--#### About Us  -->
-We are a dynamic research group at [Sungkyunkwan University (SKKU)](https://en.wikipedia.org/wiki/Sungkyunkwan_University). Our mission is to advance machine learning, data mining, and trustworthy AI for graph-structured data, bridging foundational theory and real-world applications.
+LearnData Lab develops machine learning systems that enable AI to reason over complex relational data.
+
+We are a research group in the Department of Software at  [Sungkyunkwan University (SKKU)](https://en.wikipedia.org/wiki/Sungkyunkwan_University), led by Prof. Hogun Park. Our work focuses on machine learning, data mining, and trustworthy AI for graph-structured data.
+
+We study how intelligent systems can learn from and reason over structured information such as social networks, knowledge graphs, and multi-modal relational data. Our research spans graph representation learning, explainable AI, and knowledge-enhanced machine learning.
+
+Our goal is to build reliable and interpretable AI systems that bridge theoretical advances in machine learning with real-world applications.
 
 #### Research Areas  
 
 ##### 1. Machine Learning and Data Mining for Graph-Structured Data
-We develop models designed to handle complex data sources such as human interactions, knowledge graphs, ontologies, educational logs, multi-modal graphs, and multi-sensor data. Their applications include GraphRAG, reasoning, multi-agent learning, and agent orchestration.
+We study algorithms capable of modeling complex relational information that arises in social and interaction networks, knowledge graphs and ontologies, educational and behavioral logs, multi-modal graphs, and multi-sensor data. By developing scalable graph representation learning techniques, we aim to enable AI systems that can understand and reason over large-scale relational structures. These methods support emerging applications such as GraphRAG, knowledge-grounded reasoning, multi-agent learning, and agent orchestration over structured data.
 
 ##### 2. Explainable, Robust, and Trustworthy AI
-Our research emphasizes building AI systems that are both interpretable and reliable, with a focus on deep learning models. Our work spans post-hoc explainers, mechanistic interpretability, knowledge-enhanced LLMs, knowledge editing, neural watermarking techniques, and both logical and symbolic reasoning.
+Our work seeks to improve the transparency and reliability of modern deep learning models by developing methods for interpretability and model understanding. This includes research on post-hoc explainability for graph neural networks, mechanistic interpretability of large language models, knowledge-enhanced LLMs, and knowledge editing techniques. We also study neural watermarking, model provenance, and approaches that integrate logical and symbolic reasoning with modern machine learning to ensure AI systems remain reliable and accountable in real-world environments.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->

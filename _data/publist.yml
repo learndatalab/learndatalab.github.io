@@ -33,7 +33,7 @@
   link:
     display: "IEEE International Conference on Robotics & Automation (ICRA 2026), 2026."
   highlight: 0
-  news1: <a href="SToRM: Supervised Token Reduction for Multi-modal LLMs toward Efficient End-to-end Autonomous Driving" target="_black">Arxiv</a> PDF
+  news1: <a href="https://arxiv.org/abs/2602.11656" target="_black">Arxiv</a> PDF
 
 - title: Conjunctive Query Embedding-based Few-shot Item Recommendation
   authors: Jeonghoon Kim, Dongwon Jung, <b>Hogun Park<span>&#42;</span></b>

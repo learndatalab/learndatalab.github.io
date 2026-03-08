@@ -12,28 +12,28 @@
   link:
     display: "Expert Systems with Applications, Elsevier, 2026. (Impact Factor: 7.5, JCR Journal Rank: Top 6.1%)"
   highlight: 0
-  news1: PDF Code
+  news1: Arxiv <a href="https://www.sciencedirect.com/science/article/pii/S0957417426004987" target="_black">PDF</a> <a href="https://github.com/learndatalab/ASAM" target="_black">Code</a>
 
 - title: "Low-pass Personalized Subgraph Federated Recommendation"
   authors: Wooseok Sim, <b>Hogun Park<span>&#42;</span></b>
   link:
     display: "International Conference on Learning Representations (ICLR 2026), 2026."
   highlight: 0
-  news1:  <a href="https://openreview.net/pdf?id=SSd3GENRAU" target="_black">PDF</a> Code
+  news1:  Arxiv <a href="https://openreview.net/pdf?id=SSd3GENRAU" target="_black">PDF</a> <a href="https://github.com/dntjr41/LPSFed" target="_black">Code</a>
   
 - title: "Judo: A Juxtaposed Domain-oriented Multimodal Reasoner for Industrial Anomaly QA"
   authors: Hyunju Kang+, Woohyun Lee+, Jaewon Kim, <b>Hogun Park<span>&#42;</span></b>
   link:
     display: "International Conference on Learning Representations (ICLR 2026), 2026."
   highlight: 0
-  news1:  <a href="https://openreview.net/pdf?id=XW4mROtaVb" target="_black">PDF</a> Code
+  news1:  Arxiv <a href="https://openreview.net/pdf?id=XW4mROtaVb" target="_black">PDF</a> <a href="https://github.com/woodavid31/JUDO" target="_black">Code</a>
 
 - title: "SToRM: Supervised Token Reduction for Multi-modal LLMs toward Efficient End-to-end Autonomous Driving"
-  authors: Seo Hyun Kim, Jinbok Park, Do Yeon Koo, Hogun Park, Il Yong Chun
+  authors: Seo Hyun Kim, Jinbok Park, Do Yeon Koo, <b>Hogun Park<span>&#42;</span></b>, Il Yong Chun<span>&#42;</span>
   link:
     display: "IEEE International Conference on Robotics & Automation (ICRA 2026), 2026."
   highlight: 0
-  news1:  PDF
+  news1: <a href="SToRM: Supervised Token Reduction for Multi-modal LLMs toward Efficient End-to-end Autonomous Driving" target="_black">Arxiv</a> PDF
 
 - title: Conjunctive Query Embedding-based Few-shot Item Recommendation
   authors: Jeonghoon Kim, Dongwon Jung, <b>Hogun Park<span>&#42;</span></b>

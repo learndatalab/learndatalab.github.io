@@ -15,7 +15,7 @@ We develop machine learning systems that reason over complex relational data, in
 #### Research Areas  
 
 ##### 1. Graph Representation Learning & Reasoning
-We design scalable algorithms for modeling relational structure in knowledge graphs, interaction networks, behavioral logs, and multi-sensor data. This work supports emerging directions including GraphRAG, knowledge-grounded reasoning, and agent orchestration over structured data.
+We design scalable algorithms for modeling relational structure in knowledge graphs, interaction networks, behavioral logs, and multi-sensor data. This work supports emerging directions including GraphRAG, knowledge-grounded reasoning, and agent orchestration.
 
 ##### 2. Explainable & Trustworthy AI
 We develop methods to make deep learning models more transparent and reliable, from post-hoc explainability for GNNs to mechanistic interpretability of LLMs. Our work also addresses neural watermarking, knowledge editing, and the integration of symbolic reasoning into modern ML systems.

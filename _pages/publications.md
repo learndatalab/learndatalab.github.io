@@ -45,7 +45,7 @@ For a full list, please see my [CV](http://hogunpark.com/about/cv.pdf).
 
 ### {{ year_group.name }}
 
-<div style="border-left: 3px solid #00E5CC; padding-left: 16px; margin-bottom: 24px;">
+<div style="border-left: 3px solid #0D9488; padding-left: 16px; margin-bottom: 24px;">
 
 {% for publi in year_group.items %}
 <div style="margin-bottom: 16px;">
@@ -76,7 +76,7 @@ For a full list, please see my [CV](http://hogunpark.com/about/cv.pdf).
 
 ### Before SKKU
 
-<div style="border-left: 3px solid #00E5CC; padding-left: 16px; margin-bottom: 24px;">
+<div style="border-left: 3px solid #0D9488; padding-left: 16px; margin-bottom: 24px;">
 
 {% for publi in before_skku %}
 <div style="margin-bottom: 16px;">

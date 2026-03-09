@@ -45,18 +45,16 @@ For a full list, please see my [CV](http://hogunpark.com/about/cv.pdf).
 
 ### {{ year_group.name }}
 
-<div style="border-left: 3px solid #0D9488; padding-left: 16px; margin-bottom: 24px;">
-
+<div style="border-left: 3px solid #0D9488; padding-left: 16px; margin-bottom: 24px;" markdown="0">
 {% for publi in year_group.items %}
-<div style="margin-bottom: 16px;">
-  <pubtit>{{ publi.title }}</pubtit><br />
-  {{ publi.authors }} <br />
-  <em>{{ publi.link.display }}</em>
-  {% if publi.news1 %}<br /><span class="pub-links">{{ publi.news1 }}</span>{% endif %}
-  {% if publi.news2 %}<br />{{ publi.news2 }}{% endif %}
+<div style="margin-bottom: 12px; line-height: 1.5;">
+<pubtit>{{ publi.title }}</pubtit><br>
+{{ publi.authors }}<br>
+<em>{{ publi.link.display }}</em>
+{% if publi.news1 %}<br><span class="pub-links">{{ publi.news1 }}</span>{% endif %}
+{% if publi.news2 %}<br>{{ publi.news2 }}{% endif %}
 </div>
 {% endfor %}
-
 </div>
 
 {% endif %}
@@ -76,18 +74,16 @@ For a full list, please see my [CV](http://hogunpark.com/about/cv.pdf).
 
 ### Before SKKU
 
-<div style="border-left: 3px solid #0D9488; padding-left: 16px; margin-bottom: 24px;">
-
+<div style="border-left: 3px solid #0D9488; padding-left: 16px; margin-bottom: 24px;" markdown="0">
 {% for publi in before_skku %}
-<div style="margin-bottom: 16px;">
-  <pubtit>{{ publi.title }}</pubtit><br />
-  {{ publi.authors }} <br />
-  <em>{{ publi.link.display }}</em>
-  {% if publi.news1 %}<br /><span class="pub-links">{{ publi.news1 }}</span>{% endif %}
-  {% if publi.news2 %}<br />{{ publi.news2 }}{% endif %}
+<div style="margin-bottom: 12px; line-height: 1.5;">
+<pubtit>{{ publi.title }}</pubtit><br>
+{{ publi.authors }}<br>
+<em>{{ publi.link.display }}</em>
+{% if publi.news1 %}<br><span class="pub-links">{{ publi.news1 }}</span>{% endif %}
+{% if publi.news2 %}<br>{{ publi.news2 }}{% endif %}
 </div>
 {% endfor %}
-
 </div>
 
 {% endif %}

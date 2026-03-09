@@ -5,6 +5,7 @@
   link:
     display: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026), 2026."
   highlight: 0
+  year: 2026
   news1:  <a href="https://arxiv.org/abs/2512.20136" target="_black">Arxiv</a>
 
 - title: "Harnessing Spatial Dependency for Domain Generalization in Multivariate Time-series Sensor Data"
@@ -12,6 +13,7 @@
   link:
     display: "Expert Systems with Applications, Elsevier, 2026. (Impact Factor: 7.5, JCR Journal Rank: Top 6.1%)"
   highlight: 0
+  year: 2026
   news1: Arxiv <a href="https://www.sciencedirect.com/science/article/pii/S0957417426004987" target="_black">PDF</a> <a href="https://github.com/learndatalab/ASAM" target="_black">Code</a>
 
 - title: "Low-pass Personalized Subgraph Federated Recommendation"
@@ -19,13 +21,15 @@
   link:
     display: "International Conference on Learning Representations (ICLR 2026), 2026."
   highlight: 0
+  year: 2026
   news1:  Arxiv <a href="https://openreview.net/pdf?id=SSd3GENRAU" target="_black">PDF</a> <a href="https://github.com/dntjr41/LPSFed" target="_black">Code</a>
-  
+
 - title: "Judo: A Juxtaposed Domain-oriented Multimodal Reasoner for Industrial Anomaly QA"
   authors: Hyunju Kang+, Woohyun Lee+, Jaewon Kim, <b>Hogun Park<span>&#42;</span></b>
   link:
     display: "International Conference on Learning Representations (ICLR 2026), 2026."
   highlight: 0
+  year: 2026
   news1:  Arxiv <a href="https://openreview.net/pdf?id=XW4mROtaVb" target="_black">PDF</a> <a href="https://github.com/woodavid31/JUDO" target="_black">Code</a>
 
 - title: "SToRM: Supervised Token Reduction for Multi-modal LLMs toward Efficient End-to-end Autonomous Driving"
@@ -33,6 +37,7 @@
   link:
     display: "IEEE International Conference on Robotics & Automation (ICRA 2026), 2026."
   highlight: 0
+  year: 2026
   news1: <a href="https://arxiv.org/abs/2602.11656" target="_black">Arxiv</a> PDF
 
 - title: Conjunctive Query Embedding-based Few-shot Item Recommendation
@@ -40,20 +45,23 @@
   link:
     display: "Neural Networks, Elsevier, 2026. (Impact Factor: 6.3, JCR Journal Rank: 10.4%)"
   highlight: 0
+  year: 2026
   news1: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0893608025012237" target="_black">PDF</a> <a href="https://github.com/kjh9503/CQER" target="_black">Code</a>
 
 - title: Federated Recommender System with Data Valuation for E-commerce Platform
-  authors: Jongwon Park+, Minku Kang+, Wooseok Sim+, Soyoung Lee+, <b>Hogun Park<span>&#42;</span></b>  
+  authors: Jongwon Park+, Minku Kang+, Wooseok Sim+, Soyoung Lee+, <b>Hogun Park<span>&#42;</span></b>
   link:
     display: "Expert Systems with Applications, Elsevier, 2026. (Impact Factor: 7.5, JCR Journal Rank: Top 6.1%)"
   highlight: 0
+  year: 2026
   news1: <a href="https://arxiv.org/abs/2509.11196" target="_black">Arxiv</a> <a href="https://www.sciencedirect.com/science/article/pii/S095741742503310X" target="_black">PDF</a> <a href="https://github.com/Kang-Min-Ku/FedGDVE" target="_black">Code</a>
 
 - title: Curriculum Guided Personalized Subgraph Federated Learning
-  authors: Minku Kang, <b>Hogun Park<span>&#42;</span></b>  
+  authors: Minku Kang, <b>Hogun Park<span>&#42;</span></b>
   link:
     display: "ACM International Conference on Information and Knowledge Management (CIKM 2025), 2025."
   highlight: 0
+  year: 2025
   news1: <a href="https://arxiv.org/abs/2509.00402" target="_black">Arxiv</a> <a href="https://dl.acm.org/doi/10.1145/3746252.3761128" target="_black">PDF</a> <a href="https://github.com/Kang-Min-Ku/CUFL" target="_black">Code</a>
 
 - title: Complex Reasoning in Knowledge Graph Question Answering Through Query Graph Approximation
@@ -61,27 +69,31 @@
   link:
     display: "Findings of the Annual Meeting of the Association for Computational Linguistics (ACL 2025 Findings), 2025."
   highlight: 0
+  year: 2025
   news1: <a href="https://aclanthology.org/2025.findings-acl.1387.pdf" target="_black">PDF</a> <a href="https://github.com/HongjunJeongSKKU/Aqua-QA" target="_black">Code</a>
-  
+
 - title: Harnessing Influence Function in Explaining Graph Neural Networks
   authors: Heesoo Jung+, Chanyong Kim+, Geonhee Han, <b>Hogun Park<span>&#42;</span></b>
   link:
     display: "ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025), 2025."
   highlight: 0
+  year: 2025
   news1: <a href="https://dl.acm.org/doi/pdf/10.1145/3711896.3736995" target="_black">PDF</a> <a href="https://github.com/cycy-kim/HINT-G" target="_black">Code</a>
 
 - title: AI-Integrated Optoelectronic Platform for Low-Latency Classification of Toxic Industrial Chemicals
-  authors: Jang-Kyun Kwak, Jaeseong Kim, Riya Dutta, Min-Jae Kim, Minku Kang, Avis Wee Sin Hui, Yunjeong Yu, Jihoon Shin, <b>Hogun Park<span>&#42;</span></b>, Donghwan Kim<span>&#42;</span>, Sunkook Kim<span>&#42;</span>  
+  authors: Jang-Kyun Kwak, Jaeseong Kim, Riya Dutta, Min-Jae Kim, Minku Kang, Avis Wee Sin Hui, Yunjeong Yu, Jihoon Shin, <b>Hogun Park<span>&#42;</span></b>, Donghwan Kim<span>&#42;</span>, Sunkook Kim<span>&#42;</span>
   link:
     display: "Small, Wiley, 2025. (Impact Factor: 12.1, JCR Journal Rank: Top 7.2%)"
   highlight: 0
+  year: 2025
   news1: <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/smll.202506026" target="_black">PDF</a>
-  
+
 - title: Self-supervised Adversarial Purification for Graph Neural Networks
   authors: Woohyun Lee, <b>Hogun Park<span>&#42;</span></b>
   link:
     display: "International Conference on Machine Learning (ICML 2025), 2025."
   highlight: 0
+  year: 2025
   news1: <a href="https://openreview.net/pdf?id=yMhkpJ1K01" target="_black">PDF</a> <a href="https://github.com/woodavid31/GPR-GAE" target="_black">Code</a>
 
 - title: Enhancing Inductive Numerical Reasoning in Knowledge Graphs with Relation-Aware Relative Numeric Encoding
@@ -89,6 +101,7 @@
   link:
     display: "Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2025), 2025."
   highlight: 0
+  year: 2025
   news1: <a href="https://hogunpark.com/papers/PAKDD2025_RRNE_preprint.pdf" target="_black">Arxiv</a> <a href="https://link.springer.com/chapter/10.1007/978-981-96-8173-0_14" target="_black">PDF</a> <a href="https://github.com/HongjunJeongSKKU/RRNE" target="_black">Code</a>
 
 - title: "Large Language Models Are Better Logical Fallacy Reasoners with Counterargument, Explanation, and Goal-Aware Prompt Formulation"
@@ -96,6 +109,7 @@
   link:
     display: "The 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL 2025 Findings), 2025."
   highlight: 0
+  year: 2025
   news1:  <a href="https://arxiv.org/abs/2503.23363" target="_black">Arxiv</a> <a href="https://aclanthology.org/2025.findings-naacl.384/" target="_black">PDF</a> <a href="https://github.com/jw9603/Logical_Fallacy" target="_black">Code</a>
 
 - title: "Balancing Graph Embedding Smoothness in Self-Supervised Learning via Information-Theoretic Decomposition"
@@ -103,6 +117,7 @@
   link:
     display: "The Web Conference (WWW 2025), 2025."
   highlight: 0
+  year: 2025
   news1:  <a href="http://arxiv.org/abs/2504.12011" target="_black">Arxiv</a>  <a href="https://dl.acm.org/doi/10.1145/3696410.3714611" target="_black">PDF</a> <a href="https://github.com/steve30572/BSG" target="_black">Code</a>
 
 - title: "AudioGenX: Explainability on Text-to-Audio Generative Models"
@@ -110,79 +125,90 @@
   link:
     display: "Annual AAAI Conference on Artificial Intelligence (AAAI 2025), 2025."
   highlight: 0
+  year: 2025
   news1: <a href="https://www.arxiv.org/pdf/2502.00459" target="_black">Arxiv</a> <a href="https://ojs.aaai.org/index.php/AAAI/article/view/33950" target="_black">PDF</a> <a href="https://github.com/hjkng/audiogenX" target="_black">Code</a>
 
- 
+
 - title: "MAMS: Model-Agnostic Module Selection Framework for Video Captioning"
   authors: Sangho Lee, Il Yong Chun<span>&#42;</span>, <b>Hogun Park<span>&#42;</span></b>
   link:
     display: "Annual AAAI Conference on Artificial Intelligence (AAAI 2025), 2025."
   highlight: 0
+  year: 2025
   news1:  <a href="https://arxiv.org/pdf/2501.18269" target="_black">Arxiv</a> <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32478" target="_black">PDF</a> <a href="https://github.com/mancityg/AAAI2025-MAMS" target="_black">Code</a>  (Selected as an <a href="" target="_black">Oral Presentation</a> (Top 6.1% paper))
 
-  
+
 - title: "MELA: Multi-Event Localization Answering Framework for Video Question Answering"
   authors: Jimyeong Han, Sangpil Kim<span>&#42;</span>, <b>Hogun Park<span>&#42;</span></b>
   link:
     display: "ACM/SIGAPP Symposium On Applied Computing (SAC 2025), 2025."
   highlight: 0
+  year: 2025
   news1:  <a href="https://dl.acm.org/doi/10.1145/3672608.3707973" target="_black">PDF</a>
-  
+
 - title: "CIMAGE: Exploiting the Conditional Independence in Masked Graph Auto-encoders"
   authors: Jongwon Park+, Heesoo Jung+, <b>Hogun Park<span>&#42;</span></b>
   link:
     display: "ACM International Conference on Web Search and Data Mining (WSDM 2025), 2025. (Acceptance rate: 17.3%)"
   highlight: 0
+  year: 2025
   news1:  <a href="https://arxiv.org/abs/2503.07852" target="_black">Arxiv (with full proofs)</a> <a href="https://dl.acm.org/doi/10.1145/3701551.3703515" target="_black">PDF</a> <a href="https://github.com/vapene/CIMAGE" target="_black">Code</a>  (Selected as an <a href="" target="_black">Oral Presentation</a> (Top 6.5% paper))
-  
+
 - title: A Spectrum of Nonsense-mediated mRNA Decay Efficiency along the Degree of Mutational Constraint
   authors: Young-gon Kim+, Hyunju Kang+, Beomki Lee+, Hyeok-Jae Jang, Jong-ho Park, Changhee Ha, <b>Hogun Park<span>&#42;</span></b>, Jong-Won Kim<span>&#42;</span>
   link:
     display: "Communications Biology, Nature Portfolio, 2024. (Impact Factor: 5.2, JCR Journal Rank: Top 11.5%)"
   highlight: 0
-  news1:  <a href="https://www.nature.com/articles/s42003-024-07136-y" target="_black">PDF</a> <a href="https://github.com/hjkng/nmdeff" target="_black">Code</a> 
+  year: 2024
+  news1:  <a href="https://www.nature.com/articles/s42003-024-07136-y" target="_black">PDF</a> <a href="https://github.com/hjkng/nmdeff" target="_black">Code</a>
 
 - title: Enhancing Knowledge Tracing with Concept Map and Response Disentanglement
   authors: Soonwook Park, Donghoon Lee<span>&#42;</span>, <b>Hogun Park<span>&#42;</span></b>
   link:
     display: "Knowledge-Based Systems, Elsevier, 2024. (Impact Factor: 7.2, JCR Journal Rank: Top 13.5%)"
   highlight: 0
-  news1:  <a href="https://arxiv.org/pdf/2408.12996" target="_black">Arxiv</a> <a href="https://www.sciencedirect.com/science/article/pii/S0950705124009808" target="_black">PDF</a> <a href="https://github.com/Soonwook34/CRKT" target="_black">Code</a> 
+  year: 2024
+  news1:  <a href="https://arxiv.org/pdf/2408.12996" target="_black">Arxiv</a> <a href="https://www.sciencedirect.com/science/article/pii/S0950705124009808" target="_black">PDF</a> <a href="https://github.com/Soonwook34/CRKT" target="_black">Code</a>
 
 - title: Improving Multi-hop Logical Reasoning in Knowledge Graphs with Context-Aware Query Representation Learning
   authors: Jeonghoon Kim, Heesoo Jung, Hyeju Jang, <b>Hogun Park<span>&#42;</span></b>
   link:
     display: "Findings of the Annual Meeting of the Association for Computational Linguistics (ACL 2024 Findings), 2024."
   highlight: 0
-  news1:  <a href="http://arxiv.org/abs/2406.07034" target="_black">Arxiv</a> <a href="https://aclanthology.org/2024.findings-acl.946.pdf" target="_black">PDF</a> <a href="https://github.com/kjh9503/caqr" target="_black">Code</a> 
-  
+  year: 2024
+  news1:  <a href="http://arxiv.org/abs/2406.07034" target="_black">Arxiv</a> <a href="https://aclanthology.org/2024.findings-acl.946.pdf" target="_black">PDF</a> <a href="https://github.com/kjh9503/caqr" target="_black">Code</a>
+
 - title: "UNR-Explainer: Counterfactual Explanations for Unsupervised Node Representation Learning Models"
   authors: Hyunju Kang, Geonhee Han, <b>Hogun Park<span>&#42;</span></b>
   link:
     display: "International Conference on Learning Representations (ICLR 2024), 2024."
   highlight: 0
-  news1:  <a href="https://openreview.net/pdf?id=0j9ZDzMPqr" target="_black">PDF</a> <a href="https://github.com/hjkng/unrexplainer" target="_black">Code</a> 
-  
-  
+  year: 2024
+  news1:  <a href="https://openreview.net/pdf?id=0j9ZDzMPqr" target="_black">PDF</a> <a href="https://github.com/hjkng/unrexplainer" target="_black">Code</a>
+
+
 - title: "Self-supervised Multimodal Graph Convolutional Network for Collaborative Filtering"
   authors: Sungjune Kim, Gyusam Chang, Wonseok Roh, Dae-Neung Sohn, Jung-Tae Lee, <b>Hogun Park<span>&#42;</span></b>, Sangpil Kim<span>&#42;</span>
   link:
     display: "Information Sciences, Elsevier, 2024. (Impact Factor: 8.1, JCR Journal Rank: Top 7.9%)"
   highlight: 0
+  year: 2024
   news1: <a href="https://www.sciencedirect.com/science/article/pii/S0020025523013452?utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_medium=email&utm_acid=248452125&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&CMX_ID=&utm_in=DM417386&utm_source=AC_" target="_black">PDF</a>
-   
+
 - title: Toward a Better Understanding of Loss Functions for Collaborative Filtering
   authors: Seongmin Park, Mincheol Yoon, Jae-woong Lee, <b>Hogun Park</b> and Jongwuk Lee
   link:
     display: "ACM International Conference on Information and Knowledge Management (CIKM 2023), 2023."
   highlight: 0
-  news1:  <a href="https://arxiv.org/abs/2308.06091" target="_black">Arxiv</a> <a href="https://dl.acm.org/doi/10.1145/3583780.3615086" target="_black">PDF</a> <a href="https://github.com/psm1206/MAWU" target="_black">Code</a> 
-  
+  year: 2023
+  news1:  <a href="https://arxiv.org/abs/2308.06091" target="_black">Arxiv</a> <a href="https://dl.acm.org/doi/10.1145/3583780.3615086" target="_black">PDF</a> <a href="https://github.com/psm1206/MAWU" target="_black">Code</a>
+
 - title: Exploiting Relation-aware Attribute Representation Learning in Knowledge Graph Embedding for Numerical Reasoning
-  authors: Sookyung Kim+, Gayoung Kim+, Ko Keun Kim, Suchan Park, Heesoo Jung, <b>Hogun Park<span>&#42;</span></b> 
+  authors: Sookyung Kim+, Gayoung Kim+, Ko Keun Kim, Suchan Park, Heesoo Jung, <b>Hogun Park<span>&#42;</span></b>
   link:
     display: "ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2023), 2023."
   highlight: 0
+  year: 2023
   news1: <a href="http://hogunpark.com/papers/KDD2023_RAKGE.pdf" target="_black">Arxiv</a> <a href="https://dl.acm.org/doi/10.1145/3580305.3599338" target="_black">PDF</a>  <a href="https://github.com/learndatalab/RAKGE/" target="_black">Dataset/Code</a>  <a href="https://www.youtube.com/watch?v=QVPcuwDeiAs" target="_black">Video</a>
 
 - title: Generating Post-hoc Explanations for Skip-gram-based Node Embeddings by Identifying Important Nodes with Bridgeness
@@ -190,6 +216,7 @@
   link:
     display: "Neural Networks, Elsevier, 2023. (Impact Factor: 9.657, JCR Journal Rank: 8.1%)"
   highlight: 0
+  year: 2023
   news1:  <a href="https://arxiv.org/abs/2304.12036" target="_black">Arxiv</a> <a href="https://doi.org/10.1016/j.neunet.2023.04.029" target="_black">PDF</a> Code
 
 
@@ -198,35 +225,40 @@
   link:
     display: "Expert Systems with Applications, Elsevier, 2023. (Impact Factor: 8.5, JCR Journal Rank: Top 6.4%)"
   highlight: 0
-  news1:  <a href="https://arxiv.org/abs/2304.11870" target="_black">Arxiv</a> <a href="https://doi.org/10.1016/j.eswa.2023.120118" target="_black">PDF</a> <a href="https://github.com/hogunpark/EJGAN" target="_black">Code</a> 
+  year: 2023
+  news1:  <a href="https://arxiv.org/abs/2304.11870" target="_black">Arxiv</a> <a href="https://doi.org/10.1016/j.eswa.2023.120118" target="_black">PDF</a> <a href="https://github.com/hogunpark/EJGAN" target="_black">Code</a>
 
 - title: Dual Policy Learning for Aggregation Optimization in Graph Neural Network-based Recommender Systems
   authors: Heesoo Jung, Sangpil Kim, <b>Hogun Park<span>&#42;</span></b>
   link:
     display: "The Web Conference (WWW 2023), 2023."
   highlight: 0
-  news1: <a href="https://arxiv.org/abs/2302.10567" target="_black">PDF</a> <a href="https://github.com/steve30572/DPAO/" target="_black">Code</a> 
+  year: 2023
+  news1: <a href="https://arxiv.org/abs/2302.10567" target="_black">PDF</a> <a href="https://github.com/steve30572/DPAO/" target="_black">Code</a>
 
 - title: Laser-induced Carbonization for Anticounterfeiting Tags
   authors: Srinivas Gandla, Changgyun Moon, Seungho Baek, <b>Hogun Park<span>&#42;</span></b>, Seonkuk Kim<span>&#42;</span>.
   link:
     display: "Advanced Functional Materials, Wiley, 2023. (Impact Factor: 19.924, JCR Journal Rank in Category (PHYSICS, APPLIED): Top 4.7% (8/161))"
   highlight: 0
+  year: 2023
   news1: <a href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.202211762" target="_black">PDF</a> <a href="https://www.dailysmart.co.kr/news/articleView.html?idxno=72723" target="_black">Press Release (Korean)</a>
   news2: Accepted as a cover page of the journal
-  
+
 - title: Providing Post-hoc Explanation for Node Representation Learning Models Through Inductive Conformal Predictions
   authors: <b>Hogun Park</b>
   link:
     display: "IEEE Access, 2023."
   highlight: 0
-  news1: <a href="https://ieeexplore.ieee.org/document/10003193/" target="_black">PDF</a> 
-  
+  year: 2023
+  news1: <a href="https://ieeexplore.ieee.org/document/10003193/" target="_black">PDF</a>
+
 - title: Stretchable Array sEMG Sensor with Graph Neural Network for Static and Dynamic Gestures Recognition System
   authors: Heesoo Jung+, Soyoung Lee+, Hyeyun Lee+, Jaeseong Kim+, Srinivas Gandla<span>&#42;</span>, Kyung Jae Yoon<span>&#42;</span>, <b>Hogun Park<span>&#42;</span></b>, Seonkuk Kim<span>&#42;</span>.
   link:
     display: "npj Flexible Electronics - The Nature Partner Journals series, 2023. (Impact Factor: 14.6, JCR Journal Rank in Category (EE): Top 2.0% (6/275))"
   highlight: 0
+  year: 2023
   news1: <a href="https://www.nature.com/articles/s41528-023-00246-3/" target="_black">PDF</a>  <a href="https://github.com/steve30572/Self-attention-based-GNN-for-sEMG" target="_black">Code</a>  <a href="https://youtu.be/ZnvX2fQEKoA" target="_black">Video</a> <a href="https://mbiz.heraldcorp.com/amp/view.php?ud=20230509000656" target="_black">News(Korean)</a>
 
 - title: Providing Node-level Local Explanation for node2vec through Reinforcement Learning
@@ -234,30 +266,34 @@
   link:
     display: "Proc. of the Machine Learning on Graphs (MLoG) Workshop at the 15th ACM Conference on Web Search and Data Mining (WSDM 2022), 2022."
   highlight: 0
-  news1: <a href="http://hogunpark.com/papers/wsdm2022-MLoG-MCTS-G.pdf" target="_black">PDF</a> 
-  
+  year: 2022
+  news1: <a href="http://hogunpark.com/papers/wsdm2022-MLoG-MCTS-G.pdf" target="_black">PDF</a>
+
 - title: Finding Client-side Business Flow Tampering Vulnerabilities
   authors: I Luk Kim, Yunhui Zheng, <b>Hogun Park</b>, Weihang Wang, Wei You, Yousra Aafer, Xiangyu Zhang
   link:
     display: "International Conference on Software Engineering (ICSE 2020), 2020. (Acceptance rate: 20.91%)"
   highlight: 0
-  news1: <a href="http://hogunpark.com/papers/ICSE2020-Kim-BusinessTampering.pdf" target="_black">PDF</a> 
-  
+  year: 2020
+  news1: <a href="http://hogunpark.com/papers/ICSE2020-Kim-BusinessTampering.pdf" target="_black">PDF</a>
+
 
 - title: Role Equivalence Attention for Label Propagation in Graph Neural Networks
   authors: <b>Hogun Park</b>, Jennifer Neville
   link:
     display: "Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2020), 2020. (Acceptance rate: 21%)"
   highlight: 0
-  news1: <a href="http://hogunpark.com/papers/PAKDD2020-Park_and_Neville.pdf" target="_black">PDF</a> 
-  
+  year: 2020
+  news1: <a href="http://hogunpark.com/papers/PAKDD2020-Park_and_Neville.pdf" target="_black">PDF</a>
+
 - title: A framework for understanding online group behaviors during a catastrophic event
   authors:
     Jooho Kim, <b>Hogun Park<span>&#42;</span></b>
   link:
     display: "International Journal of Information Management, Elsevier, Volume 51, 2020. <br />(Impact Factor: 14.098, JCR Journal Rank in Category (Information Science): 1/87)"
   highlight: 0
-  news1: <a href="https://www.sciencedirect.com/science/article/pii/S0268401219308072" target="_black">PDF</a> 
+  year: 2020
+  news1: <a href="https://www.sciencedirect.com/science/article/pii/S0268401219308072" target="_black">PDF</a>
 
 
 - title: Exploiting Interaction Links for Node Classification with Deep Graph Neural Networks
@@ -266,7 +302,8 @@
   link:
     display: "International Joint Conference on Artificial Intelligence (IJCAI 2019), 2019. (Acceptance rate: 17.89%)"
   highlight: 0
-  news1: <a href="http://hogunpark.com/papers/HPark-IJCAI2019-TSGNET.pdf" target="_black">PDF</a>  <a href="https://github.com/hogunpark/TSGNET" target="_black">Code</a> 
+  year: 2019
+  news1: <a href="http://hogunpark.com/papers/HPark-IJCAI2019-TSGNET.pdf" target="_black">PDF</a>  <a href="https://github.com/hogunpark/TSGNET" target="_black">Code</a>
 
 
 
@@ -276,7 +313,8 @@
   link:
     display: "The Web Conference (WWW 2018) - Cognitive Computing Track, 2018."
   highlight: 0
-  news1: <a href="http://hogunpark.com/papers/www2018-procedure.pdf" target="_black">PDF</a>  
+  year: 2018
+  news1: <a href="http://hogunpark.com/papers/www2018-procedure.pdf" target="_black">PDF</a>
 
 
 - title: "Deep Dynamic Relational Classifiers: Exploiting Dynamic Neighborhoods in Complex Networks"
@@ -285,7 +323,8 @@
   link:
     display: "MAISoN Workshop in 10th ACM Conference on Web Search and Data Mining (WSDM 2017), 2017."
   highlight: 0
-  news1: <a href="http://hogunpark.com/papers/wsdm2017-maison.pdf" target="_black">PDF</a>  
+  year: 2017
+  news1: <a href="http://hogunpark.com/papers/wsdm2017-maison.pdf" target="_black">PDF</a>
 
 
 - title: "Real-Time Panoramic Video Streaming System with Overlaid Interface Concept for Social Media"
@@ -294,7 +333,8 @@
   link:
     display: "Multimedia Systems, Volume 20, Issue 6, Springer, 2014."
   highlight: 0
-  news1: <a href="http://hogunpark.com/papers/panorama-overlay-dseo-2014.pdf" target="_black">PDF</a>  <a href="https://youtu.be/8VHXULp-fJs" target="_black">Video</a>  
+  year: 2014
+  news1: <a href="http://hogunpark.com/papers/panorama-overlay-dseo-2014.pdf" target="_black">PDF</a>  <a href="https://youtu.be/8VHXULp-fJs" target="_black">Video</a>
 
 
 - title: "Trendy Episode Detection at a Very Short Time Granularity"
@@ -302,7 +342,8 @@
   link:
     display: "European Interactive TV Conference (EuroITV 2011, now ACM IMX), 2011."
   highlight: 0
-  news1: <a href="http://hogunpark.com/papers/EUROITV2011-HOTTOPIC.pdf" target="_black">PDF</a>  
+  year: 2011
+  news1: <a href="http://hogunpark.com/papers/EUROITV2011-HOTTOPIC.pdf" target="_black">PDF</a>
 
 
 - title: "Sharing of Baseball Event through Social Media"
@@ -310,7 +351,8 @@
   link:
     display: "ACM SIGMM International Conference on Multimedia Information Retrieval (MIR 2010, now ACM ICMR), 2010."
   highlight: 0
-  news1: <a href="http://hogunpark.com/papers/MIR2010_PHG.pdf" target="_black">PDF</a>  <a href="https://youtu.be/Xv5hhBZ0sI8" target="_black">Video</a>  
+  year: 2010
+  news1: <a href="http://hogunpark.com/papers/MIR2010_PHG.pdf" target="_black">PDF</a>  <a href="https://youtu.be/Xv5hhBZ0sI8" target="_black">Video</a>
 
 
 - title: "Interactive Information Seeking Interface for Exploratory Search"
@@ -318,84 +360,29 @@
   link:
     display: "Human-Computer Interaction and Information Retrieval 2008 (HCIR 2008, now ACM CHIIR), 2008."
   highlight: 0
-  news1: <a href="http://hogunpark.com/papers/HCIR08-hpark.pdf" target="_black">PDF</a>  <a href="http://hogunpark.com/papers/papers/ICEIS2008_phg.pdf" target="_black"> Extended_PDF</a> <a href="https://youtu.be/AW5yCG282L8" target="_black">Video</a>  
+  year: 2008
+  news1: <a href="http://hogunpark.com/papers/HCIR08-hpark.pdf" target="_black">PDF</a>  <a href="http://hogunpark.com/papers/papers/ICEIS2008_phg.pdf" target="_black"> Extended_PDF</a> <a href="https://youtu.be/AW5yCG282L8" target="_black">Video</a>
 
 - title: "Supporting Mixed Initiative Human-Robot Interaction: A Script-based Cognitive Architecture Approach"
   authors: <b>Hogun Park</b>, Yoonjung Choi, Yuchul Jung, and Sung-Hyun Myaeng
   link:
     display: "IEEE International Joint Conference on Neural Network (IJCNN 2008), 2008."
   highlight: 0
-  news1: <a href="http://hogunpark.com/papers/IJCNN2008_PHG.pdf" target="_black">PDF</a>  
+  year: 2008
+  news1: <a href="http://hogunpark.com/papers/IJCNN2008_PHG.pdf" target="_black">PDF</a>
 
 - title: "Designing a Cognitive Case-Based Reasoning Framework for Home Service Robots"
   authors: Yuchul Jung, <b>Hogun Park</b>, Yoonjung Choi, and Sung-Hyon Myaeng
   link:
     display: "IEEE International Symposium on Robot Human Interactive Communication (RO-MAN 2007), 2007."
   highlight: 0
-  news1: <a href="http://hogunpark.com/papers/roman 2007-robot.pdf" target="_black">PDF</a>  
+  year: 2007
+  news1: <a href="http://hogunpark.com/papers/roman 2007-robot.pdf" target="_black">PDF</a>
 
 - title: "A Hybrid Mood Classification Approach for Blog Text"
   authors: Yuchul Jung, <b>Hogun Park</b>, and Sung-Hyon Myaeng
   link:
     display: "Pacific Rim International Conference on Artificial Intelligence (PRICAI 2006), 2006. (Acceptance rate: 28.8%)"
   highlight: 0
+  year: 2006
   news1: <a href="http://hogunpark.com/papers/PRICAI2006_LNAI4099.pdf" target="_black">PDF</a>
-
-
-
-# - title: "Measuring local moiré lattice heterogeneity of twisted bilayer graphene"
-#   image: TBG_SL.png
-#   description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-#   authors: T Benschop *, TA de Jong*, P Stepanov*, Xiaobo Lu, V Stalman, SJ van der Molen, DK Efetov, MP Allan
-#   link:
-#     url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153
-#     display:  Phys. Rev. Research 3, 013153
-#   highlight: 1
-#   news2:
-
-# - title: "Direct evidence for Cooper pairing without a spectral gap in a disordered superconductor above Tc"
-#   image: TiNHigh.png
-#   description: We use our atomic-scale scanning tunneling noise setup on a disordered superconductor, and discover a state above TC that, much like an ordinary metal, has no (pseudo)gap, but carries charge via paired electrons.
-#   authors: KM Bastiaans, D Chatzopoulos, J-F Ge, D Cho, WO Tromp, JM van Ruitenbeek, MH Fischer, PJ de Visser, DJ Thoen, EFC Driessen, TM Klapwijk, MP Allan
-#   link:
-#     url: https://arxiv.org/abs/2101.08535
-#     display: arXiv:2101.08535 (2021)
-#   highlight: 1
-
-# - title: Identifying the fingerprint of antiferromagnetic spin fluctuations in iron pnictide superconductors
-#   image: Pub_FP.png
-#   description:
-#     Both the density of states and the QPI dispersion of LiFeAs shows signatures of electron-boson coupling. Comparing these with fingerprints of different boson couplings to conclude that these signatures stem from AF spin fluctuations.
-#   authors:
-#     MP Allan* & Kyungmin Lee* & AW Rost*, MH Fischer, F Massee, K Kihou, C-H Lee, A Iyo, H Eisaki, T-M Chuang, AP Mackenzie, JC Davis, DJ Scalapino, E-A Kim
-#   link:
-#     url: http://www.nature.com/nphys/journal/v11/n2/full/nphys3187.html
-#     display: Nature Physics 11, 177 (2015)
-#   highlight: 1
-#   news1:
-#   news2: See also <a href="http://www.news.cornell.edu/stories/2015/01/high-temperature-superconductor-fingerprint-found"> Cornell Chronicle </a> by Anne Ju, <a href="http://phys.org/news/2015-01-high-temperature-superconductor-fingerprint.html"> Phys.org </a>
-
-# - title: Direct evidence for a magnetic f-electron mediated Cooper pairing mechanism of heavy fermion superconductivity in CeCoIn5
-#   image: dummy.png
-#   description: ""
-#   authors:
-#     J Van Dyke, F Massee, MP Allan, JC Davis, C Petrovic, and DK Morr
-#   link:
-#     url: http://www.pnas.org/content/111/32/11663
-#     display: PNAS 111, 11663 (2014)
-#   highlight: 0
-#   news1: <a style="color:#FF0000; text-decoration:underline" href="http://science.sciencemag.org/content/345/6203/twil">News item in Science</a>
-#   news2:
-
-# - title: Imaging Cooper pairing of heavy fermions in CeCoIn5
-#   image: Pub_CeCoIn5.png
-#   description:
-#     The heavy Fermion superconductor CeCoIn5 has a d-wave gap with nodes along the (1,1) direction, as we find using QPI.
-#   authors:
-#     MP Allan* & F Massee*, DK Morr, J van Dyke, AW Rost, AP Mackenzie, C Petrovic, JC Davis
-#   link:
-#     url: http://www.nature.com/nphys/journal/vaop/ncurrent/abs/nphys2671.html
-#     display: Nature Physics 9, 468 (2013)
-#   highlight: 1
-#   news1: <a style="color:#FF0000; text-decoration:underline" href="http://www.nature.com/nphys/journal/v9/n8/full/nphys2708.html">Featured in 'News and Views' by L Taillefer</a>
-#   news2: See also <a href="http://phys.org/news/2013-07-imaging-electron-pairing-simple-magnetic.html"> Phys.org</a>, <a href="http://davisgroup.lassp.cornell.edu/CeCoIn5_DoE.html">DoE headliner</a>

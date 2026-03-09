@@ -30,3 +30,63 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script src="{{ site.url }}{{ site.baseurl }}/js/bootstrap.min.js"></script>
+
+<script>
+(function() {
+  var header = document.getElementById('site-header');
+  var toggle = document.getElementById('nav-toggle');
+  var menu   = document.getElementById('nav-menu');
+  if (!header || !toggle || !menu) return;
+
+  // Sticky: add shadow class on scroll
+  var ticking = false;
+  window.addEventListener('scroll', function() {
+    if (!ticking) {
+      window.requestAnimationFrame(function() {
+        if (window.scrollY > 10) {
+          header.classList.add('scrolled');
+        } else {
+          header.classList.remove('scrolled');
+        }
+        ticking = false;
+      });
+      ticking = true;
+    }
+  });
+
+  // Mobile menu toggle
+  toggle.addEventListener('click', function() {
+    var expanded = toggle.getAttribute('aria-expanded') === 'true';
+    toggle.setAttribute('aria-expanded', String(!expanded));
+    menu.classList.toggle('open');
+  });
+
+  // Close menu when a nav link is clicked
+  var links = menu.querySelectorAll('.nav-link');
+  for (var i = 0; i < links.length; i++) {
+    links[i].addEventListener('click', function() {
+      toggle.setAttribute('aria-expanded', 'false');
+      menu.classList.remove('open');
+    });
+  }
+
+  // Close menu on Escape key
+  document.addEventListener('keydown', function(e) {
+    if (e.key === 'Escape' && menu.classList.contains('open')) {
+      toggle.setAttribute('aria-expanded', 'false');
+      menu.classList.remove('open');
+      toggle.focus();
+    }
+  });
+
+  // Close menu when clicking outside
+  document.addEventListener('click', function(e) {
+    if (menu.classList.contains('open') &&
+        !menu.contains(e.target) &&
+        !toggle.contains(e.target)) {
+      toggle.setAttribute('aria-expanded', 'false');
+      menu.classList.remove('open');
+    }
+  });
+})();
+</script>

@@ -1,16 +1,16 @@
 ---
 ---
-    
+
 @import "bootstrap";
 
-img { margin-bottom: 24px; 
-     margin-top: 17px; 
+img { margin-bottom: 24px;
+     margin-top: 17px;
     border-radius:2%;
 }
 
-
 body {
-	padding-top: 70px;
+	padding-top: 68px;
+	font-family: 'DM Sans', 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 figcaption {
@@ -20,9 +20,496 @@ figcaption {
 }
 
 
+/* =============================================
+   CI Color System (Graph AI Lab inspired)
+   ============================================= */
 
-/* Top navigation bar */
+$ci-bg-dark:       #0A0E17;
+$ci-bg-secondary:  #111827;
+$ci-bg-card:       #151D2E;
+$ci-cyan:          #00E5CC;
+$ci-blue:          #3B82F6;
+$ci-violet:        #8B5CF6;
+$ci-text-primary:  #F1F5F9;
+$ci-text-secondary:#94A3B8;
+$ci-text-dim:      #475569;
+$ci-border:        rgba(255,255,255,0.06);
 
+
+/* =============================================
+   Site Header / Navigation — Dark Graph Theme
+   ============================================= */
+
+/* Thin accent stripe: Cyan → Blue → Violet */
+.header-accent {
+  height: 3px;
+  background: linear-gradient(90deg, $ci-cyan 0%, $ci-blue 50%, $ci-violet 100%);
+}
+
+.site-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1030;
+  background: linear-gradient(135deg, $ci-bg-dark 0%, $ci-bg-secondary 50%, #1B2D4A 100%);
+  transition: box-shadow 0.3s ease;
+
+  &.scrolled {
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.5), 0 1px 8px rgba(0, 229, 204, 0.06);
+  }
+}
+
+.site-nav {
+  position: relative;
+}
+
+.nav-container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 62px;
+  transition: height 0.3s ease;
+
+  .scrolled & {
+    height: 54px;
+  }
+}
+
+/* Brand / Site title with graph symbol */
+.site-brand {
+  text-decoration: none !important;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-shrink: 0;
+
+  &:hover,
+  &:focus {
+    text-decoration: none !important;
+    .brand-icon svg {
+      transform: scale(1.08);
+      filter: drop-shadow(0 0 6px rgba(0, 229, 204, 0.3));
+    }
+  }
+
+  .brand-icon {
+    display: flex;
+    align-items: center;
+    svg {
+      transition: transform 0.3s ease, filter 0.3s ease;
+    }
+  }
+
+  .brand-text {
+    display: flex;
+    flex-direction: column;
+    line-height: 1;
+    gap: 3px;
+  }
+
+  .brand-name {
+    font-family: 'Space Mono', 'Source Sans Pro', monospace;
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: -0.5px;
+    background: linear-gradient(135deg, $ci-cyan, $ci-blue);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  .brand-affiliation {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 10px;
+    font-weight: 500;
+    color: $ci-text-secondary;
+    letter-spacing: 2.5px;
+    text-transform: uppercase;
+  }
+}
+
+/* Nav menu list */
+.nav-menu {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  gap: 2px;
+}
+
+.nav-item {
+  margin: 0;
+  padding: 0;
+}
+
+/* Nav links — light on dark, cyan accent underline */
+.nav-link {
+  display: block;
+  padding: 8px 16px;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 13px;
+  font-weight: 500;
+  color: $ci-text-secondary;
+  text-decoration: none !important;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  position: relative;
+  transition: color 0.25s ease;
+  white-space: nowrap;
+
+  &::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 16px;
+    right: 16px;
+    height: 2px;
+    background: linear-gradient(90deg, $ci-cyan, $ci-blue);
+    border-radius: 1px;
+    transform: scaleX(0);
+    transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    transform-origin: center;
+  }
+
+  &:hover,
+  &:focus {
+    color: $ci-text-primary;
+    text-decoration: none !important;
+
+    &::after {
+      transform: scaleX(1);
+    }
+  }
+
+  &.active {
+    color: $ci-cyan;
+    font-weight: 600;
+
+    &::after {
+      transform: scaleX(1);
+    }
+  }
+}
+
+/* Hamburger toggle button */
+.nav-toggle {
+  display: none;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 8px;
+  width: 40px;
+  height: 40px;
+  position: relative;
+  border-radius: 6px;
+  transition: background-color 0.2s ease;
+
+  &:hover {
+    background-color: rgba(255, 255, 255, 0.06);
+  }
+
+  &:focus {
+    outline: 2px solid rgba(0, 229, 204, 0.5);
+    outline-offset: 2px;
+  }
+
+  .hamburger,
+  .hamburger::before,
+  .hamburger::after {
+    display: block;
+    width: 20px;
+    height: 2px;
+    background: $ci-text-secondary;
+    border-radius: 2px;
+    transition: all 0.3s ease;
+    position: absolute;
+    left: 10px;
+  }
+
+  .hamburger {
+    top: 50%;
+    transform: translateY(-50%);
+  }
+
+  .hamburger::before {
+    content: '';
+    top: -6px;
+  }
+
+  .hamburger::after {
+    content: '';
+    top: 6px;
+  }
+
+  &[aria-expanded="true"] {
+    .hamburger {
+      background: transparent;
+    }
+
+    .hamburger::before {
+      top: 0;
+      transform: rotate(45deg);
+      background: $ci-cyan;
+    }
+
+    .hamburger::after {
+      top: 0;
+      transform: rotate(-45deg);
+      background: $ci-cyan;
+    }
+  }
+}
+
+/* =============================================
+   Responsive Mobile Menu
+   ============================================= */
+
+@media (max-width: 768px) {
+  body {
+    padding-top: 62px;
+  }
+
+  .nav-container {
+    height: 56px;
+    padding: 0 16px;
+
+    .scrolled & {
+      height: 50px;
+    }
+  }
+
+  .site-brand {
+    .brand-icon svg {
+      width: 30px;
+      height: 30px;
+    }
+
+    .brand-name {
+      font-size: 16px;
+    }
+
+    .brand-affiliation {
+      font-size: 9px;
+      letter-spacing: 2px;
+    }
+  }
+
+  .nav-toggle {
+    display: block;
+  }
+
+  .nav-menu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background: linear-gradient(180deg, $ci-bg-secondary 0%, darken($ci-bg-secondary, 2%) 100%);
+    flex-direction: column;
+    align-items: stretch;
+    padding: 0;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.5);
+    gap: 0;
+    transform: translateY(-8px);
+    opacity: 0;
+    visibility: hidden;
+    transition: transform 0.25s cubic-bezier(0.4, 0, 0.2, 1),
+                opacity 0.25s cubic-bezier(0.4, 0, 0.2, 1),
+                visibility 0.25s;
+    pointer-events: none;
+    border-bottom: 1px solid $ci-border;
+
+    &.open {
+      transform: translateY(0);
+      opacity: 1;
+      visibility: visible;
+      pointer-events: auto;
+      padding: 6px 0 10px;
+    }
+  }
+
+  .nav-item {
+    width: 100%;
+  }
+
+  .nav-link {
+    padding: 13px 24px;
+    font-size: 12px;
+    border-left: 3px solid transparent;
+    transition: color 0.2s ease, border-color 0.2s ease, background-color 0.2s ease;
+
+    &::after {
+      display: none;
+    }
+
+    &:hover,
+    &:focus {
+      background-color: rgba(255, 255, 255, 0.03);
+      color: $ci-text-primary;
+    }
+
+    &.active {
+      border-left-color: $ci-cyan;
+      background-color: rgba(0, 229, 204, 0.05);
+      color: $ci-cyan;
+    }
+  }
+}
+
+
+/* =============================================
+   Site-wide Theme Overrides (CI aligned)
+   ============================================= */
+
+/* Global link styling */
+a {
+  color: $ci-blue;
+  transition: color 0.2s ease;
+
+  &:hover,
+  &:focus {
+    color: darken($ci-blue, 10%);
+  }
+}
+
+/* Headings — dark navy */
+h1, h2, h3, h4, h5, h6 {
+  color: $ci-bg-dark;
+}
+
+/* News sidebar well — dark card style */
+.well {
+  background-color: $ci-bg-secondary;
+  border: 1px solid $ci-border;
+  border-radius: 8px;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.2);
+  color: $ci-text-secondary;
+
+  h4 {
+    color: $ci-cyan;
+    font-family: 'Space Mono', monospace;
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    padding-bottom: 10px;
+    margin-bottom: 14px;
+    border-bottom: 1px solid rgba(0, 229, 204, 0.15);
+  }
+
+  p {
+    color: $ci-text-secondary;
+    font-size: 14px;
+  }
+
+  a {
+    color: $ci-cyan;
+    font-weight: 500;
+    text-decoration: none;
+
+    &:hover {
+      color: lighten($ci-cyan, 10%);
+      text-decoration: underline;
+    }
+  }
+}
+
+/* Panel overrides — footer */
+.panel {
+  border: none;
+  border-radius: 0;
+  box-shadow: none;
+}
+
+.panel-footer {
+  background: linear-gradient(135deg, $ci-bg-dark 0%, $ci-bg-secondary 60%, #1B2D4A 100%);
+  border: none;
+  color: $ci-text-secondary;
+  padding: 32px 0 28px;
+  border-top: 2px solid transparent;
+  border-image: linear-gradient(90deg, $ci-cyan, $ci-blue, $ci-violet) 1;
+
+  a {
+    color: $ci-cyan;
+    text-decoration: none;
+    transition: color 0.2s ease;
+
+    &:hover,
+    &:focus {
+      color: lighten($ci-cyan, 10%);
+      text-decoration: underline;
+    }
+  }
+
+  p {
+    color: $ci-text-dim;
+  }
+}
+
+/* Jumbotron */
+.jumbotron {
+  background-color: $ci-bg-secondary;
+  border: 1px solid $ci-border;
+  color: $ci-text-primary;
+}
+
+/* Buttons */
+.btn-primary {
+  background: linear-gradient(135deg, $ci-cyan, $ci-blue);
+  border: none;
+  color: $ci-bg-dark;
+  font-weight: 600;
+
+  &:hover,
+  &:focus {
+    background: linear-gradient(135deg, lighten($ci-cyan, 5%), lighten($ci-blue, 5%));
+    color: $ci-bg-dark;
+  }
+}
+
+.btn-info {
+  background-color: $ci-blue;
+  border-color: darken($ci-blue, 6%);
+
+  &:hover,
+  &:focus {
+    background-color: darken($ci-blue, 8%);
+  }
+}
+
+/* Publication titles */
+pubtit {
+  font-weight: bold;
+  color: $ci-bg-dark;
+}
+
+/* Image shadows */
+#gridid img {
+  margin: 16px 22px 6px 0;
+  border-radius: 10%;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.12);
+}
+
+#picid img {
+  margin: 6px 3px 60px 6px;
+  border-radius: 1%;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.12);
+}
+
+/* Text selection */
+::selection {
+  background: rgba(0, 229, 204, 0.2);
+  color: $ci-bg-dark;
+}
+
+
+/* =============================================
+   Existing site styles (preserved)
+   ============================================= */
 
 p.byline {
 	text-align: center;
@@ -30,11 +517,6 @@ p.byline {
 	line-height: 36px;
 	margin-top: -24px;
 	margin-bottom: 48px;
-}
-
-
-pubtit {
-	font-weight: bold;
 }
 
 firstp {
@@ -61,9 +543,7 @@ firstp {
 }
 
 /* Team & Publications */
-#gridid img { margin: 16px 22px 6px 0; border-radius:10%; box-shadow: 2px 2px 5px #888888 }
 #homeid img { margin: 0 0 0 0; border-radius:5%; box-shadow: 0px 0px 0px #888888 }
-#picid img { margin: 6px 3px 60px 6px; border-radius:1%; box-shadow: 2px 2px 5px #888888 }
 #gridid .row { margin-bottom: 24px; }
 
 
@@ -90,4 +570,3 @@ firstp {
     margin-left: 30px;
     margin-right: 30px;
 }
-

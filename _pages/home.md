@@ -35,10 +35,10 @@ Our work seeks to improve the transparency and reliability of modern deep learni
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/GNNs03.jpg" alt="Slide 1" />
+            <img src="https://hogunpark.com/img/2026-title-page1.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/GNNs1.jpg" alt="Slide 2" />
+            <img src="https://hogunpark.com/img/2026-title-page2.jpg" alt="Slide 2" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">

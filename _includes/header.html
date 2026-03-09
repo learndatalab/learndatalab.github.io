@@ -1,24 +1,82 @@
-<div class="navbar navbar-default navbar-fixed-top" role="navigation">
-  <div class="container-fluid">
-	<div class="navbar-header">
-	  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
-		<span class="sr-only">Toggle navigation</span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-	  </button>
-	
-    <a class="navbar-brand" href="{{ site.url }}{{ site.baseurl }}/">LearnData Lab @ SKKU</a>
-	</div>
-	<div class="collapse navbar-collapse" id="navbar-collapse-1">
-	  <ul class="nav navbar-nav navbar-right">
-		<li><a href="{{ site.url }}{{ site.baseurl }}/">Home</a></li>
-		<li><a href="{{ site.url }}{{ site.baseurl }}/team">Team</a></li>
-		<li><a href="{{ site.url }}{{ site.baseurl }}/vacancies">Opening</a></li>
-		<li><a href="{{ site.url }}{{ site.baseurl }}/publications">Publications</a></li>
-		<!-- <li><a href="{{ site.url }}{{ site.baseurl }}/research">Research</a></li> -->
-		<!-- <li><a href="{{ site.url }}{{ site.baseurl }}/pictures">(Pics)</a></li> -->
-	  </ul>
-	</div>
-  </div>
-</div>
+{% assign current_path = page.url | remove: 'index.html' %}
+<header class="site-header" id="site-header">
+  <div class="header-accent"></div>
+  <nav class="site-nav" role="navigation" aria-label="Main navigation">
+    <div class="nav-container">
+      <a class="site-brand" href="{{ site.url }}{{ site.baseurl }}/">
+        <span class="brand-icon">
+          <svg width="36" height="36" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+            <!-- Graph edges -->
+            <line x1="48" y1="16" x2="22" y2="42" stroke="url(#navEdgeGrad)" stroke-width="1.5" opacity="0.6"/>
+            <line x1="48" y1="16" x2="74" y2="42" stroke="url(#navEdgeGrad)" stroke-width="1.5" opacity="0.6"/>
+            <line x1="22" y1="42" x2="48" y2="68" stroke="url(#navEdgeGrad)" stroke-width="1.5" opacity="0.6"/>
+            <line x1="74" y1="42" x2="48" y2="68" stroke="url(#navEdgeGrad)" stroke-width="1.5" opacity="0.6"/>
+            <line x1="22" y1="42" x2="14" y2="72" stroke="url(#navEdgeGrad)" stroke-width="1.5" opacity="0.4"/>
+            <line x1="74" y1="42" x2="82" y2="72" stroke="url(#navEdgeGrad)" stroke-width="1.5" opacity="0.4"/>
+            <line x1="48" y1="68" x2="48" y2="88" stroke="url(#navEdgeGrad)" stroke-width="1.5" opacity="0.5"/>
+            <!-- Graph nodes -->
+            <circle cx="48" cy="16" r="5" fill="url(#navNodeGrad)"/>
+            <circle cx="22" cy="42" r="4" fill="url(#navNodeGrad)"/>
+            <circle cx="74" cy="42" r="4" fill="url(#navNodeGrad)"/>
+            <circle cx="48" cy="68" r="6" fill="url(#navCoreGrad)"/>
+            <circle cx="14" cy="72" r="3" fill="url(#navNodeGrad)" opacity="0.7"/>
+            <circle cx="82" cy="72" r="3" fill="url(#navNodeGrad)" opacity="0.7"/>
+            <circle cx="48" cy="88" r="2.5" fill="#3B82F6" opacity="0.6"/>
+            <!-- AI core ring -->
+            <circle cx="48" cy="68" r="12" stroke="#00E5CC" stroke-width="0.8" fill="none" opacity="0.3"/>
+            <defs>
+              <linearGradient id="navEdgeGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+                <stop offset="0%" stop-color="#00E5CC"/>
+                <stop offset="100%" stop-color="#3B82F6"/>
+              </linearGradient>
+              <radialGradient id="navNodeGrad">
+                <stop offset="0%" stop-color="#00E5CC"/>
+                <stop offset="100%" stop-color="#3B82F6"/>
+              </radialGradient>
+              <radialGradient id="navCoreGrad">
+                <stop offset="0%" stop-color="#FFFFFF"/>
+                <stop offset="40%" stop-color="#00E5CC"/>
+                <stop offset="100%" stop-color="#3B82F6"/>
+              </radialGradient>
+            </defs>
+          </svg>
+        </span>
+        <span class="brand-text">
+          <span class="brand-name">LearnData Lab</span>
+          <span class="brand-affiliation">@ SKKU</span>
+        </span>
+      </a>
+
+      <button class="nav-toggle" id="nav-toggle"
+              type="button"
+              aria-expanded="false"
+              aria-controls="nav-menu"
+              aria-label="Toggle navigation menu">
+        <span class="hamburger"></span>
+      </button>
+
+      <ul class="nav-menu" id="nav-menu">
+        <li class="nav-item">
+          <a href="{{ site.url }}{{ site.baseurl }}/"
+             class="nav-link{% if current_path == '/' %} active{% endif %}">Home</a>
+        </li>
+        <li class="nav-item">
+          <a href="{{ site.url }}{{ site.baseurl }}/research"
+             class="nav-link{% if current_path contains 'research' %} active{% endif %}">Research</a>
+        </li>
+        <li class="nav-item">
+          <a href="{{ site.url }}{{ site.baseurl }}/team"
+             class="nav-link{% if current_path contains 'team' %} active{% endif %}">Team</a>
+        </li>
+        <li class="nav-item">
+          <a href="{{ site.url }}{{ site.baseurl }}/vacancies"
+             class="nav-link{% if current_path contains 'vacanc' %} active{% endif %}">Opening</a>
+        </li>
+        <li class="nav-item">
+          <a href="{{ site.url }}{{ site.baseurl }}/publications"
+             class="nav-link{% if current_path contains 'publication' %} active{% endif %}">Publications</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+</header>

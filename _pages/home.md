@@ -10,19 +10,15 @@ permalink: /
 <!--#### About Us  -->
 LearnData Lab develops machine learning systems that enable AI to reason over complex relational data.
 
-We are a research group in the Department of Software at  [Sungkyunkwan University (SKKU)](https://en.wikipedia.org/wiki/Sungkyunkwan_University), led by Prof. Hogun Park. Our work focuses on machine learning, data mining, and trustworthy AI for graph-structured data.
-
-We study how intelligent systems can learn from and reason over structured information such as social networks, knowledge graphs, and multi-modal relational data. Our research spans graph representation learning, explainable AI, and knowledge-enhanced machine learning.
-
-Our goal is to build reliable and interpretable AI systems that bridge theoretical advances in machine learning with real-world applications.
+We develop machine learning systems that reason over complex relational data, including social networks, knowledge graphs, and multi-modal structured information. Led by Prof. Hogun Park in the Department of Computer Science and Engieering at [Sungkyunkwan University (SKKU)](https://en.wikipedia.org/wiki/Sungkyunkwan_University), our lab bridges theoretical advances in graph learning with real-world, trustworthy AI applications.
 
 #### Research Areas  
 
-##### 1. Machine Learning and Data Mining for Graph-Structured Data
-We study algorithms capable of modeling complex relational information that arises in social and interaction networks, knowledge graphs and ontologies, educational and behavioral logs, multi-modal graphs, and multi-sensor data. By developing scalable graph representation learning techniques, we aim to enable AI systems that can understand and reason over large-scale relational structures. These methods support emerging applications such as GraphRAG, knowledge-grounded reasoning, multi-agent learning, and agent orchestration over structured data.
+##### 1. Graph Representation Learning & Reasoning
+We design scalable algorithms for modeling relational structure in knowledge graphs, interaction networks, behavioral logs, and multi-sensor data. This work supports emerging directions including GraphRAG, knowledge-grounded reasoning, and agent orchestration over structured data.
 
-##### 2. Explainable, Robust, and Trustworthy AI
-Our work seeks to improve the transparency and reliability of modern deep learning models by developing methods for interpretability and model understanding. This includes research on post-hoc explainability for graph neural networks, mechanistic interpretability of large language models, knowledge-enhanced LLMs, and knowledge editing techniques. We also study neural watermarking, model provenance, and approaches that integrate logical and symbolic reasoning with modern machine learning to ensure AI systems remain reliable and accountable in real-world environments.
+##### 2. Explainable & Trustworthy AI
+We develop methods to make deep learning models more transparent and reliable, from post-hoc explainability for GNNs to mechanistic interpretability of LLMs. Our work also addresses neural watermarking, knowledge editing, and the integration of symbolic reasoning into modern ML systems.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->

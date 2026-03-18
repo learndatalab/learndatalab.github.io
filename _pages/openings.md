@@ -18,9 +18,9 @@ You will have the chance to work on the grand challenges of machine learning and
 
 #### Current open positions
 
-- Learning from Agentic Interaction
-- LLM Steering via Neuron-Level Analysis
-- World Model-based Multimodal Learning
+- Graph machine learning and representation learning
+- LLM steering via neuron-level analysis
+- Multimodal knowledge graph construction and reasoning
 <!-- ML models for time-series data for domain adaptation and generalization 
 -->
 

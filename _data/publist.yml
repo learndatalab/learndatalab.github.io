@@ -22,7 +22,7 @@
     display: "International Conference on Learning Representations (ICLR 2026), 2026."
   highlight: 0
   year: 2026
-  news1:  Arxiv <a href="https://openreview.net/pdf?id=SSd3GENRAU" target="_black">PDF</a> <a href="https://github.com/dntjr41/LPSFed" target="_black">Code</a>
+  news1:  <a href="http://arxiv.org/abs/2603.20338" target="_black">Arxiv</a> <a href="https://openreview.net/pdf?id=SSd3GENRAU" target="_black">PDF</a> <a href="https://github.com/dntjr41/LPSFed" target="_black">Code</a>
 
 - title: "Judo: A Juxtaposed Domain-oriented Multimodal Reasoner for Industrial Anomaly QA"
   authors: Hyunju Kang+, Woohyun Lee+, Jaewon Kim, <b>Hogun Park<span>&#42;</span></b>

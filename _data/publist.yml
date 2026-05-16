@@ -1,4 +1,19 @@
 
+- title: Out-of-Distribution Robust Explainer for Graph Neural Networks
+  authors: Geonhee Han, Heesoo Jung, Hyunju Kang, <b>Hogun Park<span>&#42;</span></b>
+  link:
+    display: "ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2026), 2026."
+  highlight: 0
+  year: 2026
+  news1: PDF Code
+
+- title: Edge-Induced Subgraph Representation Learning
+  authors: Seungryeol Baek, <b>Hogun Park<span>&#42;</span></b>
+  link:
+    display: "ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2026), 2026."
+  highlight: 0
+  year: 2026
+  news1: PDF Code
 
 - title: "A Kinematic-Guided Dual-Branch Framework for Parkinson's Disease Assessment in Sit-to-Stand Tasks"
   authors: Jieming Zhang, Tai-Myoung Chung, <b>Hogun Park<span>&#42;</span></b>

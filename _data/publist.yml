@@ -53,7 +53,7 @@
     display: "International Conference on Learning Representations (ICLR 2026), 2026."
   highlight: 0
   year: 2026
-  news1:  Arxiv <a href="https://openreview.net/pdf?id=XW4mROtaVb" target="_black">PDF</a> <a href="https://github.com/woodavid31/JUDO" target="_black">Code</a>
+  news1:  <a href="https://arxiv.org/pdf/2605.20284" target="_black">Arxiv</a> <a href="https://openreview.net/pdf?id=XW4mROtaVb" target="_black">PDF</a> <a href="https://github.com/woodavid31/JUDO" target="_black">Code</a>
 
 - title: "SToRM: Supervised Token Reduction for Multi-modal LLMs toward Efficient End-to-end Autonomous Driving"
   authors: Seo Hyun Kim, Jinbok Park, Do Yeon Koo, <b>Hogun Park<span>&#42;</span></b>, Il Yong Chun<span>&#42;</span>
@@ -117,7 +117,7 @@
     display: "International Conference on Machine Learning (ICML 2025), 2025."
   highlight: 0
   year: 2025
-  news1: <a href="https://openreview.net/pdf?id=yMhkpJ1K01" target="_black">PDF</a> <a href="https://github.com/woodavid31/GPR-GAE" target="_black">Code</a>
+  news1: <a href="https://arxiv.org/abs/2605.23239" target="_black">Arxiv</a> <a href="https://openreview.net/pdf?id=yMhkpJ1K01" target="_black">PDF</a> <a href="https://github.com/woodavid31/GPR-GAE" target="_black">Code</a>
 
 - title: Enhancing Inductive Numerical Reasoning in Knowledge Graphs with Relation-Aware Relative Numeric Encoding
   authors: Hongjun Jeong, Heesoo Jung, Gayeong Kim, Juann Kim, Ko Keun Kim, <b>Hogun Park<span>&#42;</span></b>

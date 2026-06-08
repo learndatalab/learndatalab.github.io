@@ -17,8 +17,9 @@
   photo: heesoo.jpg
   info: Ph.D. Student (Fall 2023-)
   email: steve305@g.skku.edu
-  number_educ: 1
+  number_educ: 2
   education1: CSE Department
+  education2: <a href="https://steve30572.github.io/hsjung/">Personal Webpage</a>
 
 - name: Jeonghoon Kim
   photo: Jeonghoon.png
@@ -73,8 +74,9 @@
   photo: mjkim.jpg
   info: M.S. Student (Fall 2024-)
   email: kmjj7864@skku.edu
-  number_educ: 1
+  number_educ: 2
   education1: AI Department
+  education2: <a href="https://minjik01.github.io/">Personal Webpage</a>
 
 - name: Kyungil Park
   photo: pgi.png

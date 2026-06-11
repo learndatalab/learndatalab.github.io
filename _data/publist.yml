@@ -1,5 +1,5 @@
 
-- title: Measuring Graph-to-Graph Semantic Similarity in Knowledge Graphs: An Empirical Evaluation of Knowledge Graph Embeddings
+- title: "Measuring Graph-to-graph Semantic Similarity in Knowledge Graphs: An Empirical Evaluation of Knowledge Graph Embeddings"
   authors: Seungryeol Baek, Wooseok Sim, <b>Hogun Park<span>&#42;</span></b>
   link:
     display: "Proc. of the Frontiers in Graph Machine Learning for the Large Model Era (GMLLM) Workshop at the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2026), 2026."
@@ -7,7 +7,7 @@
   year: 2026
   news1: PDF Code
 
-- title: CondPSE: A Polynomial-Filtered Structural Encoder with Conditional Modulation for Graphs
+- title: "CondPSE: A Polynomial-filtered Structural Encoder with Conditional Modulation for Graphs"
   authors: Woohyun Lee, <b>Hogun Park<span>&#42;</span></b>
   link:
     display: "Proc. of the Frontiers in Graph Machine Learning for the Large Model Era (GMLLM) Workshop at the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2026), 2026."
@@ -15,7 +15,7 @@
   year: 2026
   news1: PDF Code
 
-- title: Out-of-Distribution Robust Explainer for Graph Neural Networks
+- title: Out-of-distribution Robust Explainer for Graph Neural Networks
   authors: Geonhee Han, Heesoo Jung, Hyunju Kang, <b>Hogun Park<span>&#42;</span></b>
   link:
     display: "ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2026), 2026."

@@ -2,7 +2,7 @@
 - title: "Measuring Graph-to-graph Semantic Similarity in Knowledge Graphs: An Empirical Evaluation of Knowledge Graph Embeddings"
   authors: Seungryeol Baek, Wooseok Sim, <b>Hogun Park<span>&#42;</span></b>
   link:
-    display: "Proc. of the ACM SIGKDD Workshop on Frontiers in Graph Machine Learning for the Large Model Era (GMLLM), 2026."
+    display: "ACM SIGKDD Workshop on Frontiers in Graph Machine Learning for the Large Model Era (GMLLM), 2026."
   highlight: 0
   year: 2026
   news1: PDF Code
@@ -10,7 +10,7 @@
 - title: "CondPSE: A Polynomial-filtered Structural Encoder with Conditional Modulation for Graphs"
   authors: Woohyun Lee, <b>Hogun Park<span>&#42;</span></b>
   link:
-    display: "Proc. of the ACM SIGKDD Workshop on Frontiers in Graph Machine Learning for the Large Model Era (GMLLM), 2026."
+    display: "ACM SIGKDD Workshop on Frontiers in Graph Machine Learning for the Large Model Era (GMLLM), 2026."
   highlight: 0
   year: 2026
   news1: PDF Code
@@ -303,7 +303,7 @@
 - title: Providing Node-level Local Explanation for node2vec through Reinforcement Learning
   authors: Hyunju Kang and <b>Hogun Park<span>&#42;</span></b>
   link:
-    display: "Proc. of the Machine Learning on Graphs (MLoG) Workshop at the 15th ACM Conference on Web Search and Data Mining (WSDM 2022), 2022."
+    display: "ACM WSDM Workshop on Machine Learning on Graphs (MLoG), 2022."
   highlight: 0
   year: 2022
   news1: <a href="http://hogunpark.com/papers/wsdm2022-MLoG-MCTS-G.pdf" target="_black">PDF</a>

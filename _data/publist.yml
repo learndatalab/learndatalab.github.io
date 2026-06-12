@@ -1,4 +1,3 @@
-
 - title: "Measuring Graph-to-graph Semantic Similarity in Knowledge Graphs: An Empirical Evaluation of Knowledge Graph Embeddings"
   authors: Seungryeol Baek, Wooseok Sim, <b>Hogun Park<span>&#42;</span></b>
   link:
@@ -146,7 +145,7 @@
 - title: "Large Language Models Are Better Logical Fallacy Reasoners with Counterargument, Explanation, and Goal-Aware Prompt Formulation"
   authors: Jiwon Jeong, Hyeju Jang<span>&#42;</span>, <b>Hogun Park<span>&#42;</span></b>
   link:
-    display: "The 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL 2025 Findings), 2025."
+    display: "Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL 2025 Findings), 2025."
   highlight: 0
   year: 2025
   news1:  <a href="https://arxiv.org/abs/2503.23363" target="_black">Arxiv</a> <a href="https://aclanthology.org/2025.findings-naacl.384/" target="_black">PDF</a> <a href="https://github.com/jw9603/Logical_Fallacy" target="_black">Code</a>
@@ -167,7 +166,6 @@
   year: 2025
   news1: <a href="https://www.arxiv.org/pdf/2502.00459" target="_black">Arxiv</a> <a href="https://ojs.aaai.org/index.php/AAAI/article/view/33950" target="_black">PDF</a> <a href="https://github.com/hjkng/audiogenX" target="_black">Code</a>
 
-
 - title: "MAMS: Model-Agnostic Module Selection Framework for Video Captioning"
   authors: Sangho Lee, Il Yong Chun<span>&#42;</span>, <b>Hogun Park<span>&#42;</span></b>
   link:
@@ -175,7 +173,6 @@
   highlight: 0
   year: 2025
   news1:  <a href="https://arxiv.org/pdf/2501.18269" target="_black">Arxiv</a> <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32478" target="_black">PDF</a> <a href="https://github.com/mancityg/AAAI2025-MAMS" target="_black">Code</a>  (Selected as an <a href="" target="_black">Oral Presentation</a> (Top 6.1% paper))
-
 
 - title: "MELA: Multi-Event Localization Answering Framework for Video Question Answering"
   authors: Jimyeong Han, Sangpil Kim<span>&#42;</span>, <b>Hogun Park<span>&#42;</span></b>
@@ -225,7 +222,6 @@
   year: 2024
   news1:  <a href="https://openreview.net/pdf?id=0j9ZDzMPqr" target="_black">PDF</a> <a href="https://github.com/hjkng/unrexplainer" target="_black">Code</a>
 
-
 - title: "Self-supervised Multimodal Graph Convolutional Network for Collaborative Filtering"
   authors: Sungjune Kim, Gyusam Chang, Wonseok Roh, Dae-Neung Sohn, Jung-Tae Lee, <b>Hogun Park<span>&#42;</span></b>, Sangpil Kim<span>&#42;</span>
   link:
@@ -257,7 +253,6 @@
   highlight: 0
   year: 2023
   news1:  <a href="https://arxiv.org/abs/2304.12036" target="_black">Arxiv</a> <a href="https://doi.org/10.1016/j.neunet.2023.04.029" target="_black">PDF</a> Code
-
 
 - title: Incorporating Experts' Judgment into Machine Learning Models
   authors: <b>Hogun Park</b>, Aly Megahed, Peifeng Yin, Yuya Ong, Pravar Mahajan, Pei Guo
@@ -303,7 +298,7 @@
 - title: Providing Node-level Local Explanation for node2vec through Reinforcement Learning
   authors: Hyunju Kang and <b>Hogun Park<span>&#42;</span></b>
   link:
-    display: "ACM WSDM Workshop on Machine Learning on Graphs (MLoG), 2022."
+    display: "Machine Learning on Graphs (MLoG) Workshop at the 15th ACM Conference on Web Search and Data Mining (WSDM 2022), 2022."
   highlight: 0
   year: 2022
   news1: <a href="http://hogunpark.com/papers/wsdm2022-MLoG-MCTS-G.pdf" target="_black">PDF</a>
@@ -315,7 +310,6 @@
   highlight: 0
   year: 2020
   news1: <a href="http://hogunpark.com/papers/ICSE2020-Kim-BusinessTampering.pdf" target="_black">PDF</a>
-
 
 - title: Role Equivalence Attention for Label Propagation in Graph Neural Networks
   authors: <b>Hogun Park</b>, Jennifer Neville
@@ -334,7 +328,6 @@
   year: 2020
   news1: <a href="https://www.sciencedirect.com/science/article/pii/S0268401219308072" target="_black">PDF</a>
 
-
 - title: Exploiting Interaction Links for Node Classification with Deep Graph Neural Networks
   authors:
     <b>Hogun Park</b>, Jennifer Neville
@@ -343,8 +336,6 @@
   highlight: 0
   year: 2019
   news1: <a href="http://hogunpark.com/papers/HPark-IJCAI2019-TSGNET.pdf" target="_black">PDF</a>  <a href="https://github.com/hogunpark/TSGNET" target="_black">Code</a>
-
-
 
 - title: "Learning Procedures from Text: Codifying How-to Procedures in Deep Neural Networks"
   authors:
@@ -355,7 +346,6 @@
   year: 2018
   news1: <a href="http://hogunpark.com/papers/www2018-procedure.pdf" target="_black">PDF</a>
 
-
 - title: "Deep Dynamic Relational Classifiers: Exploiting Dynamic Neighborhoods in Complex Networks"
   authors:
     <b>Hogun Park</b>, John Moore, Jennifer Neville
@@ -364,7 +354,6 @@
   highlight: 0
   year: 2017
   news1: <a href="http://hogunpark.com/papers/wsdm2017-maison.pdf" target="_black">PDF</a>
-
 
 - title: "Real-Time Panoramic Video Streaming System with Overlaid Interface Concept for Social Media"
   authors:
@@ -375,7 +364,6 @@
   year: 2014
   news1: <a href="http://hogunpark.com/papers/panorama-overlay-dseo-2014.pdf" target="_black">PDF</a>  <a href="https://youtu.be/8VHXULp-fJs" target="_black">Video</a>
 
-
 - title: "Trendy Episode Detection at a Very Short Time Granularity"
   authors: <b>Hogun Park</b>, Sun-Bum Youn, Geun-Yong Lee, Heedong Ko
   link:
@@ -384,7 +372,6 @@
   year: 2011
   news1: <a href="http://hogunpark.com/papers/EUROITV2011-HOTTOPIC.pdf" target="_black">PDF</a>
 
-
 - title: "Sharing of Baseball Event through Social Media"
   authors: <b>Hogun Park</b>, Sun-Bum Youn, Geun-Yong Lee, Heedong Ko
   link:
@@ -392,7 +379,6 @@
   highlight: 0
   year: 2010
   news1: <a href="http://hogunpark.com/papers/MIR2010_PHG.pdf" target="_black">PDF</a>  <a href="https://youtu.be/Xv5hhBZ0sI8" target="_black">Video</a>
-
 
 - title: "Interactive Information Seeking Interface for Exploratory Search"
   authors: <b>Hogun Park</b>, Sung-Hyon Myaeng, Gwan Jang, Jong-wook Choi, Sooran Jo,  Hyungchul Roh

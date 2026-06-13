@@ -1,3 +1,11 @@
+- title: Weakly-Supervised Temporal Decomposition with Graph Convolutional Networks for Parkinsonian Turning Assessment
+  authors: Jieming Zhang, <b>Hogun Park<span>&#42;</span></b>
+  link:
+    display: "International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2026."
+  highlight: 0
+  year: 2026
+  news1: PDF
+  
 - title: "Measuring Graph-to-graph Semantic Similarity in Knowledge Graphs: An Empirical Evaluation of Knowledge Graph Embeddings"
   authors: Seungryeol Baek, Wooseok Sim, <b>Hogun Park<span>&#42;</span></b>
   link:

@@ -4,7 +4,7 @@
     display: "International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2026."
   highlight: 0
   year: 2026
-  news1: PDF
+  news1: 
   
 - title: "Measuring Graph-to-graph Semantic Similarity in Knowledge Graphs: An Empirical Evaluation of Knowledge Graph Embeddings"
   authors: Seungryeol Baek, Wooseok Sim, <b>Hogun Park<span>&#42;</span></b>
@@ -52,8 +52,16 @@
     display: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026."
   highlight: 0
   year: 2026
-  news1: <a href="https://arxiv.org/abs/2512.20136" target="_blank">arXiv</a>
-
+  news1: <a href="https://arxiv.org/abs/2512.20136" target="_blank">arXiv</a> <a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Park_M3KG-RAG_Multi-hop_Multimodal_Knowledge_Graph-enhanced_Retrieval-Augmented_Generation_CVPR_2026_paper.pdf" target="_blank">PDF</a> <a href="https://kuai-lab.github.io/cvpr2026m3kgrag/" target="_blank">Project Page</a>
+  
+- title: "Group3D: MLLM-Driven Semantic Grouping for Open-Vocabulary 3D Object Detection"
+  authors: Youbin Kim, Jinho Park, <b>Hogun Park</b>, Eunbyung Park
+  link:
+    display: "European Conference on Computer Vision (ECCV), 2026."
+  highlight: 0
+  year: 2026
+  news1: <a href="https://arxiv.org/abs/2603.21944" target="_blank">arXiv</a>
+  
 - title: "Harnessing Spatial Dependency for Domain Generalization in Multivariate Time-series Sensor Data"
   authors: Jaehyun Bae, Heesoo Jung, <b>Hogun Park<span>&#42;</span></b>
   link:

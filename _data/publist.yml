@@ -1,10 +1,4 @@
-- title: Weakly-Supervised Temporal Decomposition with Graph Neural Networks for Parkinsonian Turning Assessment
-  authors: Jieming Zhang, Tai-Myoung Chung, <b>Hogun Park<span>&#42;</span></b>
-  link:
-    display: "International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2026."
-  highlight: 0
-  year: 2026
-  news1: 
+
   
 - title: "Measuring Graph-to-graph Semantic Similarity in Knowledge Graphs: An Empirical Evaluation of Knowledge Graph Embeddings"
   authors: Seungryeol Baek, Wooseok Sim, <b>Hogun Park<span>&#42;</span></b>
@@ -38,6 +32,22 @@
   year: 2026
   news1:
 
+- title: Weakly-Supervised Temporal Decomposition with Graph Neural Networks for Parkinsonian Turning Assessment
+  authors: Jieming Zhang, Tai-Myoung Chung, <b>Hogun Park<span>&#42;</span></b>
+  link:
+    display: "International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2026."
+  highlight: 0
+  year: 2026
+  news1: 
+
+- title: "A Kinematic-guided Dual-branch Framework for Parkinson's Disease Assessment in Sit-to-stand Tasks"
+  authors: Jieming Zhang, Tai-Myoung Chung, <b>Hogun Park<span>&#42;</span></b>
+  link:
+    display: "<i>IEEE Transactions on Neural Systems and Rehabilitation Engineering</i>, IEEE, 2026. (Accepted; Impact Factor: 6.6; JCR Rank: Top 1.4%)"
+  highlight: 0
+  year: 2026
+  news1: 
+  
 - title: "A Kinematic-guided Dual-branch Framework for Parkinson's Disease Assessment in Sit-to-stand Tasks"
   authors: Jieming Zhang, Tai-Myoung Chung, <b>Hogun Park<span>&#42;</span></b>
   link:

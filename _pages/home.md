@@ -22,7 +22,7 @@ We study complex query answering and multi-hop/numerical reasoning over knowledg
 We make deep learning models transparent, robust, and verifiable across architectures. For GNNs, we develop post-hoc and counterfactual explanations, influence-based analysis, and adversarial purification; for LLMs and generative models, we study explainability, watermarking, and knowledge editing.
 
 #### Join Us
-We are always looking for motivated integrated M.S./Ph.D. and Ph.D. students. If you are interested, please email Prof. Park at hogunpark@skku.edu with your CV and transcript.
+We are always looking for motivated integrated M.S./Ph.D. and Ph.D. students. If you are interested, please email me with your CV and transcript.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->

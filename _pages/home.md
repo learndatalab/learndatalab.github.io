@@ -6,19 +6,23 @@ sitemap: false
 permalink: /
 ---
 
-<!--We are a dynamic research group at the [Sungkyunkwan University (SKKU)](https://en.wikipedia.org/wiki/Sungkyunkwan_University). Our aim is to develop Machine Learning and Data Mining models for Interconnected Data (e.g., human interactions, knowledge graphs, educational logs, multi-modal graphs, and multi-sensor data), as well as trustworthy and explainable AI for generative and graph-based models. We also focus on Natural Language Processing (e.g., knowledge-enhanced large language models (LLMs), knowledge editing for LLMs, watermarking for LLMs, and logical/symbolic reasoning). Our current research topics include self-supervised graph learning, multi-modal learning, question answering, knowledge tracing, and recommender systems.-->
-<!--#### About Us  -->
-LearnData Lab develops machine learning systems that enable AI to reason over complex relational data.
+**We build AI that reasons over structure: graphs, knowledge, and multimodal data.**
 
-We develop machine learning systems that reason over complex relational data, including social networks, knowledge graphs, and multi-modal structured information. Led by Prof. Hogun Park in the Department of Computer Science and Engieering at [Sungkyunkwan University (SKKU)](https://en.wikipedia.org/wiki/Sungkyunkwan_University), our lab bridges theoretical advances in graph learning with real-world, trustworthy AI applications.
+LearnData Lab is led by [Prof. Hogun Park](https://hogunpark.com/) in the College of Computing at [Sungkyunkwan University (SKKU)](https://en.wikipedia.org/wiki/Sungkyunkwan_University). We develop machine learning models for complex relational data, such as interaction networks, knowledge graphs, and multi-sensor data, and make modern AI systems, from GNNs to LLMs, transparent, robust, and verifiable. Our work appears at venues including ICLR, ICML, KDD, WWW, CVPR, and ACL, and is applied to recommendation, healthcare, and industrial AI in collaboration with partners such as Samsung and LG. Prof. Park is currently a Visiting Scholar at UC San Diego's HDSI (2026-27).
 
-#### Research Areas  
+#### Research Areas
 
-##### 1. Graph Representation Learning & Reasoning
-We design scalable algorithms for modeling relational structure in knowledge graphs, interaction networks, behavioral logs, and multi-sensor data. This work supports emerging directions including GraphRAG, knowledge-grounded reasoning, and agent orchestration.
+##### 1. Graph Representation Learning
+We develop self-supervised, subgraph, and federated approaches to learning from relational structure, with an emphasis on scalability and robustness.
 
-##### 2. Explainable & Trustworthy AI
-We develop methods to make deep learning models more transparent and reliable, from post-hoc explainability for GNNs to mechanistic interpretability of LLMs. Our work also addresses neural watermarking, knowledge editing, and the integration of symbolic reasoning into modern ML systems.
+##### 2. Knowledge Graph Reasoning & LLMs
+We study complex query answering and multi-hop/numerical reasoning over knowledge graphs, and build structure-grounded LLM systems including GraphRAG and multimodal KG-enhanced generation. Emerging directions include agentic reasoning and orchestration over structured knowledge.
+
+##### 3. Explainable & Trustworthy AI
+We make deep learning models transparent, robust, and verifiable across architectures. For GNNs, we develop post-hoc and counterfactual explanations, influence-based analysis, and adversarial purification; for LLMs and generative models, we study explainability, watermarking, and knowledge editing.
+
+#### Join Us
+We are always looking for motivated integrated M.S./Ph.D. and Ph.D. students. If you are interested, please email Prof. Park at hogunpark@skku.edu with your CV and transcript.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->

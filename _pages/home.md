@@ -21,8 +21,6 @@ We study complex query answering and multi-hop/numerical reasoning over knowledg
 ##### 3. Explainable & Trustworthy AI
 We make deep learning models transparent, robust, and verifiable across architectures. For GNNs, we develop post-hoc and counterfactual explanations, influence-based analysis, and adversarial purification; for LLMs and generative models, we study explainability, watermarking, and knowledge editing.
 
-#### Join Us
-We are always looking for motivated integrated M.S./Ph.D. and Ph.D. students. If you are interested, please email me with your CV and transcript.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
@@ -52,10 +50,9 @@ We are always looking for motivated integrated M.S./Ph.D. and Ph.D. students. If
 </div>
 
 
- **We are  looking for passionate new Ph.D. students (or M.S./Ph.D. integrated program students) and Postdocs to join the team.** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are  looking for passionate new Ph.D. students (or M.S./Ph.D. integrated program students) and Postdocs to join the team.** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!** No opening for MS students for now.
 
 <!--We are part of the College of Computing and Informatics (소프트웨어융합대학) at Sungkyunkwan University (SKKU) and affiliated with Computer Science Engineering (소프트웨어학과), Artificial Intelligence (인공지능대학원), and Intelligent Software (지능형소프트웨어) departments.--> 
-Open positions are available for PhD students and Postdoctoral researchers. No opening for MS students for now.
 
 We are grateful for funding from the National Research Foundation of Korea (NRF), BK21, Information & Communications Technology Planning & Evaluation (IITP), National IT Industry Promotion Agency (NIPA), Korea Creative Content Agency (KOCCA), LG Electronics, Samsung Research, NCSOFT, Samsung Display, and NAVER.
 <br />

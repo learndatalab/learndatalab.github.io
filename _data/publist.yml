@@ -1,4 +1,19 @@
 
+- title: "Beyond Node-Level Relations: Hybrid Hierarchical Graphs for Multivariate Time Series Imputation under Node Blackout"
+  authors: Jaehyun Bae, <b>Hogun Park<span>*</span></b>
+  link:
+  display: "ACM International Conference on Information and Knowledge Management (CIKM), 2026."
+  highlight: 0
+  year: 2026
+  news1: PDF Code
+
+- title: "SEMAPHORE: Semantic Detour over Incomplete Knowledge Graphs for Multi-hop Numerical QA"
+  authors: Hojun Lee, <b>Hogun Park<span>*</span></b>
+  link:
+  display: "ACM International Conference on Information and Knowledge Management (CIKM), 2026."
+  highlight: 0
+  year: 2026
+  news1: PDF Code
   
 - title: "Measuring Graph-to-graph Semantic Similarity in Knowledge Graphs: An Empirical Evaluation of Knowledge Graph Embeddings"
   authors: Seungryeol Baek, Wooseok Sim, <b>Hogun Park<span>&#42;</span></b>

@@ -5,7 +5,7 @@
     display: "ACM International Conference on Information and Knowledge Management (CIKM), 2026."
   highlight: 0
   year: 2026
-  news1: PDF Code
+  news1: PDF Code Selected for oral presentation (Top 15.16% paper)
 
 - title: "SEMAPHORE: Semantic Detour over Incomplete Knowledge Graphs for Multi-hop Numerical QA"
   authors: Hojun Lee, <b>Hogun Park<span>*</span></b>
@@ -13,7 +13,7 @@
     display: "ACM International Conference on Information and Knowledge Management (CIKM), 2026."
   highlight: 0
   year: 2026
-  news1: PDF Code
+  news1: PDF Code Selected for oral presentation (Top 15.16% paper)
   
 - title: "Measuring Graph-to-graph Semantic Similarity in Knowledge Graphs: An Empirical Evaluation of Knowledge Graph Embeddings"
   authors: Seungryeol Baek, Wooseok Sim, <b>Hogun Park<span>&#42;</span></b>

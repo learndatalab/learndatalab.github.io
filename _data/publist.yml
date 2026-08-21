@@ -4,7 +4,7 @@
     display: "Findings of the Association for Computational Linguistics: ACL, 2026."
   highlight: 0
   year: 2026
-  news1: <a href="https://aclanthology.org/2025.findings-acl.1387.pdf" target="_blank">PDF</a> <a href="https://github.com/HongjunJeongSKKU/Aqua-QA" target="_blank">Code</a>
+  news1: PDF
 
 - title: "Beyond Node-Level Relations: Hybrid Hierarchical Graphs for Multivariate Time Series Imputation under Node Blackout"
   authors: Jaehyun Bae, <b>Hogun Park<span>*</span></b>

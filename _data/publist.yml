@@ -6,7 +6,7 @@
   year: 2026
   news1: 
 
-- title: "Beyond Node-Level Relations: Hybrid Hierarchical Graphs for Multivariate Time Series Imputation under Node Blackout"
+- title: "Beyond Node-level Relations: Hybrid Hierarchical Graphs for Multivariate Time Series Imputation under Node Blackout"
   authors: Jaehyun Bae, <b>Hogun Park<span>*</span></b>
   link:
     display: "ACM International Conference on Information and Knowledge Management (CIKM), 2026."
@@ -22,7 +22,7 @@
   year: 2026
   news1: Selected for oral presentation (Top 15.16% paper)
   
-- title: "Measuring Graph-to-graph Semantic Similarity in Knowledge Graphs: An Empirical Evaluation of Knowledge Graph Embeddings"
+- title: "Measuring Graph-to-Graph Semantic Similarity in Knowledge Graphs: An Empirical Evaluation of Knowledge Graph Embeddings"
   authors: Seungryeol Baek, Wooseok Sim, <b>Hogun Park<span>&#42;</span></b>
   link:
     display: "ACM SIGKDD Workshop on Frontiers in Graph Machine Learning for the Large Model Era (GMLLM), 2026."
@@ -38,7 +38,7 @@
   year: 2026
   news1: <a href="https://arxiv.org/pdf/2607.25169" target="_blank">arXiv</a> 
 
-- title: Out-of-distribution Robust Explainer for Graph Neural Networks
+- title: Out-of-Distribution Robust Explainer for Graph Neural Networks
   authors: Geonhee Han, Heesoo Jung, Hyunju Kang, <b>Hogun Park<span>&#42;</span></b>
   link:
     display: "ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026."
@@ -46,7 +46,7 @@
   year: 2026
   news1: <a href="https://dl.acm.org/doi/10.1145/3770855.3817721" target="_blank">PDF</a> <a href="https://github.com/gunhee8178/ORExplainer" target="_blank">Code</a>
 
-- title: Edge-induced Subgraph Representation Learning
+- title: Edge-Induced Subgraph Representation Learning
   authors: Seungryeol Baek, <b>Hogun Park<span>&#42;</span></b>
   link:
     display: "ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026."
@@ -86,7 +86,7 @@
   year: 2026
   news1: <a href="https://arxiv.org/abs/2512.20136" target="_blank">arXiv</a> <a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Park_M3KG-RAG_Multi-hop_Multimodal_Knowledge_Graph-enhanced_Retrieval-Augmented_Generation_CVPR_2026_paper.pdf" target="_blank">PDF</a> <a href="https://kuai-lab.github.io/cvpr2026m3kgrag/" target="_blank">Project Page</a>
   
-- title: "Group3D: MLLM-Driven Semantic Grouping for Open-Vocabulary 3D Object Detection"
+- title: "Group3D: MLLM-driven Semantic Grouping for Open-Vocabulary 3D Object Detection"
   authors: Youbin Kim, Jinho Park, <b>Hogun Park</b>, Eunbyung Park
   link:
     display: "European Conference on Computer Vision (ECCV), 2026."
@@ -238,7 +238,7 @@
   year: 2025
   news1: <a href="https://arxiv.org/abs/2503.07852" target="_blank">arXiv (with full proofs)</a> <a href="https://dl.acm.org/doi/10.1145/3701551.3703515" target="_blank">PDF</a> <a href="https://github.com/vapene/CIMAGE" target="_blank">Code</a> Selected for oral presentation (Top 6.5% paper)
 
-- title: A Spectrum of Nonsense-mediated mRNA Decay Efficiency along the Degree of Mutational Constraint
+- title: A Spectrum of Nonsense-Mediated mRNA Decay Efficiency along the Degree of Mutational Constraint
   authors: Young-gon Kim+, Hyunju Kang+, Beomki Lee+, Hyeok-Jae Jang, Jong-ho Park, Changhee Ha, <b>Hogun Park<span>&#42;</span></b>, Jong-Won Kim<span>&#42;</span>
   link:
     display: "<i>Communications Biology</i>, Nature Portfolio, 2024. (Impact Factor: 5.2; JCR Rank: Top 11.5%)"
@@ -254,7 +254,7 @@
   year: 2024
   news1: <a href="https://arxiv.org/pdf/2408.12996" target="_blank">arXiv</a> <a href="https://www.sciencedirect.com/science/article/pii/S0950705124009808" target="_blank">PDF</a> <a href="https://github.com/Soonwook34/CRKT" target="_blank">Code</a>
 
-- title: Improving Multi-hop Logical Reasoning in Knowledge Graphs with Context-Aware Query Representation Learning
+- title: Improving Multi-Hop Logical Reasoning in Knowledge Graphs with Context-Aware Query Representation Learning
   authors: Jeonghoon Kim, Heesoo Jung, Hyeju Jang, <b>Hogun Park<span>&#42;</span></b>
   link:
     display: "Findings of the Association for Computational Linguistics: ACL, 2024."
@@ -270,7 +270,7 @@
   year: 2024
   news1: <a href="https://openreview.net/pdf?id=0j9ZDzMPqr" target="_blank">PDF</a> <a href="https://github.com/hjkng/unrexplainer" target="_blank">Code</a>
 
-- title: "Self-supervised Multimodal Graph Convolutional Network for Collaborative Filtering"
+- title: "Self-Supervised Multimodal Graph Convolutional Network for Collaborative Filtering"
   authors: Sungjune Kim, Gyusam Chang, Wonseok Roh, Dae-Neung Sohn, Jung-Tae Lee, <b>Hogun Park<span>&#42;</span></b>, Sangpil Kim<span>&#42;</span>
   link:
     display: "<i>Information Sciences</i>, Elsevier, 2024. (Impact Factor: 8.1; JCR Rank: Top 7.9%)"

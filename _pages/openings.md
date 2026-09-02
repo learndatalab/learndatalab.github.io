@@ -18,9 +18,11 @@ You will have the chance to work on the grand challenges of machine learning and
 
 #### Current open positions
 
-- Graph machine learning and representation learning
+- Graph generation and representation learning for combinatorial optimization
 - Mechanistic interpretability for LLMs and memory-based LLM steering
-- Multimodal knowledge graph construction and reasoning
+- Multimodal knowledge graph construction and reasoning with LLMs
+- World models for physical AI
+- Muti-agent communication and collaboration
 <!-- ML models for time-series data for domain adaptation and generalization 
 -->
 

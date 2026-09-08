@@ -49,8 +49,18 @@
   number_educ: 1
   education1: M.S.@AI, KAIST AI Ph.D. Student
 
-- name: Hongjun Jeong
+- name: Hongjun Jeong (Fall 2025)
   photo: hjjeong.jpg
   number_educ: 1
   education1: M.S.@AI, Hana Institute of Technology (하나금융융합기술원)
   
+- name: Woohyun Lee (Spring 2026)
+  photo: whkim.jpg
+  number_educ: 1
+  education1: M.S.@CSE, University of Michigan--Ann Arbor CS, Ph.D. Student
+  
+- name: Minji Kim (Spring 2026)
+  photo: mjkim.jpg
+  number_educ: 2
+  education1: M.S.@AI, Netmarble
+  education2: <a href="https://minjik01.github.io/">Personal Webpage</a>

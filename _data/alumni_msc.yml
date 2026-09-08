@@ -1,65 +1,65 @@
 - name: Soyoung Lee
   photo: soyoung.jpg
   number_educ: 1
-  education1: "M.S. in EECS, Spring 2023 · Rainbow Robotics"
+  education1: "M.S. in EECS (Spring 2023), Rainbow Robotics"
 
 - name: Kyeongrok Park
   photo: gyeongrok.jpg
   number_educ: 1
-  education1: "M.S. in AI · Visang Education"
+  education1: "M.S. in AI, Visang Education"
 
 - name: Sookyung Kim
   photo: sookyung.jpg
   number_educ: 1
-  education1: "M.S. in AI · HD Korea Shipbuilding & Offshore Engineering"
+  education1: "M.S. in AI, HD Korea Shipbuilding & Offshore Engineering"
 
 - name: Gayeong Kim
   photo: Gayoung.png
   number_educ: 1
-  education1: "M.S. in AI · LG Electronics"
+  education1: "M.S. in AI, LG Electronics"
 
 - name: Jongwon Park
   photo: Jongwon.png
   number_educ: 1
-  education1: "M.S. in AI · Visang Education"
+  education1: "M.S. in AI, Visang Education"
 
 - name: Soonwook Park
   photo: swpark.png
   number_educ: 1
-  education1: "M.S. in AI · Hyundai Card"
+  education1: "M.S. in AI, Hyundai Card"
 
 - name: Sangho Lee
   photo: sangho.jpg
   number_educ: 1
-  education1: "M.S. in AI · Hippo T&C (Military Service)"
+  education1: "M.S. in AI, Hippo T&C (Military Service)"
 
 - name: Ji Won Jeong
   photo: jiwon.jpg
   number_educ: 1
-  education1: "M.S. in AI · Lotte Innovate"
+  education1: "M.S. in AI, Lotte Innovate"
 
 - name: Jimyeong Han
   photo: jimyeong.jpg
   number_educ: 1
-  education1: "M.S. in AI · Hippo T&C (Military Service)"
+  education1: "M.S. in AI, Hippo T&C (Military Service)"
 
 - name: Minku Kang
   photo: mingu.jpg
   number_educ: 1
-  education1: "M.S. in AI · Ph.D. Student in AI, KAIST"
+  education1: "M.S. in AI, Ph.D. Student in AI at KAIST"
 
 - name: Hongjun Jeong
   photo: hjjeong.jpg
   number_educ: 1
-  education1: "M.S. in AI, Fall 2025 · Hana Institute of Technology (하나금융융합기술원)"
+  education1: "M.S. in AI (Fall 2025), Hana Institute of Technology (하나금융융합기술원)"
 
 - name: Woohyun Lee
   photo: whkim.jpg
   number_educ: 1
-  education1: "M.S. in CSE, Spring 2026 · Ph.D. Student in CS, University of Michigan–Ann Arbor"
+  education1: "M.S. in CSE (Spring 2026), Ph.D. Student in CS at the University of Michigan–Ann Arbor"
 
 - name: Minji Kim
   photo: mjkim.jpg
   number_educ: 2
-  education1: "M.S. in AI, Spring 2026 · Netmarble"
+  education1: "M.S. in AI (Spring 2026), Netmarble"
   education2: '<a href="https://minjik01.github.io/">Personal Webpage</a>'

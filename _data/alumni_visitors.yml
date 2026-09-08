@@ -19,7 +19,7 @@
 
 - name: Juhyeon Lee
   photo: rock.jpg
-  info: B.S. Student Intern
+  info: B.S. Student Intern 
   number_educ: 1
   education1: BS Student@Statistics Department, Carnegie Mellon University
 
@@ -29,5 +29,8 @@
   number_educ: 1
   education1: MS Student@Intelligent Information Systems, Carnegie Mellon University (Current Position)
 
-  
-  
+- name: Vincent Siddons
+  photo: vincent.jpg
+  info: Visiting Researcher (Spring 2026)
+  number_educ: 1
+  education1: MS Student@IIndiana University-Indianapolis  

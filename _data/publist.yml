@@ -4,7 +4,7 @@
     display: "Findings of the Association for Computational Linguistics: EMNLP, 2026."
   highlight: 0
   year: 2026
-  news1: 
+  news1: <a href="https://arxiv.org/pdf/2609.15022v1" target="_blank">arXiv</a>
 
 - title: "Beyond Node-level Relations: Hybrid Hierarchical Graphs for Multivariate Time Series Imputation under Node Blackout"
   authors: Jaehyun Bae, <b>Hogun Park<span>*</span></b>
@@ -92,7 +92,7 @@
     display: "European Conference on Computer Vision (ECCV), 2026."
   highlight: 0
   year: 2026
-  news1: <a href="https://arxiv.org/abs/2603.21944" target="_blank">arXiv</a>
+  news1: <a href="https://arxiv.org/abs/2603.21944" target="_blank">arXiv</a> <a href="https://ubin108.github.io/Group3D/" target="_blank">Project page</a> <a href="https://github.com/Ubin108/Group3D" target="_blank">Code</a>
   
 - title: "Harnessing Spatial Dependency for Domain Generalization in Multivariate Time-series Sensor Data"
   authors: Jaehyun Bae, Heesoo Jung, <b>Hogun Park<span>&#42;</span></b>

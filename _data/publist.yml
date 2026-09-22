@@ -60,7 +60,7 @@
     display: "International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2026."
   highlight: 0
   year: 2026
-  news1: 
+  news1: PDF <a href="https://github.com/jieming1113/TempoDecompGCN-PD" target="_blank">Code</a> 
 
 - title: "Uncertainty-Enhanced Spatiotemporal Framework for Sit-to-Stand Temporal Segmentation in Parkinson’s Disease"
   authors: Jieming Zhang, Tai-Myoung Chung, <b>Hogun Park<span>&#42;</span></b>

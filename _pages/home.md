@@ -8,7 +8,7 @@ permalink: /
 
 **We build AI that reasons over structure: graphs, knowledge, and multimodal data.**
 
-LearnData Lab is led by [Prof. Hogun Park](https://hogunpark.com/) in the College of Computing and Informatics at [Sungkyunkwan University (SKKU)](https://en.wikipedia.org/wiki/Sungkyunkwan_University). We develop machine learning models for complex relational data, such as interaction networks, knowledge graphs, and multi-sensor data, and make modern AI systems, from GNNs to LLMs, transparent, robust, and verifiable. Our work appears at leading venues including ICLR, ICML, KDD, WWW, CVPR, and ACL, and is applied to recommendation, healthcare, and industrial AI in collaboration with partners such as Samsung and LG. Prof. Park is currently a Visiting Scholar at UC San Diego's HDSI (2026-27).
+LearnData Lab is led by [Prof. Hogun Park](https://hogunpark.com/) in the College of Computing and Informatics at [Sungkyunkwan University (SKKU)](https://en.wikipedia.org/wiki/Sungkyunkwan_University). We develop machine learning models for complex relational data, such as interaction networks, knowledge graphs, and multi-sensor data, and make modern AI systems, from GNNs to LLMs, transparent, robust, and verifiable. Our work appears at leading venues including ICLR, ICML, KDD, WWW, CVPR, and ACL, and is applied to recommendation, healthcare, and industrial AI in collaboration with partners such as Samsung and LG. Prof. Park is currently a Visiting Scholar at UCSD's Halıcıoğlu Data Science Institute (HDSI) for the 2026–27 academic year.
 
 #### Research Areas
 

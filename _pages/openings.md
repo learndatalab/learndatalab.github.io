@@ -33,7 +33,7 @@ You will have the chance to work on the grand challenges of machine learning and
 <!-- It might be interesting to look at some past job advertisements. While the projects keep changing, the themes are still roughly the same. You can download them [here]({{ site.baseurl }}/downloads/PD.pdf), [here]({{ site.baseurl }}/downloads/PHD1.pdf), or [here]({{ site.baseurl }}/downloads/PHD2.pdf). -->
 
 #### Applications for MS/PhD and Postdoc positions
-If you are interested in working with us as a integrated MS/PhD, PhD student or postdoc, please send me an [email](mailto:hogunpark@skku.edu). State briefly why you are interested and attach a CV with transcripts.
+If you are interested in joining our group as an integrated MS/PhD student, PhD student, or postdoctoral researcher, please send me an [email](mailto:hogunpark@skku.edu) briefly explaining your research interests along with your CV and academic transcripts.
 
 **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. 
 

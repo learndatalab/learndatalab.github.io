@@ -100,7 +100,7 @@
     display: "European Conference on Computer Vision (ECCV), 2026."
   highlight: 0
   year: 2026
-  news1: <a href="https://arxiv.org/abs/2603.21944" target="_blank">arXiv</a> <a href="https://ubin108.github.io/Group3D/" target="_blank">Project page</a> <a href="https://github.com/Ubin108/Group3D" target="_blank">Code</a>
+  news1: <a href="https://arxiv.org/abs/2603.21944" target="_blank">arXiv</a> <a href="https://link.springer.com/chapter/10.1007/978-3-032-37038-9_31" target="_blank">PDF</a> <a href="https://ubin108.github.io/Group3D/" target="_blank">Project page</a> <a href="https://github.com/Ubin108/Group3D" target="_blank">Code</a>
   
 - title: "Harnessing Spatial Dependency for Domain Generalization in Multivariate Time-series Sensor Data"
   authors: Jaehyun Bae, Heesoo Jung, <b>Hogun Park<span>&#42;</span></b>

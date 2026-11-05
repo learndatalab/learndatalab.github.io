@@ -50,7 +50,7 @@ We make deep learning models transparent, robust, and verifiable across architec
 </div>
 
 
- **We are  looking for passionate new Ph.D. students (or M.S./Ph.D. integrated program students) and Postdocs to join the team.** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!** No opening for MS students for now.
+ **We are  looking for passionate new Ph.D. students (or M.S./Ph.D. integrated program students) and Postdocs to join the team.** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!** 
 
 <!--We are part of the College of Computing and Informatics (소프트웨어융합대학) at Sungkyunkwan University (SKKU) and affiliated with Computer Science Engineering (소프트웨어학과), Artificial Intelligence (인공지능대학원), and Intelligent Software (지능형소프트웨어) departments.--> 
 

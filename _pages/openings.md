@@ -34,6 +34,7 @@ You will have the chance to work on the grand challenges of machine learning and
 
 #### Applications for MS/PhD and Postdoc positions
 If you are interested in joining our group as an integrated MS/PhD student, PhD student, or postdoctoral researcher, please send me an [email](mailto:hogunpark@skku.edu) briefly explaining your research interests along with your CV and academic transcripts.
+For the Master's program, we are currently only accepting applications for the Department of AI Applications Engineering (AI응용공학과).
 
 **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. 
 
